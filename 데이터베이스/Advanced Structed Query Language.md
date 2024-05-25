@@ -160,4 +160,5 @@ where dept_total.value >= dept_total_avg.value
 - with문으로 두개의 뷰를 생성(부서별 임금 합, 부서 전체 평균 임금), 이를 비교하는 쿼리문 작성
 
 ## Scalar Subquery
-- 스칼라 서브쿼리 : 하나의 속성을 포함하는 
+- 스칼라 서브쿼리 : 하나의 속성을 포함하는 오직 하나의 튜플
+- 스칼라 서브쿼리는 having, where, select 절에서 발생함
