@@ -129,4 +129,8 @@ from instructor l1, lateral (select avg(salary) as avg_salary
 							 where l2.dept_name = l1.dept_name);
 ```
 - from 절에서 서프쿼리나 진행중인 테이블의 속성에 접근할 때 lateral 을 사용
-	- from절에서 다른 릴
+	- from절에서 다른 릴레이션에서 correlation 변수를 사용하지 말아야함
+	- 짧은 문장
+
+## With Clause
+- *with* 절은 
