@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9b2d8e43262b6ca0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d79ad58657f01d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "데이터베이스/Advanced Structed Query Language.md"
               }
             }
           }
@@ -162,6 +148,8 @@
   },
   "active": "ea7503853c2faf09",
   "lastOpenFiles": [
+    "데이터베이스/Advanced Structed Query Language.md",
+    "Welcome.md",
     "README.md",
     "paper review/unet 정리.md",
     "paper review/Pasted image 20240519122925.png",
@@ -188,8 +176,6 @@
     "딥러닝",
     "데이터베이스/image",
     "데이터베이스/StructuredQueryLanguage.md",
-    "데이터베이스/Advanced Structed Query Language.md",
-    "데이터베이스",
-    "Welcome.md"
+    "데이터베이스"
   ]
 }
