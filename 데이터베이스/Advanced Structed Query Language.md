@@ -224,13 +224,12 @@ end
 ```sql
 update student S
 
-set tot_cred= ( select sum(credits)
+	set tot_cred= ( select sum(credits)
 
-from takesnatural join course
+					from takesnatural join course
 
-where S .ID = takes .IDand
+					where S .ID = takes .IDand
 
-takes.grade<> ’F’ and
-
-takes.gradeis not null);
+						  takes.grade<> ’F’ and takes.gradeis not null);
 ```
+
