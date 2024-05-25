@@ -168,3 +168,7 @@ where dept_total.value >= dept_total_avg.value
 ```sql
 delete from instructor
 ```
+
+- 조건을 걸어 삭제할 수 있음
+
+## Modification of the 
