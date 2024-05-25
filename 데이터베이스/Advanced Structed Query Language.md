@@ -206,6 +206,8 @@ set salary = salary * 1.05
 where salary <= 100000;
 ```
 - 순서가 매우 중요함 반대가 되면 두번 업데이트가 발생하는 경우가 생김
+
+## Case statement for conditional updates
 ```sql
 update instructor
 
@@ -217,3 +219,5 @@ else salary * 1.03
 
 end
 ```
+
+## Updates with Scalar Subqueries
