@@ -138,6 +138,8 @@ from instructor l1, lateral (select avg(salary) as avg_salary
 with max_budget(value) as 
 	(select max budget
 	 from department)
+select dept_name, budget
+from department, max_budget
 
 	
 ```
