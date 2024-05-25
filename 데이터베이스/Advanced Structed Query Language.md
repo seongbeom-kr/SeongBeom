@@ -111,5 +111,12 @@ from (select dept_name, avg(salary) as avg_salary
 where avg_salary > 42000;
 ```
 - from절 안에 group by를 쓰면 주 쿼리문에서는 having을 쓰면 안됨
-- l
-- 
+
+```sql
+select dept_name, avg_salary
+from (select dept_name, avg(salary) as avg_salary
+	  from instructor
+	  group by dept_name) as dept_avg(dept_name, avg_salary)
+where avg_salary > 42000;
+```
+- from 절에 튜플형식으로 테이블 명(컬럼 이름1, 컬럼이름2..)으로도 
