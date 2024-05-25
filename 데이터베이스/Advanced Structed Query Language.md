@@ -144,4 +144,11 @@ where department.budget = max_budget.value;
 	
 ```
 
-- qhr
+- 복잡하게도 사용 가능
+```sql
+with dept_total(dept_name, value) as
+	(select dept_name, sum(salary)
+	 from instructor
+	 group by dept_name),
+dept
+```
