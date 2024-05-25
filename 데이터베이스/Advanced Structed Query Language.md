@@ -157,4 +157,4 @@ select dept_name
 from dept_total, dept_total_avg
 where dept_total.value >= dept_total_avg.value
 ```
-
+- with문으로 두개의 뷰를 생성(부서별 )
