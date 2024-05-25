@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "31b28651bbc3a680",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0242c1cd92a1309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7503853c2faf09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b2d8e43262b6ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d79ad58657f01d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02dcc7b033ba9c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "14559a20fa7db875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09db225bddcfc7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b29285dd668fd2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4f07167100fc5cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4300f6748cc1df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdca73b46643c20e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e607c5dfa4f866",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa30afc0620f5243",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32c956f232683994",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d352d73539fdeaef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ea7503853c2faf09",
+  "lastOpenFiles": [
+    "README.md",
+    "paper review/unet 정리.md",
+    "paper review/Pasted image 20240519122925.png",
+    "paper review/Pasted image 20240519122851.png",
+    "paper review/Pasted image 20240519122802.png",
+    "paper review/Auto-Encoding Variational Bayes.md",
+    "paper review",
+    "DeepLearning/합성곱신경망.md",
+    "DeepLearning/파이토치 기초 문법.md",
+    "DeepLearning/스크린샷 2024-03-07 11.10.12.png",
+    "DeepLearning/스크린샷 2024-01-22 오후 5.47.50.png",
+    "DeepLearning/스크린샷 2024-01-22 오후 5.46.42.png",
+    "DeepLearning/스크린샷 2024-01-22 오후 5.32.49.png",
+    "DeepLearning/스크린샷 2024-01-22 오후 5.29.28.png",
+    "DeepLearning/스크린샷 2024-01-22 오후 5.29.02.png",
+    "DeepLearning/스크린샷 2024-01-22 오후 4.56.47.png",
+    "DeepLearning",
+    "소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
+    "소프트웨어 공학",
+    "마크다운 정리법.md",
+    "딥러닝/수업 CNN2.md",
+    "딥러닝/image",
+    "딥러닝/CNN.md",
+    "딥러닝",
+    "데이터베이스/image",
+    "데이터베이스/StructuredQueryLanguage.md",
+    "데이터베이스/Advanced Structed Query Language.md",
+    "데이터베이스",
+    "Welcome.md"
+  ]
+}
