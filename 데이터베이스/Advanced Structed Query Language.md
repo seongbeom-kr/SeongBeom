@@ -171,4 +171,11 @@ delete from instructor
 
 - 조건을 걸어 삭제할 수 있음
 
-## Modification of the 
+## Modification of the Database - Insertion
+
+```sql
+insert into course
+	value ('cs-439', 'Database System', 'comp.sci', 4);
+```
+
+- 아니면 컬럼의 순서를 
