@@ -129,4 +129,4 @@ from instructor l1, lateral (select avg(salary) as avg_salary
 							 where l2.dept_name = l1.dept_name);
 ```
 - from 절에서 서프쿼리나 진행중인 테이블의 속성에 접근할 때 lateral 을 사용
-- 
+	- from절에서 다른 릴
