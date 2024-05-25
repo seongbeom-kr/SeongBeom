@@ -186,4 +186,6 @@ insert into course(course_id, title, dept_name, credits)
 
 - 아니면 null을 포함한 상태로 넣을 수도 있음
 
-- 
+-  select from where 문은 결과가 관계에 삽입되기 전에 완전히 평가됩니다(그렇지 않으면 테이블 1에서 전체 컬럼을 선택하여 테이블 1에 삽입하는 것과 같은 쿼리가 문제를 일으킬 수 있습니다).
+
+## Modification of t
