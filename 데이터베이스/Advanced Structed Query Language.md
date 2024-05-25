@@ -119,4 +119,10 @@ from (select dept_name, avg(salary) as avg_salary
 	  group by dept_name) as dept_avg(dept_name, avg_salary)
 where avg_salary > 42000;
 ```
-- from 절에 튜플형식으로 테이블 명(컬럼 이름1, 컬럼이름2..)으로도 
+- from 절에 튜플형식으로 테이블 명(컬럼 이름1, 컬럼이름2..)으로도 사용 가능
+- 아니면 lateral 절을 사용해도 됨
+```sql
+select dept_name, avg_salary
+from instructor l1, lateral (select avg(salary) as avg_salary
+							 f)
+```
