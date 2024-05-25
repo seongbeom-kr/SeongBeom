@@ -140,6 +140,8 @@ with max_budget(value) as
 	 from department)
 select dept_name, budget
 from department, max_budget
-
+where department.budget = max_budget.value;
 	
 ```
+
+- qhr
