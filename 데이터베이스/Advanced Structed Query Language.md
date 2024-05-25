@@ -120,6 +120,7 @@ from (select dept_name, avg(salary) as avg_salary
 where avg_salary > 42000;
 ```
 - from 절에 튜플형식으로 테이블 명(컬럼 이름1, 컬럼이름2..)으로도 사용 가능
+#### Lateral
 - 아니면 lateral 절을 사용해도 됨
 ```sql
 select dept_name, avg_salary
@@ -127,4 +128,5 @@ from instructor l1, lateral (select avg(salary) as avg_salary
 							 from instructor l2
 							 where l2.dept_name = l1.dept_name);
 ```
-- from ㅈ
+- from 절에서 서프쿼리나 진행중인 테이블의 속성에 접근할 때 lateral 을 사용
+- 
