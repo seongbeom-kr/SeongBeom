@@ -133,4 +133,11 @@ from instructor l1, lateral (select avg(salary) as avg_salary
 	- 짧은 문장
 
 ## With Clause
-- *with* 절은 
+- *with* 절은 임시 뷰를 정의하는 방법을 제공하는데, 이 정의는 with caluse가 포함된 쿼리에서만 사용할 수 있음
+```sql
+with max_budget(value) as 
+	(select max budget
+	 from department)
+
+	
+```
