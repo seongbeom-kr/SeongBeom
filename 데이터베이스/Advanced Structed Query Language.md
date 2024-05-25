@@ -111,5 +111,5 @@ from (select dept_name, avg(salary) as avg_salary
 where avg_salary > 42000;
 ```
 - from절 안에 group by를 쓰면 주 쿼리문에서는 having을 쓰면 안됨
-- 
+- l
 - 
