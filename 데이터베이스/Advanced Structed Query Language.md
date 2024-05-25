@@ -221,3 +221,16 @@ end
 ```
 
 ## Updates with Scalar Subqueries
+```sql
+update student S
+
+set tot_cred= ( select sum(credits)
+
+from takesnatural join course
+
+where S .ID = takes .IDand
+
+takes.grade<> ’F’ and
+
+takes.gradeis not null);
+```
