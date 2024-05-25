@@ -162,3 +162,9 @@ where dept_total.value >= dept_total_avg.value
 ## Scalar Subquery
 - 스칼라 서브쿼리 : 하나의 속성을 포함하는 오직 하나의 튜플
 - 스칼라 서브쿼리는 having, where, select 절에서 발생함
+
+# Modification
+## Modification of the Database - Deletion
+```sql
+delete from instructor
+```
