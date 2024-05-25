@@ -185,3 +185,5 @@ insert into course(course_id, title, dept_name, credits)
 ```
 
 - 아니면 null을 포함한 상태로 넣을 수도 있음
+
+- 
