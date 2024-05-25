@@ -124,5 +124,7 @@ where avg_salary > 42000;
 ```sql
 select dept_name, avg_salary
 from instructor l1, lateral (select avg(salary) as avg_salary
-							 f)
+							 from instructor l2
+							 where l2.dept_name = l1.dept_name);
 ```
+- from ㅈ
