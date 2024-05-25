@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0242c1cd92a1309",
+        "id": "4f155101d0a8fbac",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7503853c2faf09",
+            "id": "c86b0c0c63726d44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ea7503853c2faf09",
+  "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
     "데이터베이스/Advanced Structed Query Language.md",
     "Welcome.md",
