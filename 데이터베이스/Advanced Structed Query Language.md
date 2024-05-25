@@ -172,10 +172,16 @@ delete from instructor
 - 조건을 걸어 삭제할 수 있음
 
 ## Modification of the Database - Insertion
-
+- 값을 속성의 순서대로 입력
 ```sql
 insert into course
 	value ('cs-439', 'Database System', 'comp.sci', 4);
 ```
 
-- 아니면 컬럼의 순서를 
+- 아니면 속성의 이름을 붙여서 삽입가능
+```sql
+insert into course(course_id, title, dept_name, credits)
+	value ('cs-439', 'Database System', 'comp.sci', 4);
+```
+
+- 아니면 null을 포함한 상태로 넣을 수도 있음
