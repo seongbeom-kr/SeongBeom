@@ -1,3 +1,4 @@
+#deep_learning #generation_model
 # Abstract
 
 본 논문은 다루기 힘든 사후 분포와 대규모 데이터 세트가 있는 연속 잠재 변수가 있는 상황에서 방향성 확률 모델에서 효율적인 추론과 학습을 어떻게 수행할 수 있을까? 란 질문에서 시작된다. 우리는 큰 데이터셋에도 확장할 수 있고 가벼운 미분가능성 조건이 있다면 계산이 불가능한 경우에도 작동하는 stochastic variational inference and learning 알고리즘을 제안한다. 첫째, variational lower bound의 reparameterization이 표준적인 stochastic gradient 방법론들을 사용하여 직접적으로 최적화될 수 있는 lower bound estimator를 만들어낸다는 것을 보였다. 둘째, 각 datapoint가 연속형 잠재 변수를 가지는 i.i.d.(독립항등분포) 데이터셋에 대해서, 제안된 lower bound estimator를 사용해 approximate inference model(또는 recognition model이라고 불림)을 계산이 불가능한 사후확률에 fitting 시킴으로써 사후 추론이 특히 효율적으로 만들어질 수 있다는 점을 보인다.

@@ -11,12 +11,8 @@
             "id": "c86b0c0c63726d44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "딥러닝/CNN/CNN_.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/CNN_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/CNN_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "딥러닝/CNN/CNN_.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,10 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
+    "paper review/Auto-Encoding Variational Bayes.md",
     "딥러닝/CNN/CNN Architectures.md",
-    "딥러닝/CNN/CNN_.md",
+    "딥러닝/CNN/CNN Basic.md",
+    "README.md",
     "딥러닝/수업 CNN2.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 01.11.12.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 01.10.53.png",
@@ -164,11 +158,9 @@
     "마크다운 정리법.md",
     "딥러닝/CNN/assets",
     "딥러닝/CNN",
-    "README.md",
     "데이터베이스/Advanced Structed Query Language.md",
     "Welcome.md",
     "paper review/unet 정리.md",
-    "paper review/Auto-Encoding Variational Bayes.md",
     "paper review",
     "DeepLearning/합성곱신경망.md",
     "DeepLearning/파이토치 기초 문법.md",
