@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/CNN/CNN.md",
+                "file": "딥러닝/수업 CNN2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/CNN.md",
+                "file": "딥러닝/수업 CNN2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/CNN.md",
+                "file": "딥러닝/수업 CNN2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/CNN.md"
+                "file": "딥러닝/수업 CNN2.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
+    "딥러닝/CNN/CNN.md",
+    "딥러닝/CNN/assets/스크린샷 2024-05-27 01.11.12.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 01.10.53.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 00.56.19.png",
     "딥러닝/CNN/assets/Pasted image 20240527005326.png",
@@ -157,10 +159,7 @@
     "딥러닝/CNN/assets/Pasted image 20240527004935.png",
     "딥러닝/CNN/assets/images_hayaseleu_post_6d8c0dd4-de66-4f06-bef1-fd58807da61a_2.gif",
     "딥러닝/CNN/assets/Pasted image 20240527004746.png",
-    "딥러닝/CNN/assets/Pasted image 20240527004044.png",
-    "딥러닝/CNN/assets/Pasted image 20240527003844.png",
     "마크다운 정리법.md",
-    "딥러닝/CNN/CNN.md",
     "딥러닝/CNN/assets",
     "딥러닝/CNN/무제 파일.md",
     "딥러닝/수업 CNN2.md",
