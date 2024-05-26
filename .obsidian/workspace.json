@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -140,6 +141,7 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
+    "DeepLearning/파이토치 기초 문법.md",
     "Screenshot 2024-01-08 at 11.06.17 AM.png.md",
     "README.md",
     "Welcome.md",
@@ -165,7 +167,6 @@
     "데이터베이스/Advanced Structed Query Language.md",
     "paper review/unet 정리.md",
     "paper review",
-    "DeepLearning/파이토치 기초 문법.md",
     "DeepLearning",
     "소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
     "소프트웨어 공학",
