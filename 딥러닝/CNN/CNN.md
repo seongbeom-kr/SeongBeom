@@ -485,7 +485,9 @@ $$f(x) = f(g(x))$$
 
 이때 겹치는 영역이 생기면, 그부분의 픽셀 값은 더해준다.
 
-![[Pasted image 20240527004951.png]]
+![[Pasted image 20240527004951.png]]{: color : "white"}
+
+
 
 ![[Pasted image 20240527004946.png]]
 
