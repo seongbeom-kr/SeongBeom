@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/CNN Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/CNN Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/CNN Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md"
+                "file": "딥러닝/CNN/CNN Basic.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
-    "딥러닝/CNN/CNN Basic.md",
     "딥러닝/CNN/CNN Architectures.md",
+    "딥러닝/CNN/CNN Basic.md",
     "DeepLearning/파이토치 기초 문법.md",
     "Screenshot 2024-01-08 at 11.06.17 AM.png.md",
     "README.md",
