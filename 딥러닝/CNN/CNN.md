@@ -487,7 +487,7 @@ $$f(x) = f(g(x))$$
 
 ![[Pasted image 20240527004746.png]]
 
-
+![[images_hayaseleu_post_6d8c0dd4-de66-4f06-bef1-fd58807da61a_2.gif]]
 
 
 ## 질문 -> 20분까지
