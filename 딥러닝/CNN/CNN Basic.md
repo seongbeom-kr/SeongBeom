@@ -1,4 +1,4 @@
-#책 #deep_learning #CNN 
+#deep_learning #CNN #basic
 *0513일 딥러닝(오민식교수님)수업과 딥러닝 교과서를 참고함*
 > 
 
