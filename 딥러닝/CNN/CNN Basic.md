@@ -510,6 +510,7 @@ $$f(x) = f(g(x))$$
 ![[스크린샷 2024-05-27 01.11.12.png]]
 
 
+# 강의내용
 
 ## 질문 -> 20분까지
 인풋에 대해 커널을 통해 결과를 만들어내는게 컨볼루션, 커널이 필터, 결과를 통해 인풋의 여러 미쳐를 뽑아내고, 뽑아낸 피쳐를 이용해 모델을 학습?
@@ -530,5 +531,5 @@ avg나 max냐 정답은 없음 -> 하지만 max를 더 많이 쓰는데 noise ro
 ## 초창기 cnn기반 classification : Lenet-5
 cnn -> cnn -> fc -> fc -> classification
 
-# Variants of the Convolution
+## Variants of the Convolution
 ## Receptive Field
