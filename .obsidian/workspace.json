@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/수업 CNN2.md",
+                "file": "딥러닝/CNN/CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/수업 CNN2.md",
+                "file": "딥러닝/CNN/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/수업 CNN2.md",
+                "file": "딥러닝/CNN/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/수업 CNN2.md"
+                "file": "딥러닝/CNN/CNN.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
-    "딥러닝/image/스크린샷 2024-05-20 12.40.24.png",
     "딥러닝/수업 CNN2.md",
+    "딥러닝/image/스크린샷 2024-05-20 12.40.24.png",
     "딥러닝/CNN/CNN.md",
     "딥러닝/CNN",
     "README.md",
@@ -169,7 +169,6 @@
     "DeepLearning/스크린샷 2024-01-22 오후 5.32.49.png",
     "DeepLearning/스크린샷 2024-01-22 오후 5.29.28.png",
     "DeepLearning/스크린샷 2024-01-22 오후 5.29.02.png",
-    "DeepLearning/스크린샷 2024-01-22 오후 4.56.47.png",
     "DeepLearning",
     "소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
     "소프트웨어 공학",
