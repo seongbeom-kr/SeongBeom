@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/RNN/RNN.md",
+                "file": "데이터베이스/StructuredQueryLanguage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/RNN/RNN.md",
+                "file": "데이터베이스/StructuredQueryLanguage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/RNN/RNN.md",
+                "file": "데이터베이스/StructuredQueryLanguage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/RNN/RNN.md"
+                "file": "데이터베이스/StructuredQueryLanguage.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
-    "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/RNN/RNN.md",
+    "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/RNN",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 02.43.31.png",
     "딥러닝/CNN/assets/Pasted image 20240527023538.png",
