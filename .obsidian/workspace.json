@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/CNN/CNN Basic.md",
+                "file": "데이터베이스/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/CNN Basic.md",
+                "file": "데이터베이스/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/CNN Basic.md",
+                "file": "데이터베이스/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/CNN Basic.md"
+                "file": "데이터베이스/Index.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "c86b0c0c63726d44",
   "lastOpenFiles": [
-    "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/CNN/CNN Basic.md",
+    "데이터베이스/Index.md",
+    "딥러닝/CNN/CNN Architectures.md",
     "데이터베이스/StructuredQueryLanguage.md",
     "데이터베이스/Advanced Structed Query Language.md",
     "딥러닝/RNN/RNN.md",
