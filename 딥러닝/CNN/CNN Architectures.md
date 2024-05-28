@@ -48,4 +48,8 @@
 
 CONV1, CONV2, CONV5에서는 `3x3, 2` 로 맥스 풀링하며 한 픽셀씩 겹치도록 풀링한다.
 
-CONV1과 CONV2에서는 지역응답정규화라고 불리는 LRN(local res
+CONV1과 CONV2에서는 지역응답정규화라고 불리는 _LRN(local response normalization)_ 방식으로 출력을 정규화한다.
+
+LRN정규화는 픽셀별로 이웃 채널의 픽셀을 이용하여 정규화하는 방식으로 지금은 잘 사용하지 않는다.
+
+ReLU의 출력이 무한히 커질 수 있으므로 이를 막기 위하
