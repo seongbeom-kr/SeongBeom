@@ -27,8 +27,9 @@
 
 - Primary index : 순차적으로 저장된 파일에서는, search key의 인덱스는 파일의 순차적인 정렬을 명시한다.
 	- 클러스터링 인덱스라고도 함
-	- 기본 인덱스의 search key는 보통 
-- Secondary index : 
+	- 기본 인덱스의 search key는 보통 기본키이지만 필수는 아니다.
+- Secondary index : 검색키의 인덱스는 순차정렬된 파일과 다른 형태의 정렬을 명시한다.
+	- Non - c
 
 
 
