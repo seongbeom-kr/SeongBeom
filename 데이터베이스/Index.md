@@ -20,7 +20,11 @@
 
 - Indices의 두가지 기본 종류
 	- 정렬된 Indices : Search Keys가 정렬된 상태로 저장된다.
-	- Hash In
+	- Hash Indices : 해쉬함수를 사용
+
+## Ordered Indices $\star^5$ 
+- 정렬된 인덱스에서, 인덱스 엔트리들은 
+
 
 
 
