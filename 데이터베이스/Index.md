@@ -26,7 +26,8 @@
 - 정렬된 인덱스에서, 인덱스 엔트리들은 search key 값에 정렬된 상태로 저장된다.
 
 - Primary index : 순차적으로 저장된 파일에서는, search key의 인덱스는 파일의 순차적인 정렬을 명시한다.
-
+	- 클러스터링 인덱스라고도 함
+	- 기본 인덱스의 search key는 보통 
 - Secondary index : 
 
 
