@@ -23,7 +23,9 @@
 	- Hash Indices : 해쉬함수를 사용
 
 ## Ordered Indices $\star^5$ 
-- 정렬된 인덱스에서, 인덱스 엔트리들은 
+- 정렬된 인덱스에서, 인덱스 엔트리들은 search key 값에 정렬된 상태로 저장된다.
+
+- Primary index : 순차적으로 저장된 파일에서
 
 
 
