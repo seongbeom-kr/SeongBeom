@@ -14,4 +14,7 @@
 
 __Search Key__ : 파일에서 튜플(레코드)를 찾기 위해 사용되는 속성들의 집합(또는 속성 하나)
 
-__Index file__ 은 
+__Index file__ 은 레코드 형태로 구성된다. // index entries or record
+
+인덱스 파일들은 원본 파일보다 매우 작
+
