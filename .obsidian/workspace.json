@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f155101d0a8fbac",
+        "id": "8b0cc9379a4a2219",
         "type": "tabs",
         "children": [
           {
-            "id": "c86b0c0c63726d44",
+            "id": "1b589d3774172c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -147,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "1b589d3774172c2e",
   "lastOpenFiles": [
     "딥러닝/CNN/CNN Basic.md",
+    "assets/스크린샷.md",
     "딥러닝/CNN/CNN Architectures.md",
+    "assets",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 15.33.17.png",
     "딥러닝/CNN/assets/Pasted image 20240529152549.png",
     "딥러닝/CNN/assets/Pasted image 20240529152521.png",
@@ -184,7 +185,6 @@
     "소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
     "소프트웨어 공학",
     "딥러닝/image",
-    "딥러닝",
-    "데이터베이스/image"
+    "딥러닝"
   ]
 }
