@@ -349,4 +349,8 @@ _프렉탈넷(FractalNet)_ 은 잔차 구조보다는 얕은 네트워크에서 
 ### MobileNet
 모바일 및 임베디드 비전 어플리케이션을 위해 개발되었으며 Depthwise separable convolution을 사용하여 Deep Neural Network를 구축한 모델이다.
 
-모바일넷은 Dept
+모바일넷은 Depthwise separable convolution을 사용하여 계산 및 모델의 파라미터 수를 대폭 줄였다.
+
+
+
+# Transfer Learning
