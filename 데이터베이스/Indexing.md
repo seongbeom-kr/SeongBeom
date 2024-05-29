@@ -69,6 +69,7 @@
 ![](https://lucid.app/publicSegments/view/395be250-b56a-4507-896c-9b217e909e79/image.png)
 
 ## Secondary Indices
-- 종종, 사람들은 어떤 조건을 만족하는 특정 필드
+- 종종, 사람들은 어떤 조건을 만족하는 특정 필드에 있는 값들을 가진 모든 레코드들을 찾길 원한다.
+- secondary index를 사용해서 찾는다.
 
 
