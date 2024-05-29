@@ -34,6 +34,8 @@
 
 - Index - sequential file : 기본인덱스를 가진 순차정렬 파일 
 
-
+## Dense Index Files 
+- Dense index : 인덱스 레코드는 파일에 있는 모든 검색키 값에 대해 나타낸다
+- Dense index 
 
 
