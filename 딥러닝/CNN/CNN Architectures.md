@@ -351,6 +351,3 @@ _프렉탈넷(FractalNet)_ 은 잔차 구조보다는 얕은 네트워크에서 
 
 모바일넷은 Depthwise separable convolution을 사용하여 계산 및 모델의 파라미터 수를 대폭 줄였다.
 
-
-
-# Transfer Learning
