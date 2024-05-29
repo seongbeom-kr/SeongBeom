@@ -59,7 +59,8 @@
 
 - 데이터 블록마다 오직 한 개의 Key - Pointer 쌍을 보유한다.
 - 훨씬 적은 공간을 사용하지만 주어진 레코드의 Key를 찾는데 더 많은 시간이 걸린다.
-- 인덱스
+- ![](https://lucid.app/publicSegments/view/b86349a6-1468-49be-bc4f-893c5ec5fe19/image.png)
+- 
 
 - 
 
