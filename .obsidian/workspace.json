@@ -11,9 +11,11 @@
             "id": "4fb92ba3f981a539",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png"
+                "file": "데이터베이스/Indexing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
+                "file": "데이터베이스/Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
+                "file": "데이터베이스/Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png"
+                "file": "데이터베이스/Indexing.md"
               }
             }
           }
@@ -146,6 +149,7 @@
   },
   "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
+    "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
     "딥러닝/CNN/CNN Architectures.md",
     "assets/Pasted.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
@@ -161,7 +165,7 @@
     "딥러닝/CNN/assets/Pasted image 20240529143108.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 14.25.00.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-28 22.16.26.png",
-    "데이터베이스/Index.md",
+    "데이터베이스/Indexing.md",
     "데이터베이스/assets",
     "데이터베이스/StructuredQueryLanguage.md",
     "데이터베이스/Advanced Structed Query Language.md",
