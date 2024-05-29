@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0cc9379a4a2219",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b589d3774172c2e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "71bc4f196ff9a08c",
         "type": "tabs",
         "children": [
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
+                "file": "딥러닝/CNN/CNN Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
+                "file": "딥러닝/CNN/CNN Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png"
+                "file": "딥러닝/CNN/CNN Architectures.md"
               }
             }
           }
@@ -162,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1b589d3774172c2e",
+  "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
-    "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
+    "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
     "딥러닝/CNN/CNN Basic.md",
     "assets/스크린샷.md",
