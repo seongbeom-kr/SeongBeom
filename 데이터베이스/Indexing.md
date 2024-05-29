@@ -36,6 +36,9 @@
 
 ## Dense Index Files 
 - Dense index : 인덱스 레코드는 파일에 있는 모든 검색키 값에 대해 나타낸다
-- Dense index 
+
+## Sparse Index Files 
+- Sparse Index : 희소 인덱스는 오직 몇몇개의 검색키 값들을 포함한다,
+	- 전제조건으로는 검색
 
 
