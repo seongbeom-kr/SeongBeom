@@ -347,3 +347,5 @@ _프렉탈넷(FractalNet)_ 은 잔차 구조보다는 얕은 네트워크에서 
 ![rmyYb2E.png](https://i.imgur.com/rmyYb2E.png)
 
 ### MobileNet
+모바일 및 임베디드 비전 어플리케이션을 위한 모델
+
