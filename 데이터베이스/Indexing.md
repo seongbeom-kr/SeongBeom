@@ -68,6 +68,7 @@
 - 이럴때 인덱스를 위한 인덱스를 사용
 ![](https://lucid.app/publicSegments/view/395be250-b56a-4507-896c-9b217e909e79/image.png)
 
-- 
+## Secondary Indices
+- 종종, 사람들은 어떤 조건을 만족하는 특정 필드
 
 
