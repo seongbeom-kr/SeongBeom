@@ -11,11 +11,9 @@
             "id": "4fb92ba3f981a539",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
-                "mode": "source",
-                "source": false
+                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md"
+                "file": "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png"
               }
             }
           }
@@ -149,8 +146,8 @@
   },
   "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
-    "assets/Pasted.md",
     "딥러닝/CNN/CNN Architectures.md",
+    "assets/Pasted.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
     "딥러닝/CNN/CNN Basic.md",
