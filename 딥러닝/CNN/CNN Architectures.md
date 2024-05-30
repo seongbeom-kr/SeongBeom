@@ -295,7 +295,7 @@ VGG16은 계층별로 특징을 추출해서 사용할 때가 많으므로 계�
 
 
 # 컨볼루션 신경망 비교
-<!--⚠️Imgur upload failed, check dev console-->
+
 ![[Pasted image 20240530114247.png]]
 
 모델별 정확도, 연산량 모델 크기 비교
