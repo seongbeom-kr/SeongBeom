@@ -9,7 +9,8 @@
 ## 1.1 모델구조
 르넷-5는 `CONV - POOL - CONV - POOL - FC - FC - FC`로 구성된 7계층 모델이다.
 
-![[assets/Pasted image 20240527023538.png]]
+![](https://i.imgur.com/JJvDwge.png)
+
 
 컨볼루션 계층과 풀링 계층을 2번 씩 반복한 뒤 완전 연결 3계층으로 연결되는 구조다.
 
