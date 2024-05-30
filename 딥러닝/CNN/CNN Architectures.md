@@ -4,6 +4,7 @@
 # 1. LeNet - 5
 > 최초의 컨볼루션 신경망
 
+![](https://i.imgur.com/ZQFiXiX.png)
 
 ## 1.1 모델구조
 르넷-5는 `CONV - POOL - CONV - POOL - FC - FC - FC`로 구성된 7계층 모델이다.
