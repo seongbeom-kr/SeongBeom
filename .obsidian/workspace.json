@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/CNN Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/CNN Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md",
+                "file": "딥러닝/CNN/CNN Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/CNN/CNN Architectures.md"
+                "file": "딥러닝/CNN/CNN Basic.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
+    "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
-    "딥러닝/CNN/CNN Architectures.md",
     "데이터베이스/Indexing.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
     "assets/Pasted.md",
@@ -164,7 +164,6 @@
     "딥러닝/CNN/assets/스크린샷 2024-05-29 14.41.19.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 14.33.21.png",
     "딥러닝/CNN/assets/Pasted image 20240529143108.png",
-    "딥러닝/CNN/assets/스크린샷 2024-05-29 14.25.00.png",
     "데이터베이스/assets",
     "데이터베이스/StructuredQueryLanguage.md",
     "데이터베이스/Advanced Structed Query Language.md",
