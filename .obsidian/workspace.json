@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"![[스크린샷 2024-05-27 02.33.09.png]]\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,13 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b29285dd668fd2f",
+  "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
+    "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
+    "딥러닝/CNN/CNN Architectures.md",
     "데이터베이스/Indexing.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
-    "딥러닝/CNN/CNN Architectures.md",
     "assets/Pasted.md",
-    "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
     "딥러닝/CNN/CNN Basic.md",
     "assets/스크린샷.md",
