@@ -1,3 +1,4 @@
+#DB 
 # Dictionary = catalog
 ## Data Dictionary
 - DBMS가 관리하는 모든 정보를 저장하는 카탈로그
