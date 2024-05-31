@@ -111,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "데이터베이스/Advanced Structed Query Language.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,8 +168,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fbb9936785d36e52",
+  "active": "b83108c133fafb60",
   "lastOpenFiles": [
+    "데이터베이스/Advanced Structed Query Language.md",
     "딥러닝/CNN/CNN Basic.md",
     "데이터베이스/Indexing.md",
     "데이터베이스/StructuredQueryLanguage.md",
@@ -195,7 +192,6 @@
     "딥러닝/CNN/assets/스크린샷 2024-05-29 14.33.21.png",
     "딥러닝/CNN/assets/Pasted image 20240529143108.png",
     "데이터베이스/assets",
-    "데이터베이스/Advanced Structed Query Language.md",
     "딥러닝/RNN",
     "DeepLearning/파이토치 기초 문법.md",
     "Screenshot 2024-01-08 at 11.06.17 AM.png.md",
