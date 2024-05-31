@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b83108c133fafb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝/CNN/CNN Basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4fb92ba3f981a539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스/Indexing.md",
+                "file": "assets/Pasted.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스/Indexing.md",
+                "file": "assets/Pasted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스/Indexing.md",
+                "file": "assets/Pasted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터베이스/Indexing.md"
+                "file": "assets/Pasted.md"
               }
             }
           }
@@ -148,14 +161,15 @@
   },
   "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
-    "딥러닝/수업 CNN2.md",
-    "딥러닝/Regularization.md",
-    "딥러닝/RNN/RNN.md",
     "딥러닝/CNN/CNN Basic.md",
     "딥러닝/CNN/CNN Architectures.md",
+    "딥러닝/Regularization.md",
+    "딥러닝/수업 CNN2.md",
+    "데이터베이스/StructuredQueryLanguage.md",
+    "데이터베이스/Indexing.md",
+    "딥러닝/RNN/RNN.md",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
     "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
-    "데이터베이스/Indexing.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
     "assets/Pasted.md",
     "딥러닝/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
@@ -168,7 +182,6 @@
     "딥러닝/CNN/assets/스크린샷 2024-05-29 14.33.21.png",
     "딥러닝/CNN/assets/Pasted image 20240529143108.png",
     "데이터베이스/assets",
-    "데이터베이스/StructuredQueryLanguage.md",
     "데이터베이스/Advanced Structed Query Language.md",
     "딥러닝/RNN",
     "DeepLearning/파이토치 기초 문법.md",
