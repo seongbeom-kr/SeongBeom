@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/Regularization.md",
+                "file": "데이터베이스/Indexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/Regularization.md",
+                "file": "데이터베이스/Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/Regularization.md",
+                "file": "데이터베이스/Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/Regularization.md"
+                "file": "데이터베이스/Indexing.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "4fb92ba3f981a539",
   "lastOpenFiles": [
-    "딥러닝/RNN/RNN.md",
+    "딥러닝/수업 CNN2.md",
     "딥러닝/Regularization.md",
+    "딥러닝/RNN/RNN.md",
     "딥러닝/CNN/CNN Basic.md",
     "딥러닝/CNN/CNN Architectures.md",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
@@ -177,7 +178,6 @@
     "create a link.md",
     "DeepLearning/합성곱신경망.md",
     "paper review/Auto-Encoding Variational Bayes.md",
-    "딥러닝/수업 CNN2.md",
     "마크다운 정리법.md",
     "딥러닝/CNN/assets",
     "딥러닝/CNN",
