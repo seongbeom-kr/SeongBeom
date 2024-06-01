@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "color-extend"
+  ]
 }
