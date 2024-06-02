@@ -266,5 +266,10 @@ LSTM의 핵심은 Cell state이다.
 - tanh layer를 통해 새로운 후보 값들인 ~$Ct​$라는 vector를 만들고, $i_t$​와 ~$Ct$​의 정보를 합쳐, cell state를 업데이트할 재료를 만들게 된다.
 
 ##### State Update
-
 ![](https://i.imgur.com/TZx7bs6.png)
+- 이전 cell state인 $C_{t−1}$​를 업데이트해서 새로운 cell state인 $C_t$​를 만드는 단계이다.
+- 이전 cell state를 얼마나 잊을건지(forget gate) 곱셈
+- 현재 cell state를 얼마나 반영할건지(inpute gate) 덧셈
+- 최종 결과를 다음 상태의 cell state로 내보낸다.
+
+##### Output Gate
