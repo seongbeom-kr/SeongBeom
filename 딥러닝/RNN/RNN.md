@@ -263,4 +263,8 @@ LSTM의 핵심은 Cell state이다.
 ![](https://i.imgur.com/IkAjUWl.png)
 - 현재 정보를 얼마나 기억할 것인지에 대한 단계이다.
 - 이 단계에서는,$h_{t−1}$​와 $x_t$​를 받아서, sigmoid layer를 통해 $i_t$​를 구한 뒤
-- tanh layer를 통해 새로운 후보 값들인 $~~Ct​$라는 vector를 만들고, it​와 ~Ct​의 정보를 합쳐, cell state를 업데이트할 재료를 만들게 된다.
+- tanh layer를 통해 새로운 후보 값들인 ~$Ct​$라는 vector를 만들고, $i_t$​와 ~$Ct$​의 정보를 합쳐, cell state를 업데이트할 재료를 만들게 된다.
+
+##### State Update
+
+![](https://i.imgur.com/TZx7bs6.png)
