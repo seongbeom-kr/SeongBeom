@@ -225,3 +225,8 @@ LSTM은 셀 구조로 되어있어 셀에는 기본 순환 신경망에 있던 �
 
 ###  LSTM 셀구조
 LSTM의 핵심은 Cell state이다. 
+
+#### 모듈요소
+![](https://i.imgur.com/YMukQih.png)
+- 노란 박스는 학습된 레이어를 뜻함
+- q
