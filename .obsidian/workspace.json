@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dba6eec2ebf6bcd6",
+        "id": "bd326f0d4761a8ce",
         "type": "tabs",
         "children": [
           {
-            "id": "9839ef435169a8a7",
+            "id": "a711381254718cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9839ef435169a8a7",
+  "active": "a711381254718cdf",
   "lastOpenFiles": [
     "딥러닝/RNN/RNN.md",
     "데이터베이스/Advanced Structed Query Language.md",
