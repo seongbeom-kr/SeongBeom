@@ -273,3 +273,8 @@ LSTM의 핵심은 Cell state이다.
 - 최종 결과를 다음 상태의 cell state로 내보낸다.
 
 ##### Output Gate
+![](https://i.imgur.com/qKL1ZDN.png)
+- 다음 State로 내보낼 output(hidden state)을 구하는 단계.
+- cell state에 tanh를 취한 뒤
+- $h_{t−1}​$와 $x_t​$를 받아 sigmoid layer를 통해$o_t$​를 계산한 후
+- $o_t$​와 tanh 결과를 곱해 output(hidden state)을 내보낸다.
