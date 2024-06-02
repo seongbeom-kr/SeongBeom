@@ -229,4 +229,5 @@ LSTM의 핵심은 Cell state이다.
 #### 모듈요소
 ![](https://i.imgur.com/YMukQih.png)
 - 노란 박스는 학습된 레이어를 뜻함
-- q
+- 분홍색 동그라미는 vector합과 같은 pointwise 연산을 뜻함
+- 
