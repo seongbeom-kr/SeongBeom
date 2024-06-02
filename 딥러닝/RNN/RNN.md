@@ -237,3 +237,8 @@ LSTM의 핵심은 Cell state이다.
 - 메모리와 같은 존재이며, 컨베이어 벨트와 같아서 State가 꽤 오래 경과하더라도 gradient가 잘 전파된다.
 - Gate라 불리는 구조에 의해 정보가 추가되거나 제거된다.
 - Gate는 학습을 통해 어떤 정보를 유지하고 어떤 정보를 버릴 지 학습한다.
+
+#### gate
+![](https://i.imgur.com/8DQ9Mba.png)
+
+- LSTM은 3개의 Gate를 가지고 있고
