@@ -241,4 +241,7 @@ LSTM의 핵심은 Cell state이다.
 #### gate
 ![](https://i.imgur.com/8DQ9Mba.png)
 
-- LSTM은 3개의 Gate를 가지고 있고
+- LSTM은 3개의 Gate를 가지고 있고, 이 게이트들은 셀 상태를 보호하고 제어한다.
+> [!page]+
+> - 망각게이트 : 과거 정보를 잊기 위한 게
+
