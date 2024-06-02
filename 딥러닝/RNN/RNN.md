@@ -278,3 +278,7 @@ LSTM의 핵심은 Cell state이다.
 - cell state에 tanh를 취한 뒤
 - $h_{t−1}​$와 $x_t​$를 받아 sigmoid layer를 통해$o_t$​를 계산한 후
 - $o_t$​와 tanh 결과를 곱해 output(hidden state)을 내보낸다.
+
+##### 그레디언트 흐름은 다음과 같음
+
+![](https://i.imgur.com/pVZbmJi.png)
