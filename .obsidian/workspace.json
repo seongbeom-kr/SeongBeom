@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "020b00688878a8cf",
+        "id": "4d65d5a296ab320d",
         "type": "tabs",
         "children": [
           {
-            "id": "94b859f5ddb47b14",
+            "id": "1a150c7c8bd09241",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "딥러닝/RNN/RNN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/RNN/RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/RNN/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "딥러닝/RNN/RNN.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,48 +138,47 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "1a150c7c8bd09241",
   "lastOpenFiles": [
-    "무제 폴더",
-    "딥러닝/수업 CNN2.md",
-    "딥러닝/Regularization.md",
-    "데이터베이스/Advanced Structed Query Language.md",
-    "딥러닝/RNN/RNN.md",
-    "데이터베이스/Indexing.md",
+    "학습/딥러닝/RNN/RNN.md",
+    "학습",
+    "학습/딥러닝/수업 CNN2.md",
+    "학습/딥러닝/Regularization.md",
+    "학습/데이터베이스/Advanced Structed Query Language.md",
+    "학습/데이터베이스/Indexing.md",
     "extended-colorschemes.css",
-    "딥러닝/CNN/CNN Basic.md",
-    "데이터베이스/StructuredQueryLanguage.md",
+    "학습/딥러닝/CNN/CNN Basic.md",
+    "학습/데이터베이스/StructuredQueryLanguage.md",
     "assets/Pasted.md",
-    "딥러닝/CNN/CNN Architectures.md",
+    "학습/딥러닝/CNN/CNN Architectures.md",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
-    "딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
-    "딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
-    "딥러닝/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
+    "학습/딥러닝/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
+    "학습/딥러닝/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
+    "학습/딥러닝/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
     "assets/스크린샷.md",
     "assets",
-    "딥러닝/CNN/assets/스크린샷 2024-05-29 15.33.17.png",
-    "딥러닝/CNN/assets/Pasted image 20240529152549.png",
-    "딥러닝/CNN/assets/Pasted image 20240529152521.png",
-    "딥러닝/CNN/assets/스크린샷 2024-05-29 14.41.19.png",
-    "딥러닝/CNN/assets/스크린샷 2024-05-29 14.33.21.png",
-    "딥러닝/CNN/assets/Pasted image 20240529143108.png",
-    "데이터베이스/assets",
-    "딥러닝/RNN",
+    "학습/딥러닝/CNN/assets/스크린샷 2024-05-29 15.33.17.png",
+    "학습/딥러닝/CNN/assets/Pasted image 20240529152549.png",
+    "학습/딥러닝/CNN/assets/Pasted image 20240529152521.png",
+    "학습/딥러닝/CNN/assets/스크린샷 2024-05-29 14.41.19.png",
+    "학습/딥러닝/CNN/assets/스크린샷 2024-05-29 14.33.21.png",
+    "학습/딥러닝/CNN/assets/Pasted image 20240529143108.png",
+    "학습/데이터베이스/assets",
+    "학습/딥러닝/RNN",
     "DeepLearning/파이토치 기초 문법.md",
     "Screenshot 2024-01-08 at 11.06.17 AM.png.md",
     "README.md",
     "Welcome.md",
     "create a link.md",
-    "DeepLearning/합성곱신경망.md",
-    "paper review/Auto-Encoding Variational Bayes.md",
+    "학습/DeepLearning/합성곱신경망.md",
+    "논문리뷰/Auto-Encoding Variational Bayes.md",
     "마크다운 정리법.md",
-    "딥러닝/CNN/assets",
-    "딥러닝/CNN",
-    "paper review/unet 정리.md",
-    "paper review",
-    "DeepLearning",
-    "소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
-    "소프트웨어 공학",
-    "딥러닝/image"
+    "학습/딥러닝/CNN/assets",
+    "학습/딥러닝/CNN",
+    "논문리뷰/unet 정리.md",
+    "논문리뷰",
+    "학습/DeepLearning",
+    "학습/소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
+    "학습/소프트웨어 공학"
   ]
 }
