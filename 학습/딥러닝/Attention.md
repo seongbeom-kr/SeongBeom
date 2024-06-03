@@ -1,5 +1,8 @@
 #deep_learning 
 
+> [!note]+ 개요
+> LSTM과 GRU와 같은 순환신경망 구조가 등장하면서 장기 의존성 문제와 그라디언트 폭발 문제를 조금 완화했지만 구
+
 # Transformer
 S2S모델
 인코더의 스택
