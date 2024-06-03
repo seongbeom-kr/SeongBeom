@@ -3,5 +3,5 @@
   "spellcheck": false,
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": false,
-  "readableLineLength": false
+  "readableLineLength": true
 }
