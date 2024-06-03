@@ -3,6 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "color-extend"
+    "color-extend",
+    "dashboard"
   ]
 }
