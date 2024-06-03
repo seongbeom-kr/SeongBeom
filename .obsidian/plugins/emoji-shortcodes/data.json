@@ -4,6 +4,10 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":bookmark:",
+    ":file_folder:",
+    ":memo:",
+    ":card_file_box:",
     ":desktop_computer:",
     ":open_book:",
     ":bookmark_tabs:"
