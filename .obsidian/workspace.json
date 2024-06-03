@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "32dfce8e9d884829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "학습/딥러닝/Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "학습/딥러닝/Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "학습/딥러닝/Attention.md"
               }
             }
           }
@@ -160,13 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32dfce8e9d884829",
+  "active": "952e806c907f75c8",
   "lastOpenFiles": [
+    "HOME.md",
     "학습/딥러닝/Attention.md",
     "학습/딥러닝/Regularization.md",
     "학습/딥러닝/수업 CNN2.md",
     "학습/딥러닝/CNN/CNN Architectures.md",
-    "HOME.md",
     "학습/딥러닝/RNN/RNN.md",
     "학습",
     "학습/데이터베이스/Advanced Structed Query Language.md",
