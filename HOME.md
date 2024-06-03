@@ -1,5 +1,6 @@
 ---
 cssclasses:
+  - dashboard
 ---
 
 ## 학습
