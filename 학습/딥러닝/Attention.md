@@ -48,6 +48,8 @@ $$softmax(socre(q,k))$$
 
 ### 어텐션 계산 방식
 
+
+
 # Transformer
 S2S모델
 인코더의 스택
