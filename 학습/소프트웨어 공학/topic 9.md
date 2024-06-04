@@ -22,7 +22,8 @@ validation : 소프트웨어는 사용자가 원하는 바를 수행해야함
 
 ### 목표
 개발자 및 고객에게 소프트웨어가 요구사항을 만족함을 증명 -> Validation Testing
-- 
+- for custom software : 요구사항 명세서에 있는 모든 요구사항에 대해 적어도 하나의 테스트 수행
+- for generic software product : 모든 시스템 기능에 대한 테스트 + 기능들의 각종 조합에 대한 테스트
 ## system testing
 
 ## testing policies
