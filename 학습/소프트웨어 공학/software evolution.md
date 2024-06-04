@@ -17,3 +17,6 @@ phase- out
 - 소프트웨어를 사용하고 있으나 어떠한 변경도 수행되어지지않음
 
 ### change identification and evolution processes
+
+### 진화 과정
+CR -> 영향분석 -> 릴리즈 계획[3가지 ] -> 구현()
