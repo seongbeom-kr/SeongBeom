@@ -29,6 +29,10 @@ validation : 소프트웨어는 사용자가 원하는 바를 수행해야함
 - 원인을 파악
 
 
+![](https://i.imgur.com/HeUjo61.png)
+
+# Inspection and Testing
+## i
 ## system testing
 
 ## testing policies
