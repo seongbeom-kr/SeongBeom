@@ -70,10 +70,13 @@ software 테스팅
 #### 체크요소
 - data faults : 초기화, 상수 명명, 배열사이즈, 오버플로우 등
 - control faults : 조건 정확, 무한루프방지, 등
-- input / output faults 입력, 출력 벼
-- interface faults
-- storage managements
-- exception managements
+- input / output faults 입력, 출력 변수 상태 확인, 예상외 입력 유도
+- interface faults : 파라미터 정확? 전달? 타입호환? 
+- storage managements : 저장 방법에 대한 이야기
+- exception managements : 예외 조건 다 만족?
+
+### inspection rate
+
 
 
 
