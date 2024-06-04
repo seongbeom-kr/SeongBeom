@@ -68,7 +68,10 @@ software 테스팅
 - 프로그래밍 언어가 약한 타입일수록 리스트가 큼
 
 #### 체크요소
-데이터 fal
+- data faults 
+- control faults
+- input / output faults 
+- 
 
 
 
