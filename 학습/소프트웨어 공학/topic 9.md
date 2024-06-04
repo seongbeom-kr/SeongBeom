@@ -54,6 +54,9 @@ software 테스팅
 발견된 에러를 수정하기 위한 조치를 수행
 필요에 따라 재검사 수행
 
+
+
+
 ## system testing
 
 ## testing policies
