@@ -19,4 +19,7 @@ phase- out
 ### change identification and evolution processes
 
 ### 진화 과정
-CR -> 영향분석 -> 릴리즈 계획[3가지 :수선, 플랫폼 적응, 새로운 기능으로인한 발전] -> 구현 -> 
+CR -> 영향분석 -> 릴리즈 계획[3가지 :수선, 플랫폼 적응, 새로운 기능으로인한 발전] -> 구현 -> 시스템 릴리즈
+
+### Urgent change requests
+- 급박한 변동의 경우 정의된 소프트웨어 공학 과정을 거치지
