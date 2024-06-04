@@ -43,7 +43,9 @@ software 테스팅
 - 제품을 여러 형태로 수행하여 이때 행동 양식을 관찰
 - 테스트데이터를 가지고 시스템을 수행한 후 operational behavior를 관찰함
 
-
+## Inspections
+사람이 소스코드를 보고 오류를 찾음 -> 시스템을 수행할 필요가 없기 때문에 구현 전에 수행될 수 있음
+다양ㅎ
 
 ## system testing
 
