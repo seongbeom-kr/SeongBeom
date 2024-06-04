@@ -76,7 +76,9 @@ software 테스팅
 - exception managements : 예외 조건 다 만족?
 
 ### inspection rate
-rja
+비용이 많이 듬
+
+### 
 
 
 
