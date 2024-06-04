@@ -40,7 +40,10 @@ inspection
 
 software 테스팅
 - 동적 분석
-- 제품을 여러 형태로 수행
+- 제품을 여러 형태로 수행하여 이때 행동 양식을 관찰
+- 테스트데이터를 가지고 시스템을 수행한 후 operational behavior를 관찰함
+
+
 
 ## system testing
 
