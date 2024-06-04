@@ -19,4 +19,4 @@ phase- out
 ### change identification and evolution processes
 
 ### 진화 과정
-CR -> 영향분석 -> 릴리즈 계획[3가지 ] -> 구현()
+CR -> 영향분석 -> 릴리즈 계획[3가지 :수선, 플랫폼 적응, 새로운 기능으로인한 발전] -> 구현 -> 
