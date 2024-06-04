@@ -88,3 +88,8 @@ Maintenacne부류
 - 장점
 	- 리스크가 줄어듬 : 새로운거 만드는것보단 
 	- 비용지 줄어듬 : 새로운 거 만드는것보단
+
+## 리엔지니어링 과정
+- source code tranlation : 코드를 새 언어로 바꿈
+- Revese engineering : 프로그램 분석 이해
+- 
