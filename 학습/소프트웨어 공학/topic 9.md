@@ -1,3 +1,7 @@
+
+## Verificatino vs Validation
+verification : 소프트웨어가 관련 명세에 부함하는지 컴토
+validation : 소프트웨어는 사용자가 원하는 바를
 ## system testing
 
 ## testing policies
@@ -46,6 +50,7 @@
 	- 소프트웨어를 릴리즈하여 사용자에게 준 후 사용자들이 이를 써보도록 함, 이후 발견 문제를 개발자에게 보고
 - Acceptance testing
 	- 고객이 테스트 수행, 테스트를 통해 accept해서 고객의 환경에 배치할 것인지 여부를 결정, 대개의 경우 커스텀 시스템의 경우 해당됨
+
 
 
 
