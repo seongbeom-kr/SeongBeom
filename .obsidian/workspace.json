@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/소프트웨어 공학/무제 파일.md",
+                "file": "학습/소프트웨어 공학/software evolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/소프트웨어 공학/무제 파일.md",
+                "file": "학습/소프트웨어 공학/software evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/소프트웨어 공학/무제 파일.md",
+                "file": "학습/소프트웨어 공학/software evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/소프트웨어 공학/무제 파일.md"
+                "file": "학습/소프트웨어 공학/software evolution.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "952e806c907f75c8",
   "lastOpenFiles": [
     "학습/딥러닝/Attention.md",
-    "학습/소프트웨어 공학/무제 파일.md",
+    "학습/소프트웨어 공학/software evolution.md",
     "학습/소프트웨어 공학/topic 9.md",
     "HOME.md",
     "학습/딥러닝/Regularization.md",
