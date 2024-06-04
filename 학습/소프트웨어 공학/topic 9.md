@@ -111,6 +111,10 @@ v&v과정에서 둘다 사용함
 ## 테스트 과정
 테스트 케이스 구성 -> 데이터 준비 -> 실행 -> 각 테스트 케이스결과를 비교 -> (공식 보고)
 
+## 테스트 단계(3단계로 진행)
+development testing : 개발 중에 시스템을 테스트하여 버그, 감지 발견
+release testing : 분리된 테스트 팀이 
+user testing
 
 ## system testing
 
