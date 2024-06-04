@@ -1,7 +1,14 @@
 
 ## Verificatino vs Validation
 verification : 소프트웨어가 관련 명세에 부함하는지 컴토
-validation : 소프트웨어는 사용자가 원하는 바를
+validation : 소프트웨어는 사용자가 원하는 바를 수행해야함
+
+## confidence
+시스템이 목적에 부합함을 증명하는 것
+부합 정도에 영향을 주는 요인
+- 목적 : 소프트웨어가 
+- 사용자 기대치
+- 시장 환경
 ## system testing
 
 ## testing policies
