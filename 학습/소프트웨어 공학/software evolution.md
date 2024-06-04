@@ -103,4 +103,8 @@ Maintenacne부류
 - 프로그램 및 데이터 재구조
 - 아키텍쳐 변경, 재구조화
 
-## ㅖㄱㄷ
+## Preventative maintenance by refactoring
+- 리펙토링 
+	- 변화로 인한 시스템 품질 저하를 늦추기 위한 개선활동
+	- preventative maintenance : 미래에 발생할 변동으로 인한 문제를 감소시킴
+	- 
