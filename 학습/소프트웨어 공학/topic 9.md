@@ -62,7 +62,8 @@ software 테스팅
 체어맨, 모더레이터 : 과정 진행
 주 모더레이터 : 인스펙션 향상, 체크리스트 업데이트, 스탠다드 개발 등의 역할 수행
 
-### inspectino 
+### inspectino checklists
+
 
 
 
