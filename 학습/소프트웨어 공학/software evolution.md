@@ -96,3 +96,6 @@ Maintenacne부류
 - program modularisation : 프로그램 구조를 재구성
 - data reengineering : 데이터를 재조직
 
+## 리엔지니어링 접근법
+- 코드만 바꾸는 code conversion
+- 구조를 바꾸는 automated program 
