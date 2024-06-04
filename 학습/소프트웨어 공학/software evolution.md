@@ -39,4 +39,11 @@ CR -> 영향분석 -> 릴리즈 계획[3가지 :수선, 플랫폼 적응, 새로
 
 # Maintenance
 프로그램을 사용한 후 수정하는 것
-커스텀 소프트웨어는 maintenance, generic software : 
+커스텀 소프트웨어는 maintenance, generic software : evolve
+
+Maintenacne부류
+- 교정형 : 발견된 오류의 원을 찾아 계획적으로 문제해결
+- 적응형 : 새로운 자료, 운영체제, 하드웨어환경으로 이식
+- 완전형 : 성능, 유지보수성을 개선을 위한 변경
+- 응급형 : 응급처치하기
+- 
