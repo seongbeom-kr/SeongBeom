@@ -71,7 +71,9 @@ software 테스팅
 - data faults 
 - control faults
 - input / output faults 
-- 
+- interface faults
+- storage managements
+- ex
 
 
 
