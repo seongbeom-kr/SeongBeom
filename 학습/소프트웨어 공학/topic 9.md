@@ -32,7 +32,16 @@ validation : 소프트웨어는 사용자가 원하는 바를 수행해야함
 ![](https://i.imgur.com/HeUjo61.png)
 
 # Inspection and Testing
-## i
+## Inspection and Testing
+inspection
+- static verification
+- 정적 모습을 분석
+- 도구 및 코드 분석기를 통해 수행됨
+
+software 테스팅
+- 동적 분석
+- 제품을 여러 형태로 수행
+
 ## system testing
 
 ## testing policies
