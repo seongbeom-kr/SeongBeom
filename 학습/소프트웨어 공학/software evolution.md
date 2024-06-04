@@ -98,4 +98,9 @@ Maintenacne부류
 
 ## 리엔지니어링 접근법
 - 코드만 바꾸는 code conversion
-- 구조를 바꾸는 automated program 
+- 구조를 바꾸는 automated program restructuring
+- 메뉴얼 변경으로인한 restructuring
+- 프로그램 및 데이터 재구조
+- 아키텍쳐 변경, 재구조화
+
+## ㅖㄱㄷ
