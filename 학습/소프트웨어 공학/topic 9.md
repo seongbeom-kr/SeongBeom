@@ -68,12 +68,12 @@ software 테스팅
 - 프로그래밍 언어가 약한 타입일수록 리스트가 큼
 
 #### 체크요소
-- data faults 
-- control faults
-- input / output faults 
+- data faults : 초기화, 상수 명명, 배열사이즈, 오버플로우 등
+- control faults : 조건 정확, 무한루프방지, 등
+- input / output faults 입력, 출력 벼
 - interface faults
 - storage managements
-- ex
+- exception managements
 
 
 
