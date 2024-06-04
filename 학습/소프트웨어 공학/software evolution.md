@@ -91,5 +91,8 @@ Maintenacne부류
 
 ## 리엔지니어링 과정
 - source code tranlation : 코드를 새 언어로 바꿈
-- Revese engineering : 프로그램 분석 이해
-- 
+- Reverse engineering : 프로그램 분석 이해
+- Program structure improvement : 이해를 위해 프로그램을 자동적으로 재구조화
+- program modularisation : 프로그램 구조를 재구성
+- data reengineering : 데이터를 재조직
+
