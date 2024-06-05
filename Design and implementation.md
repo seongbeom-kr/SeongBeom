@@ -151,4 +151,7 @@ CM 대상
 - 변경관리 : Report bugs and other problems Tracking problems(who, when)
 - 버전관리 : Keep track of the different versions of software components
 - 시스템빌딩 :  Define what versions of components are used to create each version of a system (=>automatic system building)
-- 릴리즈관리
+- 릴리즈관리 : Plan the functionality of new releases and organize the software for distribution 
+![](https://i.imgur.com/kFaC5xq.png)
+
+### [3]  Host Target development
