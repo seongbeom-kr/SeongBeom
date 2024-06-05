@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84697aa15a86da55",
+        "id": "e3ef661dd518e9c1",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d015e642f31b50",
+            "id": "c46f192447203d87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "file": "HOME.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -148,7 +148,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c8d015e642f31b50",
+  "active": "c46f192447203d87",
   "lastOpenFiles": [
     "HOME.md",
     "학습/딥러닝/Attention.md",
