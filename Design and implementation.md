@@ -29,3 +29,5 @@ Activities
 생성되는 모델
 - context model : 개발 대상 시스템/외부 시스템을 보임
 - interaction model : 시스템이 환경과 어떻게 상호작용하는 가를 보임
+
+
