@@ -118,6 +118,9 @@ decorator 패턴 : 런타임에 기존 클래스의 기능을 확장할 수 있�
 
 # Implementation Issues
 ## Implementation Issues 
-- 재사용
-- confihuration management
-- host- target de
+- 재사용 : 재사용률의 최대화를 어떻게 이끌어낼 것인가?
+- confihuration management : 컴포넌트들의 다양한 버전을 유지해야함 -> 관리어케?
+- host- target development : 개발환경과 실행환경을 연결시키는 방법
+
+### [1] Reuse : Levels
+- 수
