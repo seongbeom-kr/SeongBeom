@@ -118,4 +118,6 @@ decorator 패턴 : 런타임에 기존 클래스의 기능을 확장할 수 있�
 
 # Implementation Issues
 ## Implementation Issues 
-
+- 재사용
+- confihuration management
+- host- target de
