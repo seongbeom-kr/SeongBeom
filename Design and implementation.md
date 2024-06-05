@@ -170,3 +170,5 @@ CM 대상
 - 제약사항 확인
 
 ## 라이선스 모델
+GNU General Public License(GPL)
+- 오픈소스 -> 오픈소스
