@@ -174,4 +174,7 @@ GNU General Public License(GPL)
 - 오픈소스 -> 오픈소스
 Lesser General Public LIcense(LGPL) : 오픈소스 코드와 연결되는 컴포넌트를 작성하여 개발한 경우 해당 컴포넌트의 소스코드는 오픈 안해도 됨
 
-Berkley Standard Distribution : 오픈소스를 이용하
+Berkley Standard Distribution : 오픈소스를 이용하여 개발한 경우 변경된 부분에 대해 리퍼블리쉬 할 의무 없음, 판매도 가능
+하지만 원작 코드는 인정해야함
+
+# Implementation
