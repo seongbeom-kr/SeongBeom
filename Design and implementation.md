@@ -237,4 +237,9 @@ Berkley Standard Distribution : 오픈소스를 이용하여 개발한 경우 �
 ![](https://i.imgur.com/236N0By.png)
 
 ## 시스템 전환 방법
-새로운 시스템을 온라인으로 만들고 예저
+새로운 시스템을 온라인으로 만들고 예전 시스템을 퇴출시키는 방법
+
+
+![](https://i.imgur.com/xy6xrB5.png)
+
+![Uploading file...xaku3]()
