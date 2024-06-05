@@ -31,4 +31,6 @@ Activities
 - interaction model : 시스템이 환경과 어떻게 상호작용하는 가를 보임
 
 ### [2] Architectural design
-- 주요 컴포넌트들과 
+- 주요 컴포넌트들과 그들간 상호관계를 밝혀냄
+- 아키텍쳐별 패턴들을 이용하여 컴포넌트들를 조직화함(organize)
+- 
