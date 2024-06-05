@@ -37,3 +37,5 @@ Activities
 ### [3] Object class identification
 - 오브젝트 클래스를 식별하는 것은 매우 어려운 작업임
 	- 편법이 없음
+	- 오브젝트 식별은 _반복적인 과정_ 임
+	- 
