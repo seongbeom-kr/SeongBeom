@@ -146,3 +146,9 @@ CM 대상
 - 각종리포트
 - 소스코드, 객체 코두, 테스트 케이스 명세서, 프로시져
 - 유저 매뉴얼
+
+#### CM 활동들
+- 변경관리 : Report bugs and other problems Tracking problems(who, when)
+- 버전관리 : Keep track of the different versions of software components
+- 시스템빌딩 :  Define what versions of components are used to create each version of a system (=>automatic system building)
+- 릴리즈관리
