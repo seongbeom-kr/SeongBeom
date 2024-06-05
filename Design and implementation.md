@@ -93,4 +93,8 @@ Activities
 # Design Patterns
 ## [1] Facade Patterns
 라이브러리 / 프레임워크/ 클래스들의 복잡한 집합에 대한 단순화된 인터페이스를 제공하는 구조적 디자인 패턴
-![Uploading file...bu8sr]()
+![](https://i.imgur.com/rHcjtTV.png)
+
+- Facade를 이용하여 start, stop엔진에 대한 모든 복잡한 내용을 은닉시킴
+
+## [2] The Observer Pattern
