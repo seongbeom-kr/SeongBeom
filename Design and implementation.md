@@ -19,7 +19,7 @@
 4. 디벨롭
 5. 오브젝트 인터페이스 명세
 
-### System context and interactions
+### [1]System context and interactions
 Activities
 - 개발하고자 하는 시스템과 외부 환경과의 관계를 이해하는 과정
 - 시스템의 경계를 설정함
@@ -30,3 +30,5 @@ Activities
 - context model : 개발 대상 시스템/외부 시스템을 보임
 - interaction model : 시스템이 환경과 어떻게 상호작용하는 가를 보임
 
+### [2] Architectural design
+- 주요 
