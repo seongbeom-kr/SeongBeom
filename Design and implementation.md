@@ -98,3 +98,4 @@ Activities
 - Facade를 이용하여 start, stop엔진에 대한 모든 복잡한 내용을 은닉시킴
 
 ## [2] The Observer Pattern
+- Descrop
