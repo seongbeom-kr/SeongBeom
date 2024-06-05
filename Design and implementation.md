@@ -178,3 +178,9 @@ Berkley Standard Distribution : 오픈소스를 이용하여 개발한 경우 �
 하지만 원작 코드는 인정해야함
 
 # Implementation
+## 구현 - 정적모델 구현
+설계를 프로그램으로 매핑
+추상 수준에 따라 구현에 도움이 되는 정도가 다름
+
+![](https://i.imgur.com/BFpw4ZV.png)
+## 클래스의 구현
