@@ -63,4 +63,5 @@ Activities
 ![](https://i.imgur.com/hGjpIiO.png)
 
 #### 시퀀스 모델들
+객체간 발생되는 상호작용, 즉 메시지 패싱에 대한 행위를 시간 축 중심으로 나타냄
 
