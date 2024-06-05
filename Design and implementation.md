@@ -159,4 +159,8 @@ CM 대상
 
 ![](https://i.imgur.com/sPH9ZR1.png)
 
-# Open Sou
+# Open Source Development
+## Open source development
+- Root : 프리 소프트웨어 기반
+- Open source sw : 인터넷을 통해 공개
+- 오픈 소스 비즈니스 : 판매가 아닌, 지원을 통해 이익을 얻음(커뮤니티 확대 추)
