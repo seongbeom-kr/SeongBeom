@@ -113,5 +113,9 @@ Activities
 ## 다양한 패턴들
 옵저버 패턴 : 여러 객체에 다른 객체의 상태가 변경되었음을 알림
 Facade 패턴 : 점진적으로 개발되는 여러 관련 객체에 대한 인터페이스 정리
-iterator pattern : 구현방법에 관계없이 컬렉션 요소에 엑세스하는 표준 방법제공,
-decorator 패턴
+iterator pattern : 구현방법에 관계없이 컬렉션 요소에 엑세스하는 표준 방법제공
+decorator 패턴 : 런타임에 기존 클래스의 기능을 확장할 수 있는 가능성 허용
+
+# Implementation Issues
+## Implementation Issues 
+
