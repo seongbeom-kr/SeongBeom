@@ -155,3 +155,8 @@ CM 대상
 ![](https://i.imgur.com/kFaC5xq.png)
 
 ### [3]  Host Target development
+보통의 소프트웨어는 개발환경과 실행환경이 다름(host -target)
+
+![](https://i.imgur.com/sPH9ZR1.png)
+
+# Open Sou
