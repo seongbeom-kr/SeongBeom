@@ -9,8 +9,11 @@ cssclasses:
 	- [[CNN Basic]]
 	- [[CNN Architectures]]
 	- [[Regularization]]
+	- [[Attention]]
 - 📖 데이터 베이스
-
+	- [[Advanced Structed Query Language]]
+	- [[Indexing]]
+	- [[StructuredQueryLanguage]]
 ## mju 할 일
 - 🖥 과제
 
