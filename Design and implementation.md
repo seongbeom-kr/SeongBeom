@@ -98,4 +98,4 @@ Activities
 - Facade를 이용하여 start, stop엔진에 대한 모든 복잡한 내용을 은닉시킴
 
 ## [2] The Observer Pattern
-- Descrop
+- Description : 객체의 상태를 보여주는것과 분리하여 다양한 디스플레이 제공지원, 
