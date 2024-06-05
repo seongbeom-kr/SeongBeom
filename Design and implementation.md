@@ -62,3 +62,5 @@ Activities
 
 ![](https://i.imgur.com/hGjpIiO.png)
 
+#### 시퀀스 모델들
+

@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ef661dd518e9c1",
+        "id": "a3ae06d3f394bd73",
         "type": "tabs",
         "children": [
           {
-            "id": "c46f192447203d87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "학습/소프트웨어 공학/topic 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2bedb99473bcf89",
+            "id": "924cf37e7a738367",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,11 +148,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e2bedb99473bcf89",
+  "active": "924cf37e7a738367",
   "lastOpenFiles": [
+    "HOME.md",
     "학습/소프트웨어 공학/topic 9.md",
     "Design and implementation.md",
-    "HOME.md",
     "학습/딥러닝/Attention.md",
     "학습/소프트웨어 공학/software evolution.md",
     "학습/딥러닝/Regularization.md",
