@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "634d9566a73f2266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design and implementation.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design and implementation.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design and implementation.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -148,10 +161,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "94e936430bb26673",
+  "active": "634d9566a73f2266",
   "lastOpenFiles": [
-    "().md",
     "Design and implementation.md",
+    "().md",
     "HOME.md",
     "학습/소프트웨어 공학/topic 9.md",
     "학습/딥러닝/Attention.md",
