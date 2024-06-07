@@ -81,5 +81,6 @@
 	- View component : 데이터가 사용자에게 표현되는 것을 정의하고 관리하는 컴포넌트
 	- Controller component : 사용자와의 상호작용을 관리하고 상호작용 내용을 view, model에 전달
 
-사
+언제사용?
+	- 데이터를 여러 방식으로 보여주고 
 
