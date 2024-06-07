@@ -79,5 +79,6 @@
 표현, 연결, 시스템 데이터를 구분 - 3개의 논리적 컴포넌트로 구조화됨
 	- model component : 시스템 데이터 및 데이터와 연관된 operations을 관리하는 컴포넌트
 	- View component : 데이터가 사용자에게 표현되는 것을 정의하고 관리하는 컴포넌트
-	- Controller component : 사용자와의 상
+	- Controller component : 사용자와의 상호작용을 관리하고 상호작용 내용을 view, model에 전달
+
 
