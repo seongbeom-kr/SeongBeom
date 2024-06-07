@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architectural Design.md",
+                "file": "().md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architectural Design.md",
+                "file": "().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architectural Design.md",
+                "file": "().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architectural Design.md"
+                "file": "().md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "832b1f1df2ff899c",
   "lastOpenFiles": [
-    "HOME.md",
     "Architectural Design.md",
+    "HOME.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책",
     "학습/소프트웨어 공학/Design and implementation.md",
