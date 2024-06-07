@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "().md",
+                "file": "학습/딥러닝/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "().md",
+                "file": "학습/딥러닝/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "().md",
+                "file": "학습/딥러닝/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "().md"
+                "file": "학습/딥러닝/README.md"
               }
             }
           }
@@ -167,7 +167,7 @@
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책",
     "학습/소프트웨어 공학/Design and implementation.md",
-    "().md",
+    "학습/딥러닝/README.md",
     "학습/소프트웨어 공학/topic 9.md",
     "학습/딥러닝/Attention.md",
     "학습/소프트웨어 공학/software evolution.md",
