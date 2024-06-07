@@ -67,4 +67,6 @@
 ![](https://i.imgur.com/hT57zg9.png)
 
 
-## Docum
+## Document
+각 관점에 대해 작성해야함
+# ㅁ
