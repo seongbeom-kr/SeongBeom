@@ -77,5 +77,6 @@
 
 ### MVC 패턴
 표현, 연결, 시스템 데이터를 구분 - 3개의 논리적 컴포넌트로 구조화됨
-	- model component : 시스템 데이터 및 데이터와 연관된 operations
+	- model component : 시스템 데이터 및 데이터와 연관된 operations을 관리하는 컴포넌트
+	- View component : 데이터가 사용자에게 표현되는
 
