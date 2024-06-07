@@ -71,4 +71,4 @@
 각 관점에 대해 작성해야함
 # Architectural Patterns
 ## Archtectural Patterns
-- Patter
+- Patterns
