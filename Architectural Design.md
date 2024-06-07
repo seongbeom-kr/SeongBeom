@@ -71,4 +71,5 @@
 각 관점에 대해 작성해야함
 # Architectural Patterns
 ## Archtectural Patterns
-- Patterns
+- Patterns : 지식을 표현하고, 공유하고, 재사용하기 위한 수단
+- An archi
