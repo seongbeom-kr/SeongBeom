@@ -72,4 +72,5 @@
 # Architectural Patterns
 ## Archtectural Patterns
 - Patterns : 지식을 표현하고, 공유하고, 재사용하기 위한 수단
-- An architectural patterns : 여러 환경에서 시도, 테스트되어 유용함이 이
+- An architectural patterns : 여러 환경에서 시도, 테스트되어 유용함이 입증된 사례
+- 표현 방법 : 표나 그림, 설명도 포함
