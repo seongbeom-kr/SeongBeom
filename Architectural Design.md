@@ -96,4 +96,5 @@
 ### [2] Layerd Architecture
 - 서브시스템의 언터페이싱을 만들기위해 사용
 - 시스템을 Layer의 집합으로 조직(또는 추상 머신). 이때 각 Layer는 관련된 서비스의 집합으로 구성됨
-- L
+- Layer단위로 incremental 개발이 가능하도록 지원
+- 임의의 Layer가 변경될 경우 인접한 Layer만 영향을 받음
