@@ -136,4 +136,11 @@
 구성요소
 - Set of stand-alone servers : 서비스를 제공(printing, data management)
 - Set of clinets : 서비스 호출
-- Nerwork
+- Nerwork : 클라이언트가 서버를 접근할 수 있도록 함
+![](https://i.imgur.com/EWdh2G2.png)
+
+![](https://i.imgur.com/Zm7NjmI.png)
+
+
+### [5] Pipe and filter architecture
+입력을 함수 트랜스포메이션에 적용시켜 출력을 생서
