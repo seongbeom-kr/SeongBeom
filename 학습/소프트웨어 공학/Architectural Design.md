@@ -124,4 +124,10 @@
 - 각 서브시스템은 자신만의 데이터베이스를 유지, 필요할 때마다 그 데이터를 다른 서브시스템에 전달
 
 대규모의 데이터가 공유되어야 하는 경우에 적합
+![](https://i.imgur.com/wdZYdRn.png)
+![](https://i.imgur.com/3t13681.png)
 
+
+### [4] Client- server architecture
+분산된 시스템 모델
+- 데이터와 데이
