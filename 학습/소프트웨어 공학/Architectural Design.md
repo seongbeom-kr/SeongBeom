@@ -194,3 +194,10 @@
 	- 특정 목적을 달성하기 위한 일련의 연산자들(비행기 시간 조회)
 - 사용자가 서비스를 비동기적으로 요청하고 트랜잭션 매니저가 이를 처리
 
+
+![](https://i.imgur.com/BlfsS25.png)
+
+
+![](https://i.imgur.com/GQKJ3vX.png)
+
+### [2] information systems architecture
