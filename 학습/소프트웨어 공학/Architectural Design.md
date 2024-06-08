@@ -118,3 +118,6 @@
 	- 성능면에서 문제(임의의 서비스는 여러단계에 걸쳐 해석이 이루어짐)
 ![](https://i.imgur.com/2ETAJYE.png)
 
+### [3] Repository architecture
+서브 시스템간 데이터 교환 방법
+- 공유 데이터를 중앙 데이터베이스 혹은
