@@ -143,4 +143,16 @@
 
 
 ### [5] Pipe and filter architecture
-입력을 함수 트랜스포메이션에 적용시켜 출력을 생서
+입력을 함수 트랜스포메이션에 적용시켜 출력을 생성
+
+파이프 필터모델로 알려짐
+
+상호작용적 시스템에는 적합하지 않음
+
+![](https://i.imgur.com/DOK7VLt.png)
+
+![](https://i.imgur.com/fMhl21a.png)
+
+### [6] Broker Pattern
+분리된 컴포넌트들로 이루어진 분산시스템에서 사용
+브로커 : 요청 전달과 결과 및 
