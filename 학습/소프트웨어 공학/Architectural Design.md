@@ -130,4 +130,10 @@
 
 ### [4] Client- server architecture
 분산된 시스템 모델
-- 데이터와 데이
+- 데이터와 데이터의 처리가 컴포넌트 사이에서 어떻게 분산되어 있는가를 보임
+- 단일 컴퓨터상에서도 구현될 수도 있음
+
+구성요소
+- Set of stand-alone servers : 서비스를 제공(printing, data management)
+- Set of clinets : 서비스 호출
+- Nerwork
