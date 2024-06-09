@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "8d3cdc9213ed12e6",
   "lastOpenFiles": [
+    "HOME.md",
     "학습/철학산책/7주차 악에 대한 논증.md",
     "학습/철학산책/9, 10주차 윤리학.md",
     "학습/딥러닝/Regularization.md",
-    "HOME.md",
     "학습/소프트웨어 공학/Architectural Design.md",
     "학습/딥러닝/README.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
