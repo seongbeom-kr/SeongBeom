@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "학습/딥러닝/Regularization.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "학습/딥러닝/Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "학습/딥러닝/Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "학습/딥러닝/Regularization.md"
               }
             }
           }
@@ -149,9 +150,9 @@
   },
   "active": "476498ae4b6b1e21",
   "lastOpenFiles": [
+    "HOME.md",
     "학습/딥러닝/Regularization.md",
     "README.md",
-    "HOME.md",
     "학습/철학산책/7주차 악에 대한 논증.md",
     "학습/철학산책/9, 10주차 윤리학.md",
     "학습/소프트웨어 공학/Architectural Design.md",
