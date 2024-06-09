@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/딥러닝/Regularization.md",
-                "mode": "source",
+                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/딥러닝/Regularization.md",
+                "file": "학습/딥러닝/CNN/CNN Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/딥러닝/Regularization.md",
+                "file": "학습/딥러닝/CNN/CNN Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/딥러닝/Regularization.md"
+                "file": "학습/딥러닝/CNN/CNN Basic.md"
               }
             }
           }
