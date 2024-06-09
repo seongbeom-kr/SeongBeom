@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "file": "학습/딥러닝/CNN/CNN Architectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "file": "학습/딥러닝/CNN/CNN Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md",
+                "file": "학습/딥러닝/CNN/CNN Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/딥러닝/CNN/CNN Basic.md"
+                "file": "학습/딥러닝/CNN/CNN Architectures.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "476498ae4b6b1e21",
   "lastOpenFiles": [
+    "학습/딥러닝/CNN/CNN Basic.md",
     "HOME.md",
     "학습/딥러닝/Regularization.md",
     "README.md",
@@ -170,7 +171,6 @@
     "학습/데이터베이스/Advanced Structed Query Language.md",
     "학습/데이터베이스/Indexing.md",
     "extended-colorschemes.css",
-    "학습/딥러닝/CNN/CNN Basic.md",
     "학습/데이터베이스/StructuredQueryLanguage.md",
     "assets/Pasted.md",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
