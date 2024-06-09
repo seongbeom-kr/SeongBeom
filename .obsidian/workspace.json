@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "61a40e52514255c1",
+        "id": "da3d202c0898eea4",
         "type": "tabs",
         "children": [
           {
-            "id": "12a4408939c42a73",
+            "id": "8d3cdc9213ed12e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/철학산책/7주차 악에 대한 논증.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a9ed0e7428a552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "학습/철학산책/9주차 윤리학.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/철학산책/9주차 윤리학.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/철학산책/9주차 윤리학.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/철학산책/9주차 윤리학.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -161,10 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "71a9ed0e7428a552",
+  "active": "c09db225bddcfc7b",
   "lastOpenFiles": [
     "학습/철학산책/7주차 악에 대한 논증.md",
-    "학습/철학산책/9주차 윤리학.md",
+    "학습/철학산책/9, 10주차 윤리학.md",
     "학습/딥러닝/Regularization.md",
     "HOME.md",
     "학습/소프트웨어 공학/Architectural Design.md",
