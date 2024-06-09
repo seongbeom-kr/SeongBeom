@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71a9ed0e7428a552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학습/철학산책/9주차 윤리학.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/철학산책/7주차 악에 대한 논증.md",
+                "file": "학습/철학산책/9주차 윤리학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/철학산책/7주차 악에 대한 논증.md",
+                "file": "학습/철학산책/9주차 윤리학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/철학산책/7주차 악에 대한 논증.md"
+                "file": "학습/철학산책/9주차 윤리학.md"
               }
             }
           }
@@ -148,10 +161,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "12a4408939c42a73",
+  "active": "71a9ed0e7428a552",
   "lastOpenFiles": [
-    "학습/딥러닝/Regularization.md",
     "학습/철학산책/7주차 악에 대한 논증.md",
+    "학습/철학산책/9주차 윤리학.md",
+    "학습/딥러닝/Regularization.md",
     "HOME.md",
     "학습/소프트웨어 공학/Architectural Design.md",
     "학습/딥러닝/README.md",
@@ -191,7 +205,6 @@
     "Welcome.md",
     "create a link.md",
     "학습/DeepLearning/합성곱신경망.md",
-    "논문리뷰/Auto-Encoding Variational Bayes.md",
     "학습/딥러닝/CNN/assets",
     "학습/딥러닝/CNN",
     "논문리뷰",
