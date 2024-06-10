@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "학습/철학산책/9, 10주차 윤리학.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dda67a334adeeed0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "학습/철학산책/9, 10주차 윤리학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "학습/철학산책/9, 10주차 윤리학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "학습/철학산책/9, 10주차 윤리학.md"
+              }
             }
           }
         ]
@@ -155,8 +148,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dda67a334adeeed0",
+  "active": "4a2f4f7af1619be3",
   "lastOpenFiles": [
+    "학습/철학산책/14주차 자유의지와 결정론.md",
     "HOME.md",
     "학습/딥러닝/RNN/RNN.md",
     "학습/딥러닝/CNN/CNN Architectures.md",
@@ -167,7 +161,6 @@
     "학습/철학산책/9, 10주차 윤리학.md",
     "학습/소프트웨어 공학/Architectural Design.md",
     "학습/딥러닝/README.md",
-    "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책",
     "학습/소프트웨어 공학/Design and implementation.md",
     "학습/소프트웨어 공학/topic 9.md",
