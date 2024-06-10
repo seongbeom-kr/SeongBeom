@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "34bebbfbb419dc43",
+        "id": "86e2ceb9ceb118b5",
         "type": "tabs",
         "children": [
           {
-            "id": "476498ae4b6b1e21",
+            "id": "4a2f4f7af1619be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/딥러닝/RNN/RNN.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dda67a334adeeed0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/딥러닝/RNN/RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/딥러닝/RNN/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "학습/딥러닝/RNN/RNN.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +155,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "476498ae4b6b1e21",
+  "active": "dda67a334adeeed0",
   "lastOpenFiles": [
+    "HOME.md",
+    "학습/딥러닝/RNN/RNN.md",
     "학습/딥러닝/CNN/CNN Architectures.md",
     "학습/딥러닝/CNN/CNN Basic.md",
-    "HOME.md",
     "학습/딥러닝/Regularization.md",
     "README.md",
     "학습/철학산책/7주차 악에 대한 논증.md",
@@ -166,7 +174,6 @@
     "학습/딥러닝/Attention.md",
     "학습/소프트웨어 공학/software evolution.md",
     "학습/딥러닝/수업 CNN2.md",
-    "학습/딥러닝/RNN/RNN.md",
     "학습",
     "학습/데이터베이스/Advanced Structed Query Language.md",
     "학습/데이터베이스/Indexing.md",
