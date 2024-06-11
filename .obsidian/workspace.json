@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eacaf1f617fc82a4",
+        "id": "7bb5bf674d5bf246",
         "type": "tabs",
         "children": [
           {
-            "id": "539d88ac6c4a59e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec651af7cc79280b",
+            "id": "2b8c541b82c019b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,12 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ec651af7cc79280b",
+  "active": "2b8c541b82c019b0",
   "lastOpenFiles": [
+    "HOME.md",
+    "학습/철학산책/12주차 심신문제.md",
     "학습/철학산책/11주차.md",
     "학습/소프트웨어 공학/software evolution.md",
-    "학습/철학산책/12주차 심신문제.md",
-    "HOME.md",
     "학습/철학산책/9, 10주차 윤리학.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/딥러닝/RNN/RNN.md",
