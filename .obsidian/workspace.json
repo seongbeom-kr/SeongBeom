@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "86e2ceb9ceb118b5",
+        "id": "eacaf1f617fc82a4",
         "type": "tabs",
         "children": [
           {
-            "id": "074d9f6e5ecf3567",
+            "id": "539d88ac6c4a59e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/철학산책/11주차.md",
+                "file": "HOME.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec651af7cc79280b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학습/소프트웨어 공학/software evolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/철학산책/11주차.md",
+                "file": "학습/소프트웨어 공학/software evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/철학산책/11주차.md",
+                "file": "학습/소프트웨어 공학/software evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/철학산책/11주차.md"
+                "file": "학습/소프트웨어 공학/software evolution.md"
               }
             }
           }
@@ -148,12 +160,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "074d9f6e5ecf3567",
+  "active": "ec651af7cc79280b",
   "lastOpenFiles": [
-    "학습/철학산책/9, 10주차 윤리학.md",
-    "학습/철학산책/11주차.md",
-    "학습/철학산책/14주차 자유의지와 결정론.md",
+    "학습/소프트웨어 공학/무제 파일.md",
     "HOME.md",
+    "학습/철학산책/11주차.md",
+    "학습/철학산책/9, 10주차 윤리학.md",
+    "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/딥러닝/RNN/RNN.md",
     "학습/딥러닝/CNN/CNN Architectures.md",
     "학습/딥러닝/CNN/CNN Basic.md",
@@ -191,7 +204,6 @@
     "DeepLearning/파이토치 기초 문법.md",
     "Screenshot 2024-01-08 at 11.06.17 AM.png.md",
     "Welcome.md",
-    "create a link.md",
     "학습/딥러닝/CNN/assets",
     "학습/딥러닝/CNN",
     "논문리뷰",
