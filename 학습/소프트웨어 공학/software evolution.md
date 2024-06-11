@@ -126,4 +126,6 @@ Maintenacne부류
 - Divergent class : 다중 원인으로 인해 2가지 이상 이유로 수정 -> 한가지 원인으로 제한
 - Shotgun Surgery : 특정 클래스를 수정하면 관련된 클래스에서 변경해야함 -> 한곳으로 집중
 - Feafure Envy : 빈번히 다른 클래스에서 데이터 가져옴 -> 메소드를 데이터가 존재하는 곳에 옮김
-- Data Clumps : 데이터 항목이 여러 곳에 중복되어 나타남 -> 
+- Data Clumps : 데이터 항목이 여러 곳에 중복되어 나타남 -> 독립된 클래스
+- Switch, if : 너무 많은 분기점 -> 다형성으로 해결
+- Speculative Gerr
