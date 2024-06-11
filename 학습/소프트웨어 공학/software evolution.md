@@ -129,5 +129,5 @@ Maintenacne부류
 - Data Clumps : 데이터 항목이 여러 곳에 중복되어 나타남 -> 독립된 클래스
 - Switch, if : 너무 많은 분기점 -> 다형성으로 해결
 - Speculative Gerality : 미리 만들어 놓은 상속 -> 없앰(상속만)
-- Message Chains : 특정 객체를 사용하기 위해 지나치게 많은 클래스를 거쳐야 함 :
+- Message Chains : 특정 객체를 사용하기 위해 지나치게 많은 클래스를 거쳐야 함 -> 메시지 chain을 거치지 않고 직접 사용할 수 있도록 함
 - 
