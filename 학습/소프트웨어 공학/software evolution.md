@@ -130,4 +130,7 @@ Maintenacne부류
 - Switch, if : 너무 많은 분기점 -> 다형성으로 해결
 - Speculative Gerality : 미리 만들어 놓은 상속 -> 없앰(상속만)
 - Message Chains : 특정 객체를 사용하기 위해 지나치게 많은 클래스를 거쳐야 함 -> 메시지 chain을 거치지 않고 직접 사용할 수 있도록 함
+
+## Legacy System
+- 구형 시스템 : 신형 시스템 개발에는 더이상 사용되지 않는 PL과 기술에 의존
 - 
