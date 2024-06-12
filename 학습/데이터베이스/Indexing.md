@@ -163,4 +163,8 @@
 
 ## Other Features
 - Covering indices
-	- 
+	- 일부 쿼리가 실제 레코드를 가져오지 않도록 인덱스에 속성 추가
+		- 특히 secondary indices에 효과적임, 실제 레코드를 확인하지 않으니!
+		- 시간절감
+	- 추가 속성은 리프에만 저장 가능하다
+- 
