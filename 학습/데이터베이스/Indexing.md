@@ -207,4 +207,5 @@
 create index <index-name> on <relation-name>(<attribute list>)
 ```
 
-- 유니크한 인덱스를 사용하여 
+- 유니크한 인덱스를 사용하여 검색키가 candidate key라는 것을 간접적으로 지정하고 적용함
+- sql
