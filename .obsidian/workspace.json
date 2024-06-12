@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/데이터베이스/정규화.md",
+                "file": "학습/소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/데이터베이스/정규화.md",
+                "file": "학습/소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/데이터베이스/정규화.md",
+                "file": "학습/소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/데이터베이스/정규화.md"
+                "file": "학습/소프트웨어 공학/use case 기반 요구사항 명세서 작성.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "30ba726e28bbbfa8",
   "lastOpenFiles": [
-    "().md",
     "학습/데이터베이스/정규화.md",
+    "().md",
     "학습/데이터베이스/Entity relationship model.md",
     "학습/데이터베이스/IndexingOther.md",
     "학습/데이터베이스/Indexing.md",
