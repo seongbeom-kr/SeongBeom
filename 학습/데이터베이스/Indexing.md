@@ -95,4 +95,8 @@
 - Null pointer -> 가르키는 포인터가 없음(마지막에 삽입)
 
 - B+ tree는 indexed-sequential files의 대안이다
-- index 시퀀스 파일의 약점
+- 장점
+	- 삽입 및 삭제시 스스로 small local 하게 재구성하고 변화함
+	- 성능유지에 전체 파일 재구성이 필요하지 않음
+- 단점
+	- 추가 삽입, 삭제 시 space overhead됨 (칸을 밀어야)
