@@ -84,5 +84,10 @@ ER 디자인에 영향을 미치는 연결 계수 : 여러개면 관계를 만�
 	- - : 어떤건 참여 안함
 
 ### key for relationship set 
-- many to many : 다대 다 인경우 엔터티의 
+- many to many : 다대 다 인경우 엔터티의 합집합으로 키로 써 사용
+- one to many : many쪽의 pk는 하나의 one만 가질 수 있으므로 key를 many쪽 사용함
+- one to one : 둘중 아무거나
+
+### Weak entity sets
+
 
