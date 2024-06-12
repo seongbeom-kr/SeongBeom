@@ -45,4 +45,8 @@
 	- Formally : 속성은 엔터티 셋에서 벨류 셋으로 메핑
 ![](https://i.imgur.com/pOv0xx8.png)
 
-## type 
+## type of attributes : 유형
+- 단일 vs 복합 
+	- 단순(단일) 속성 : 더 작게 나누어 질 수 없는 값들
+	- 복합속성 : 여러 부분으로 나누어 질 수 있는 속성들
+	- 
