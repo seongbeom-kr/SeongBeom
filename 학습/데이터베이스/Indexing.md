@@ -126,3 +126,4 @@
 		- 하위 트리의 검색키는 포인터 P_n이 가진 값은 K_n-1의 값보다 크거나 같다
 ![](https://i.imgur.com/iCSaPu6.png)
 	
+## Observation about B+Tree
