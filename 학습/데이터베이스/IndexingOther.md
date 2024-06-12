@@ -57,3 +57,4 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 	```sql
 	create index upper_name_idx on emp((upper(name)));
 	```
+

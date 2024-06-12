@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/데이터베이스/IndexingOther.md",
+                "file": "학습/데이터베이스/Entity relationship model.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/데이터베이스/IndexingOther.md",
+                "file": "학습/데이터베이스/Entity relationship model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/데이터베이스/IndexingOther.md",
+                "file": "학습/데이터베이스/Entity relationship model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/데이터베이스/IndexingOther.md"
+                "file": "학습/데이터베이스/Entity relationship model.md"
               }
             }
           }
@@ -174,7 +174,8 @@
   },
   "active": "842115207ade0bd5",
   "lastOpenFiles": [
-    "학습/데이터베이스/무제 파일 1.md",
+    "학습/데이터베이스/IndexingOther.md",
+    "학습/데이터베이스/Entity relationship model.md",
     "학습/데이터베이스/Indexing.md",
     "학습/딥러닝/CNN/CNN Basic.md",
     "학습/데이터베이스/StructuredQueryLanguage.md",
@@ -182,7 +183,6 @@
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
     "().md",
-    "학습/데이터베이스/IndexingOther.md",
     "HOME.md",
     "학습/딥러닝/RNN/RNN.md",
     "학습/소프트웨어 공학/Design and implementation.md",
