@@ -127,4 +127,6 @@
 ![](https://i.imgur.com/iCSaPu6.png)
 	
 ## Observation about B+Tree
-- 노드간 연결
+- 노드간 연결은 포인터에 의해 이루어지기 때문에 논리적으로 가까운 블록이 물리적으로 가까울 필요는 없음
+- B+트리의 non-leaf level은 수직적으로 sparse index를 가진다.
+-  B+트리느
