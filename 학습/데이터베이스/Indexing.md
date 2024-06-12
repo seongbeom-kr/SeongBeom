@@ -114,4 +114,7 @@
 - B+트리는 리프를 고정시키고 바텀업 방식으로 제작
 	- Fan-out : 노드당 search key 값 수
 	- 
-- leaf node in B+ 트리 : 리프노드의 ㅈ
+- leaf node in B+ 트리 : 리프노드의 성질
+	- 포인터 P_i 는 검색키 값 K_i 를 가르킨다.
+	- i< J 일경우, L_i 검색키 값은 L_j의 값보다 작거나 같다(정렬되어있음을 시사)
+	- P_n 포인터는 search key 
