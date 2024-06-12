@@ -74,5 +74,5 @@
 - secondary index를 사용해서 찾는다.
 - search-key 값에 대한 인덱스 레코드가 있는 secondary index를 가질 수 있음
 - index 레코드는 특정 검색키값을 가진 모든 실제 레코드에 대한 포인터를 포함하는 buket을 포인트한다
-- secondary index는 
+- secondary index는 정렬되어 있지 않은 값을 표시하기 때문에 Dense하지 않으면 찾아갈 수 없음(index가 모든 포인터를 포함한다.)
 
