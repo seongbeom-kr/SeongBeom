@@ -8,5 +8,8 @@
 - 리프노드 데이터는 키에 의해 정룔됨
 ## 문법
 ```sql
--- creat
+-- create [unique] index_name On table name column list
+-- drop index name
+-- dict : user index, user ind index
+select t.index_name, 
 ```
