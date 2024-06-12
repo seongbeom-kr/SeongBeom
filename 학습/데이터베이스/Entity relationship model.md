@@ -81,4 +81,8 @@ ER 디자인에 영향을 미치는 연결 계수 : 여러개면 관계를 만�
 - - 은 many를 뜻함
 - participation of an entity set in a relationship set
 	- = : 모든 엔터티가 관계 셋에 있는 관계 핸개에 적어도 한개 이상 참여
-	- - : 어떤건 참여 한
+	- - : 어떤건 참여 안함
+
+### key for relationship set 
+- many to many : 다대 다 인경우 엔터티의 
+
