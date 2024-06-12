@@ -31,3 +31,6 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 - Covering index
 	- 테이블 참조 없이 인덱스만 처리 가능한 경우
 	- 일반적으로 성능이 우수(인덱스만 사용)
+## Hint index
+강제로 질의에서 특정 인덱스를 사용하도록 강요함
+
