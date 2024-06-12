@@ -204,5 +204,7 @@
 - Create Index
 
 ```sql
-create index <>
+create index <index-name> on <relation-name>(<attribute list>)
 ```
+
+- 유니크한 인덱스를 사용하여 
