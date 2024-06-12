@@ -66,4 +66,5 @@
 - 관계 셋을 통해 다른 엔터티를 연결할 수 잇는 엔터티의 수
 - 1:1, 1:n, n:1, m:n
 - 관계 계수는 관계속성의 배치에 영향을 줌
-- 
+
+## mapping carinalities affect er design
