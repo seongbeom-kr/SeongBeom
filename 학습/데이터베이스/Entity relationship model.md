@@ -42,4 +42,7 @@
 - 엔터티는 속성의 집합으로 펴현됨
 - Value set : 값의 집합(domain)
 	- 속성에 허락된 값의 집합
-	- Formally : 속성은 엔터티 셋에서 벨류 셋으로
+	- Formally : 속성은 엔터티 셋에서 벨류 셋으로 메핑
+![](https://i.imgur.com/pOv0xx8.png)
+
+## type 
