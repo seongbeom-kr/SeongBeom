@@ -11,5 +11,9 @@
 -- create [unique] index_name On table name column list
 -- drop index name
 -- dict : user index, user ind index
-select t.index_name, 
+select t.index_name, t.uniqueness, c.column_name, c.column_position
+from user_indexes t, user_ind_columns c
+where c.index_name = t.index_name and t.table_name = 'EMP';
 ```
+
+## 오라클 
