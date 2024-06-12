@@ -34,3 +34,6 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 ## Hint index
 강제로 질의에서 특정 인덱스를 사용하도록 강요함
 
+## Ohter types of indices
+- 오라클의 기본 인덱스는 B+ tree임
+- 비트맵 
