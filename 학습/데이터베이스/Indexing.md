@@ -203,4 +203,6 @@
 ## Index Definition in SQL
 - Create Index
 
-%%sd%%
+```sql
+create index <>
+```
