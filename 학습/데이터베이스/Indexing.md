@@ -214,3 +214,4 @@ create index <index-name> on <relation-name>(<attribute list>)
 drop index<indexname>
 ```
 - 대부분의 데이터베이스시스템은 인덱스 유형 및 클러스터링을 지정할 수 있다.
+- 
