@@ -90,6 +90,7 @@
 > 파일 사이즈가 커질 수록 성능이 하락함
 > 주기적인 전체 파일의 재구조화가 요구됨
 
+![](https://i.imgur.com/mVmulOH.png)
 - Leaf : 실제 포인터
 - 비교값이 크거나 같으면 value(search key)다음 포인터를 찾아감
 - Null pointer -> 가르키는 포인터가 없음(마지막에 삽입)
@@ -99,4 +100,7 @@
 	- 삽입 및 삭제시 스스로 small local 하게 재구성하고 변화함
 	- 성능유지에 전체 파일 재구성이 필요하지 않음
 - 단점
-	- 추가 삽입, 삭제 시 space overhead됨 (칸을 밀어야)
+	- 추가 삽입, 삭제 시 space overhead됨 (칸을 밀어야하기 때문에)
+- B+트리는 다음의 성질을 만족하는 rooted tree임
+- 
+
