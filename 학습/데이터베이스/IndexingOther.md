@@ -50,4 +50,5 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 		- 인덱스에 무작위로 값을 뿌리는 방식
 		- 장점 : contention 문제가 사라짐
 		- 다점 : 새로 삽입 값이 인덱스의 앞 뒤로 분산시킴 -> 기존 항목 중에 새로운 리프노드 항목을 삽입함
-	- 
+- Function based index
+	- 문제 : dbms에 저장된 데이터는 대소문
