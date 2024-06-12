@@ -52,5 +52,8 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 		- 다점 : 새로 삽입 값이 인덱스의 앞 뒤로 분산시킴 -> 기존 항목 중에 새로운 리프노드 항목을 삽입함
 - Function based index
 	- 문제 : dbms에 저장된 데이터는 대소문자에 민감하지만 표준 sql은 아님
-	- 해결법 : 
+	- 해결법 : 전체 테이블을 스캔하고 각 로우에 upper()함수 적용
 	- 더 나은 해결법 : 함수를 미리 걸어 인덱스 생성
+	```sql
+	create index upper_name_idx on emp((upper(name)));
+	```
