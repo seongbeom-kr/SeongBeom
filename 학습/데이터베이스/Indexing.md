@@ -72,5 +72,7 @@
 ## Secondary Indices
 - 종종, 사람들은 어떤 조건을 만족하는 특정 필드에 있는 값들을 가진 모든 레코드들을 찾길 원한다.
 - secondary index를 사용해서 찾는다.
-- search-key 갑
+- search-key 값에 대한 인덱스 레코드가 있는 secondary index를 가질 수 있음
+- index 레코드는 특정 검색키값을 가진 모든 실제 레코드에 대한 포인터를 포함하는 buket을 포인트한다
+- secondary index는 
 
