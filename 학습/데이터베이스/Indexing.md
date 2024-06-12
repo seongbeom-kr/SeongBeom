@@ -127,3 +127,4 @@
 ![](https://i.imgur.com/iCSaPu6.png)
 	
 ## Observation about B+Tree
+- 노드간 연결
