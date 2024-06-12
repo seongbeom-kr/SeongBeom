@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "마크다운 정리법.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "마크다운 정리법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "마크다운 정리법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "마크다운 정리법.md"
               }
             }
           }
@@ -150,10 +149,10 @@
   },
   "active": "25f41c065068e615",
   "lastOpenFiles": [
+    "HOME.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책/12주차 심신문제.md",
     "학습/철학산책/7주차 악에 대한 논증.md",
-    "HOME.md",
     "학습/철학산책/11주차.md",
     "학습/소프트웨어 공학/software evolution.md",
     "학습/철학산책/9, 10주차 윤리학.md",
