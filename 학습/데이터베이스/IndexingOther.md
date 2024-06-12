@@ -25,3 +25,9 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 - 비용추정
 - 휴리스틱 베이스(스스로 발견하는)
 - 일반적인 고려 요소(인덱스 유무, 테이블 크기, 데이터 분포)
+
+## Composite index & covering index
+- e둘 이상의 컬럼에 대한 인덱스(옛날엔 순서가 중요했음)
+- Covering index
+	- 테이블 참조 없이 인덱스만 처리 가능한 경우
+	- 일반적으로 성능이 우수(인덱스만 사용)
