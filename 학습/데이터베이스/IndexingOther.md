@@ -36,4 +36,9 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
 
 ## Ohter types of indices
 - 오라클의 기본 인덱스는 B+ tree임
-- 비트맵 
+- 비트맵
+  ```sql
+  create bitmap index bitmap_index[name] on branch(state)[table_name(col)]
+```
+- reverse index
+- 컬럼 인덱스의 대
