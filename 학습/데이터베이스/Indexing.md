@@ -121,5 +121,7 @@
 	- 
 - Non - leaf node in B+ 트리
 	- 리프노드가 아닌 노드는 리프 노드에 대해 멀티레벨 sparse index가 형성됨
-		- 
-![Uploading file...kfuhw]()
+		- P_1 포인트가 K-1보다 작은 하위트리의 검ㅅ
+
+![](https://i.imgur.com/iCSaPu6.png)
+
