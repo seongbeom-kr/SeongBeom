@@ -16,4 +16,6 @@ from user_indexes t, user_ind_columns c
 where c.index_name = t.index_name and t.table_name = 'EMP';
 ```
 
-## 오라클 
+## 오라클 데이터 접근 방법
+- 전체 테이블 순차적 접근
+- 인덱스 스켄 : 인덱스를 통한 접근
