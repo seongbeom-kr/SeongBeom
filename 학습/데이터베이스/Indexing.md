@@ -155,3 +155,9 @@
 ## multiple - key access
 - 특정 유형의 쿼리에 멀티플 인덱스를 사용함
 - Bitmap 인덱스는 몇몇 케이스에 대해 빠른 속도로 쿼리에 대한 동작이 가능함
+- 
+
+## Indices on Multiple Keys
+- composite searchkey 는 검색키가 하나 이상의 속성이 결합된것
+- 인덱스를 composite search key에 만든다
+- 
