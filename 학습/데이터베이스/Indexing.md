@@ -160,4 +160,7 @@
 ## Indices on Multiple Keys
 - composite searchkey 는 검색키가 하나 이상의 속성이 결합된것
 - 인덱스를 composite search key에 만든다
-- 
+
+## Other Features
+- Covering indices
+	- 
