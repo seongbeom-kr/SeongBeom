@@ -81,4 +81,5 @@
 ## Primary and Secondary Indices
 - 인덱스는 레코드를 검색할 때마다 상당한 이익을 준다(효율적이기 때문에!)
 - 그러나 데이터가 바뀔 때마다 인덱스를 모두 업데이트 해주어야 하기때문에 비용이 발생함
-- 순차적인 스캔을 사용할 시 Primary index를 사용하는 ㄱ
+- 순차적인 스캔을 사용할 시 Primary index를 사용하는 것이 효율적, Secondary index는 비효율적
+- 
