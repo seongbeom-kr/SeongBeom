@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd1969e610d95e3",
+        "id": "d288632705f446e2",
         "type": "tabs",
         "children": [
           {
-            "id": "25f41c065068e615",
+            "id": "f8157f6dbc94ab29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운 정리법.md",
+                "file": "학습/소프트웨어 공학/Design and implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운 정리법.md",
+                "file": "학습/소프트웨어 공학/Design and implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운 정리법.md",
+                "file": "학습/소프트웨어 공학/Design and implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운 정리법.md"
+                "file": "학습/소프트웨어 공학/Design and implementation.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "25f41c065068e615",
+  "active": "f8157f6dbc94ab29",
   "lastOpenFiles": [
+    "학습/소프트웨어 공학/software evolution.md",
+    "학습/소프트웨어 공학/topic 9.md",
     "HOME.md",
+    "마크다운 정리법.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책/12주차 심신문제.md",
     "학습/철학산책/7주차 악에 대한 논증.md",
     "학습/철학산책/11주차.md",
-    "학습/소프트웨어 공학/software evolution.md",
     "학습/철학산책/9, 10주차 윤리학.md",
     "학습/딥러닝/RNN/RNN.md",
     "학습/딥러닝/CNN/CNN Architectures.md",
@@ -165,7 +167,6 @@
     "학습/딥러닝/README.md",
     "학습/철학산책",
     "학습/소프트웨어 공학/Design and implementation.md",
-    "학습/소프트웨어 공학/topic 9.md",
     "학습/딥러닝/Attention.md",
     "학습/딥러닝/수업 CNN2.md",
     "학습",
@@ -190,7 +191,6 @@
     "학습/딥러닝/RNN",
     "DeepLearning/파이토치 기초 문법.md",
     "Screenshot 2024-01-08 at 11.06.17 AM.png.md",
-    "Welcome.md",
     "학습/딥러닝/CNN/assets",
     "학습/딥러닝/CNN",
     "논문리뷰",
