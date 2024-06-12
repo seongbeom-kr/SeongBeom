@@ -91,4 +91,8 @@
 > 주기적인 전체 파일의 재구조화가 요구됨
 
 - Leaf : 실제 포인터
-- 비교값이 크거나 
+- 비교값이 크거나 같으면 value(search key)다음 포인터를 찾아감
+- Null pointer -> 가르키는 포인터가 없음(마지막에 삽입)
+
+- B+ tree는 indexed-sequential files의 대안이다
+- index 시퀀스 파일의 약점
