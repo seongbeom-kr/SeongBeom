@@ -41,4 +41,6 @@ where c.index_name = t.index_name and t.table_name = 'EMP';
   create bitmap index bitmap_index[name] on branch(state)[table_name(col)]
 ```
 - reverse index
-- 컬럼 인덱스의 대
+- 컬럼 인덱스의 대표적인 문제 : 테이블의 기본키가 시퀀셜하게 증가하는 숫자일 경우
+	- 일반적인 비트리의 이점
+		- 새로운 데이터 
