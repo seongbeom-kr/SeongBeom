@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/소프트웨어 공학/Design and implementation.md",
+                "file": "학습/딥러닝/RNN/RNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/소프트웨어 공학/Design and implementation.md",
+                "file": "학습/딥러닝/RNN/RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/소프트웨어 공학/Design and implementation.md",
+                "file": "학습/딥러닝/RNN/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/소프트웨어 공학/Design and implementation.md"
+                "file": "학습/딥러닝/RNN/RNN.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f8157f6dbc94ab29",
   "lastOpenFiles": [
+    "학습/소프트웨어 공학/Design and implementation.md",
     "학습/소프트웨어 공학/software evolution.md",
     "학습/소프트웨어 공학/topic 9.md",
     "HOME.md",
@@ -166,7 +167,6 @@
     "학습/소프트웨어 공학/Architectural Design.md",
     "학습/딥러닝/README.md",
     "학습/철학산책",
-    "학습/소프트웨어 공학/Design and implementation.md",
     "학습/딥러닝/Attention.md",
     "학습/딥러닝/수업 CNN2.md",
     "학습",
