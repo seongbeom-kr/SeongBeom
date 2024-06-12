@@ -68,3 +68,6 @@
 - 관계 계수는 관계속성의 배치에 영향을 줌
 
 ## mapping carinalities affect er design
+ER 디자인에 영향을 미치는 연결 계수 : 여러개면 관계를 만드는게 좋지만 one to one 이면 그냥 속성을 만드는게 더 좋다
+
+##
