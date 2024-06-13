@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/소프트웨어 공학/software evolution.md",
+                "file": "학습/소프트웨어 공학/Design and implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/소프트웨어 공학/software evolution.md",
+                "file": "학습/소프트웨어 공학/Design and implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/소프트웨어 공학/software evolution.md",
+                "file": "학습/소프트웨어 공학/Design and implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/소프트웨어 공학/software evolution.md"
+                "file": "학습/소프트웨어 공학/Design and implementation.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "30ba726e28bbbfa8",
   "lastOpenFiles": [
+    "학습/소프트웨어 공학/software evolution.md",
     "학습/소프트웨어 공학/topic 9.md",
     "학습/소프트웨어 공학/Design and implementation.md",
     "학습/소프트웨어 공학/Architectural Design.md",
@@ -204,7 +205,6 @@
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
     "HOME.md",
     "학습/딥러닝/RNN/RNN.md",
-    "학습/소프트웨어 공학/software evolution.md",
     "마크다운 정리법.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책/12주차 심신문제.md",
