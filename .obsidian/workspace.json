@@ -149,6 +149,7 @@
   },
   "active": "c09db225bddcfc7b",
   "lastOpenFiles": [
+    "lime_output.png",
     "학습/밑시딥",
     "학습/데이터베이스/Indexing.md",
     "학습/데이터베이스/StructuredQueryLanguage.md",
@@ -193,7 +194,6 @@
     "학습/딥러닝교과서/CNN/assets/Pasted image 20240529152521.png",
     "학습/데이터베이스/assets",
     "학습/딥러닝교과서/RNN",
-    "학습/딥러닝교과서/CNN/assets",
-    "학습/딥러닝교과서/CNN"
+    "학습/딥러닝교과서/CNN/assets"
   ]
 }
