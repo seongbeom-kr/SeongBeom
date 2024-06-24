@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76158a286a34a635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "논문 결과 해석.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "논문 결과 해석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "논문 결과 해석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "논문 결과 해석.md"
               }
             }
           }
@@ -147,8 +160,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "76158a286a34a635",
   "lastOpenFiles": [
+    "HOME.md",
+    "논문 결과 해석.md",
+    "무제 폴더",
     "lime_output.png",
     "학습/밑시딥",
     "학습/데이터베이스/Indexing.md",
@@ -169,7 +185,6 @@
     "학습/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
-    "HOME.md",
     "학습/딥러닝교과서/RNN/RNN.md",
     "마크다운 정리법.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
@@ -191,9 +206,7 @@
     "assets",
     "학습/딥러닝교과서/CNN/assets/스크린샷 2024-05-29 15.33.17.png",
     "학습/딥러닝교과서/CNN/assets/Pasted image 20240529152549.png",
-    "학습/딥러닝교과서/CNN/assets/Pasted image 20240529152521.png",
     "학습/데이터베이스/assets",
-    "학습/딥러닝교과서/RNN",
-    "학습/딥러닝교과서/CNN/assets"
+    "학습/딥러닝교과서/RNN"
   ]
 }
