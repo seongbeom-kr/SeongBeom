@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95176d1c941a726b",
+        "id": "9c6b7e30dbf6c4d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d47562a1da519359",
+            "id": "1d4d5cac474c47fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/앙트레프레너쉽/중간고사 전.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/앙트레프레너쉽/중간고사 전.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/앙트레프레너쉽/중간고사 전.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/앙트레프레너쉽/중간고사 전.md"
+                "file": "학습/비즈니스모델/중간고사 전.md"
               }
             }
           }
@@ -148,9 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d47562a1da519359",
+  "active": "1d4d5cac474c47fd",
   "lastOpenFiles": [
     "HOME.md",
+    "학습/비즈니스모델/중간고사 전.md",
     "학습/앙트레프레너쉽/중간고사 전.md",
     "학습/비즈니스모델",
     "학습/앙트레프레너쉽",
@@ -185,7 +185,6 @@
     "학습/철학산책/9, 10주차 윤리학.md",
     "학습/딥러닝교과서/CNN/CNN Architectures.md",
     "학습/딥러닝교과서/Regularization.md",
-    "README.md",
     "학습/철학산책",
     "학습",
     "extended-colorschemes.css",
