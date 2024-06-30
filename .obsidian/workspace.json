@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19bb02d16835f08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학습/데이터베이스/Advanced Structed Query Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md",
+                "file": "학습/데이터베이스/Advanced Structed Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md",
+                "file": "학습/데이터베이스/Advanced Structed Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md"
+                "file": "학습/데이터베이스/Advanced Structed Query Language.md"
               }
             }
           }
@@ -160,10 +173,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "35ef62b1b2605420",
+  "active": "19bb02d16835f08c",
   "lastOpenFiles": [
-    "학습/딥러닝교과서/CNN/CNN Architectures.md",
     "HOME.md",
+    "학습/딥러닝교과서/CNN/CNN Architectures.md",
     "학습/비즈니스모델/중간고사 전.md",
     "학습/앙트레프레너쉽/중간고사 전.md",
     "학습/비즈니스모델",
