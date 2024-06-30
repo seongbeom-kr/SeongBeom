@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/딥러닝교과서/RNN/RNN.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/딥러닝교과서/RNN/RNN.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/딥러닝교과서/RNN/RNN.md"
+                "file": "학습/비즈니스모델/중간고사 전.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7937c7a2e348f622",
+  "active": "35ef62b1b2605420",
   "lastOpenFiles": [
-    "학습/비즈니스모델/중간고사 전.md",
     "학습/딥러닝교과서/RNN/RNN.md",
+    "학습/비즈니스모델/중간고사 전.md",
     "HOME.md",
     "학습/데이터베이스/Advanced Structed Query Language.md",
     "학습/딥러닝교과서/CNN/CNN Architectures.md",
