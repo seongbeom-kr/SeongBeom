@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "33e78e47fe8a67c9",
+            "id": "7937c7a2e348f622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/딥러닝교과서/CNN/CNN Architectures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19bb02d16835f08c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "학습/데이터베이스/Advanced Structed Query Language.md",
+                "file": "학습/딥러닝교과서/RNN/RNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/데이터베이스/Advanced Structed Query Language.md",
+                "file": "학습/딥러닝교과서/RNN/RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/데이터베이스/Advanced Structed Query Language.md",
+                "file": "학습/딥러닝교과서/RNN/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/데이터베이스/Advanced Structed Query Language.md"
+                "file": "학습/딥러닝교과서/RNN/RNN.md"
               }
             }
           }
@@ -173,11 +161,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "19bb02d16835f08c",
+  "active": "7937c7a2e348f622",
   "lastOpenFiles": [
-    "HOME.md",
-    "학습/딥러닝교과서/CNN/CNN Architectures.md",
     "학습/비즈니스모델/중간고사 전.md",
+    "학습/딥러닝교과서/RNN/RNN.md",
+    "HOME.md",
+    "학습/데이터베이스/Advanced Structed Query Language.md",
+    "학습/딥러닝교과서/CNN/CNN Architectures.md",
     "학습/앙트레프레너쉽/중간고사 전.md",
     "학습/비즈니스모델",
     "학습/앙트레프레너쉽",
@@ -187,7 +177,6 @@
     "학습/밑시딥",
     "학습/데이터베이스/Indexing.md",
     "학습/데이터베이스/StructuredQueryLanguage.md",
-    "학습/데이터베이스/Advanced Structed Query Language.md",
     "학습/데이터베이스/IndexingOther.md",
     "학습/데이터베이스/Entity relationship model.md",
     "학습/소프트웨어 공학/Design and implementation.md",
@@ -203,7 +192,6 @@
     "학습/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
-    "학습/딥러닝교과서/RNN/RNN.md",
     "마크다운 정리법.md",
     "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책/12주차 심신문제.md",
