@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b79401b59fe5ed49",
+        "id": "71093711f7640d37",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1504056980ce5c",
+            "id": "35ef62b1b2605420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "학습/비즈니스모델/중간고사 전.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "학습/비즈니스모델/중간고사 전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "학습/비즈니스모델/중간고사 전.md"
               }
             }
           }
@@ -147,11 +148,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c1504056980ce5c",
+  "active": "35ef62b1b2605420",
   "lastOpenFiles": [
-    "학습/비즈니스모델/중간고사 전.md",
-    "HOME.md",
     "학습/앙트레프레너쉽/중간고사 전.md",
+    "HOME.md",
+    "학습/비즈니스모델/중간고사 전.md",
     "학습/비즈니스모델",
     "학습/앙트레프레너쉽",
     "논문 결과 해석.md",
