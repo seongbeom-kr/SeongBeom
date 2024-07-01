@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6fd5a041a8e1af",
+        "id": "925218f5fa44686f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b569abe5fd4c882",
+            "id": "014a6c9723a05c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,7 +148,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0b569abe5fd4c882",
+  "active": "014a6c9723a05c5e",
   "lastOpenFiles": [
     "HOME.md",
     "학습/비즈니스모델/중간고사 전.md",
