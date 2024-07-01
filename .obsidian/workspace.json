@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md",
+                "file": "학습/앙트레프레너쉽/중간고사 전.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md",
+                "file": "학습/앙트레프레너쉽/중간고사 전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md",
+                "file": "학습/앙트레프레너쉽/중간고사 전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학습/비즈니스모델/중간고사 전.md"
+                "file": "학습/앙트레프레너쉽/중간고사 전.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "014a6c9723a05c5e",
   "lastOpenFiles": [
-    "HOME.md",
     "학습/비즈니스모델/중간고사 전.md",
+    "HOME.md",
     "학습/딥러닝교과서/RNN/RNN.md",
     "학습/데이터베이스/Advanced Structed Query Language.md",
     "학습/딥러닝교과서/CNN/CNN Architectures.md",
