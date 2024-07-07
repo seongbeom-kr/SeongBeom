@@ -5,5 +5,6 @@
   "alwaysUpdateLinks": false,
   "readableLineLength": false,
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "trashOption": "system"
 }
