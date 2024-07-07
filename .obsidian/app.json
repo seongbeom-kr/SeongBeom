@@ -3,6 +3,7 @@
   "spellcheck": false,
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": false,
-  "readableLineLength": true,
-  "promptDelete": false
+  "readableLineLength": false,
+  "promptDelete": false,
+  "showLineNumber": true
 }
