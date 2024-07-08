@@ -55,8 +55,10 @@ filter by function !task.file.folder.includes("templates")
 not done 
 sort by priority 
 ```
-### 업무 할 일 
-```tasks tag include #업무 ``` 
+### 학습 할 일 
+```tasks 
+tag include #학습 
+``` 
 ### 개인 할 일 
 
 ### 반복 할 일 
