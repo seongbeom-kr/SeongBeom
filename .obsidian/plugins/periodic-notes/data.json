@@ -5,7 +5,7 @@
   "daily": {
     "format": "YYYY-MM-DD(ddd)",
     "template": "Templates/Daily_Note 템플릿.md",
-    "folder": "Planner/01. Daily",
+    "folder": "10. Planner/11. Daily",
     "enabled": true
   },
   "weekly": {

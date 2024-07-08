@@ -4,47 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23cd502051933b25",
+        "id": "4c28cbbfcdd498fb",
         "type": "tabs",
         "children": [
           {
-            "id": "5e15a28f34605c87",
+            "id": "f73445b5523ce267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/01. Daily/2024-07-10(수).md",
+                "file": "10. Planner/11. Daily/2024-07-09(화).md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c87bb155a2274b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks 필터링 구문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc8b030232f41a12",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f9db6f58c958e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Book_list/무제 파일.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/01. Daily/2024-07-10(수).md",
+                "file": "10. Planner/11. Daily/2024-07-09(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/01. Daily/2024-07-10(수).md",
+                "file": "10. Planner/11. Daily/2024-07-09(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/01. Daily/2024-07-10(수).md"
+                "file": "10. Planner/11. Daily/2024-07-09(화).md"
               }
             }
           }
@@ -192,9 +162,11 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "5e15a28f34605c87",
+  "active": "f73445b5523ce267",
   "lastOpenFiles": [
+    "Templates/Tasks 필터링 구문.md",
     "Templates/Daily_Note 템플릿.md",
+    "10. Planner/11. Daily/2024-07-10(수).md",
     "Planner/01. Daily/2024-07-10(수).md",
     "Planner/01. Daily",
     "Planner",
@@ -205,7 +177,6 @@
     "Book/무제 파일.md",
     "Book/Book_list",
     "Book",
-    "Templates/Tasks 필터링 구문.md",
     "A/무제 파일.md",
     "Planner/01. Daily/2024-07-02(화).md",
     "Todo.md",
@@ -230,7 +201,6 @@
     "20. Study/데이터베이스/StructuredQueryLanguage.md",
     "20. Study/데이터베이스/IndexingOther.md",
     "20. Study/데이터베이스/Entity relationship model.md",
-    "학습/소프트웨어 공학/Design and implementation.md",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "20. Study/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
