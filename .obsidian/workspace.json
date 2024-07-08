@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -121,7 +120,14 @@
               "type": "outline",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "fdc28c6290da8f7c",
+        "type": "tabs",
+        "children": [
           {
             "id": "1548d155a5718dde",
             "type": "leaf",
@@ -130,12 +136,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +152,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1548d155a5718dde",
+  "active": "f03cf36346bd01d6",
   "lastOpenFiles": [
     "README.md",
     "Todo.md",
