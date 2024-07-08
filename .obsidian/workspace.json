@@ -171,11 +171,13 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "5e15a28f34605c87",
+  "active": "c09db225bddcfc7b",
   "lastOpenFiles": [
+    "무제 폴더",
     "Templates/Daily_Note 템플릿.md",
     "Planner/01. Daily/2024-07-09(화).md",
     "Tasks/매일 반복해서 할 일.md",
@@ -184,7 +186,6 @@
     "A/무제 파일.md",
     "Planner/01. Daily/2024-07-02(화).md",
     "Todo.md",
-    "무제 폴더",
     "B",
     "Tasks",
     "Templates",
@@ -211,7 +212,6 @@
     "학습/소프트웨어 공학/Design and implementation.md",
     "학습/소프트웨어 공학/software evolution.md",
     "학습/소프트웨어 공학/topic 9.md",
-    "학습/소프트웨어 공학/Architectural Design.md",
     "학습/소프트웨어 공학/Complete_Document_A4_reportlab.pdf",
     "학습/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
