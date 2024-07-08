@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-10(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-10(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-10(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "Planner/01. Daily/2024-07-10(수).md"
               }
             }
           }
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +194,17 @@
   },
   "active": "5e15a28f34605c87",
   "lastOpenFiles": [
+    "Templates/Daily_Note 템플릿.md",
+    "Planner/01. Daily/2024-07-10(수).md",
+    "Planner/01. Daily",
+    "Planner",
     "Tasks/매일 반복해서 할 일.md",
-    "10. Planner/01. Daily/2024-07-08(월).md",
-    "10. Planner/01. Daily/2024-07-09(화).md",
+    "10. Planner/11. Daily/2024-07-08(월).md",
+    "10. Planner/11. Daily/2024-07-09(화).md",
     "Book/Book_list/무제 파일.md",
     "Book/무제 파일.md",
     "Book/Book_list",
     "Book",
-    "Templates/Daily_Note 템플릿.md",
     "Templates/Tasks 필터링 구문.md",
     "A/무제 파일.md",
     "Planner/01. Daily/2024-07-02(화).md",
@@ -210,7 +212,7 @@
     "B",
     "Tasks",
     "Templates",
-    "10. Planner/01. Daily",
+    "10. Planner/11. Daily",
     "10. Planner",
     "README.md",
     "HOME.md",
@@ -223,15 +225,12 @@
     "20. Study/데이터베이스/Advanced Structed Query Language.md",
     "20. Study/딥러닝교과서/CNN/CNN Architectures.md",
     "20. Study/비즈니스모델",
-    "20. Study/앙트레프레너쉽",
     "lime_output.png",
-    "20. Study/밑시딥",
     "20. Study/데이터베이스/Indexing.md",
     "20. Study/데이터베이스/StructuredQueryLanguage.md",
     "20. Study/데이터베이스/IndexingOther.md",
     "20. Study/데이터베이스/Entity relationship model.md",
     "학습/소프트웨어 공학/Design and implementation.md",
-    "학습/소프트웨어 공학/software evolution.md",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "20. Study/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",

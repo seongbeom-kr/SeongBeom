@@ -29,7 +29,7 @@ tags:
 
 ## 오늘 기억할 일
 <%* 
-	let yesterday = "Planner/01. Daily/" + tp.date.now("YYYY-MM-DD(ddd)", -1, tp.file.title, "YYYY-MM-DD(ddd)"); 
+	let yesterday = "10. Planner/11. Daily/" + tp.date.now("YYYY-MM-DD(ddd)", -1, tp.file.title, "YYYY-MM-DD(ddd)"); 
 	let section = "## 내일 기억할 일"; 
 	let should_include = false; 
 	let sectionContent = ""; 
