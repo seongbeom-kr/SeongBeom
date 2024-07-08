@@ -61,7 +61,7 @@ sort by priority
 
 ### 반복 할 일 
 ```tasks 
-sort by recurring 
+tags include 
 ```
 
 ### 언젠가 할 일 
