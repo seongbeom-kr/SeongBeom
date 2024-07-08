@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md",
+                "file": "A/할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md",
+                "file": "A/할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md",
+                "file": "A/할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md"
+                "file": "A/할 일.md"
               }
             }
           }
@@ -176,12 +176,12 @@
   },
   "active": "80f1f9a0e31b748c",
   "lastOpenFiles": [
-    "Planner/01. Daily/2024-07-09(화).md",
     "Templates/Tasks 필터링 구문.md",
+    "Planner/01. Daily/2024-07-09(화).md",
     "A/무제 파일.md",
     "무제 폴더",
     "Planner/01. Daily/2024-07-08(월).md",
-    "A/할 일 A.md",
+    "A/할 일.md",
     "Templates/Daily_Note 템플릿.md",
     "B",
     "A",
