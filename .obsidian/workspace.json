@@ -15,7 +15,7 @@
               "state": {
                 "file": "Planner/01. Daily/2024-07-02(화).md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -158,7 +158,8 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f03cf36346bd01d6",

@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "promptDelete": false,
   "showLineNumber": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "livePreview": false
 }
