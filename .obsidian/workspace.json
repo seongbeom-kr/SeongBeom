@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "Templates/Daily_Note 템플릿.md"
               }
             }
           }
@@ -162,8 +162,9 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "f73445b5523ce267",
   "lastOpenFiles": [
+    "HOME.md",
     "10. Planner/11. Daily/2024-07-09(화).md",
     "Templates/Tasks 필터링 구문.md",
     "Templates/Daily_Note 템플릿.md",
@@ -186,7 +187,6 @@
     "10. Planner/11. Daily",
     "10. Planner",
     "README.md",
-    "HOME.md",
     "마크다운 정리법.md",
     "30. Paper/논문 결과 해석.md",
     "30. Paper/DDPM.md",
