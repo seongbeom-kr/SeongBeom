@@ -17,5 +17,5 @@
 ### 폴더 필터링 
 #### 현재의 폴더에 들어있는 할 일 
 - folder includes {{query.file.folder}} 
-#### 폴더를 포함
+- #### 폴더를 포함
 - filter by function task.file.folder.includes("폴더 이름")

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80f1f9a0e31b748c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks 필터링 구문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md",
+                "file": "Templates/Tasks 필터링 구문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md",
+                "file": "Templates/Tasks 필터링 구문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md"
+                "file": "Templates/Tasks 필터링 구문.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "fdc28c6290da8f7c",
@@ -162,7 +174,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e393ecc57f4471db",
+  "active": "80f1f9a0e31b748c",
   "lastOpenFiles": [
     "Planner/01. Daily/2024-07-09(화).md",
     "Templates/Tasks 필터링 구문.md",
