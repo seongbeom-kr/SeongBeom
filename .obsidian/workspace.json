@@ -11,8 +11,12 @@
             "id": "f03cf36346bd01d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Note 템플릿.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily_Note 템플릿.md"
+              }
             }
           }
         ],
@@ -152,9 +160,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "f03cf36346bd01d6",
   "lastOpenFiles": [
-    "무제 폴더",
+    "Daily_Note 템플릿.md",
+    "Templates",
     "Planner/01. Daily",
     "Planner",
     "README.md",
@@ -193,7 +202,6 @@
     "학습/철학산책/12주차 심신문제.md",
     "학습/철학산책",
     "학습",
-    "extended-colorschemes.css",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
     "학습/딥러닝교과서/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
     "학습/딥러닝교과서/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
