@@ -65,9 +65,13 @@ tags include
 ```
 
 ### 언젠가 할 일 
-```tasks no due date not done description regex does not match /^$/ ``` 
+```tasks 
+no due date not done description regex does not match /^$/ 
+``` 
 ### 오늘 완료한 일 
-```tasks done <% tp.file.title.slice(0,10) %> ``` 
+```tasks
+done <% tp.file.title.slice(0,10) %> 
+``` 
 ## 독서 
 - 읽은 책 
 - 읽은 페이지 
@@ -82,8 +86,11 @@ tags include
 
 ### 일기 
 ## 오늘 작성한 노트 
-```
-dataview List FROM "" WHERE file.cday = date("<% tp.date.now('YYYY-MM-DD') %>") SORT file.ctime desc 
+```dataview 
+List FROM "" WHERE file.cday = date("<% tp.date.now('YYYY-MM-DD') %>") SORT file.ctime desc 
 ``` 
 ## 오늘 수정한 노트 
- ```dataview List FROM "" WHERE file.mday = date("<% tp.date.now('YYYY-MM-DD') %>") SORT file.mtime desc ```
+ ```dataview 
+ List FROM "" WHERE file.mday = date("<% tp.date.now('YYYY-MM-DD') %>") SORT file.mtime desc 
+ ```
+ 
