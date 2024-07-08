@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md",
+                "file": "Templates/Tasks 필터링 구문.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md",
+                "file": "Templates/Tasks 필터링 구문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md",
+                "file": "Templates/Tasks 필터링 구문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/01. Daily/2024-07-09(화).md"
+                "file": "Templates/Tasks 필터링 구문.md"
               }
             }
           }
@@ -175,17 +175,17 @@
   },
   "active": "e393ecc57f4471db",
   "lastOpenFiles": [
-    "A/할 일.md",
+    "Templates/Daily_Note 템플릿.md",
     "Templates/Tasks 필터링 구문.md",
     "Planner/01. Daily/2024-07-09(화).md",
+    "A/할 일.md",
+    "Planner/01. Daily/2024-07-02(화).md",
+    "Todo.md",
     "A/무제 파일.md",
     "무제 폴더",
     "Planner/01. Daily/2024-07-08(월).md",
-    "Templates/Daily_Note 템플릿.md",
     "B",
     "A",
-    "Planner/01. Daily/2024-07-02(화).md",
-    "Todo.md",
     "Templates",
     "Planner/01. Daily",
     "Planner",
