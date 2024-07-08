@@ -68,7 +68,10 @@ is recurring
 
 ### 언젠가 할 일 
 ```tasks 
-no due date not done description regex does not match /^$/ 
+no due date 
+not done 
+description regex does not match /^$/
+is not recurring
 ``` 
 ### 오늘 완료한 일 
 ```tasks
