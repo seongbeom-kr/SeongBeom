@@ -60,7 +60,9 @@ sort by priority
 ### 개인 할 일 
 
 ### 반복 할 일 
-```tasks is recurring not done has tags ```
+```tasks 
+sort by recurring 
+```
 
 ### 언젠가 할 일 
 ```tasks no due date not done description regex does not match /^$/ ``` 
