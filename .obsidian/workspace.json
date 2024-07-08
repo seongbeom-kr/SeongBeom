@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-09(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-09(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-09(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "Planner/01. Daily/2024-07-09(화).md"
               }
             }
           }
@@ -176,9 +176,9 @@
   },
   "active": "5e15a28f34605c87",
   "lastOpenFiles": [
+    "Templates/Daily_Note 템플릿.md",
     "Planner/01. Daily/2024-07-09(화).md",
     "Tasks/매일 반복해서 할 일.md",
-    "Templates/Daily_Note 템플릿.md",
     "Planner/01. Daily/2024-07-08(월).md",
     "Templates/Tasks 필터링 구문.md",
     "A/무제 파일.md",
