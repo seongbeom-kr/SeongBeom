@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A/할 일.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Tasks 필터링 구문.md"
+                "file": "Templates/Daily_Note 템플릿.md"
               }
             }
           }
@@ -173,12 +174,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e393ecc57f4471db",
+  "active": "80f1f9a0e31b748c",
   "lastOpenFiles": [
-    "Templates/Daily_Note 템플릿.md",
-    "Templates/Tasks 필터링 구문.md",
-    "Planner/01. Daily/2024-07-09(화).md",
     "A/할 일.md",
+    "Templates/Tasks 필터링 구문.md",
+    "Templates/Daily_Note 템플릿.md",
+    "Planner/01. Daily/2024-07-09(화).md",
     "Planner/01. Daily/2024-07-02(화).md",
     "Todo.md",
     "A/무제 파일.md",
