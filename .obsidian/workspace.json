@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-08(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-08(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-08(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "Planner/01. Daily/2024-07-08(월).md"
               }
             }
           }
@@ -164,9 +164,9 @@
   },
   "active": "f03cf36346bd01d6",
   "lastOpenFiles": [
-    "Planner/01. Daily/2024-07-09(화).md",
     "Templates/Daily_Note 템플릿.md",
     "Planner/01. Daily/2024-07-08(월).md",
+    "Planner/01. Daily/2024-07-09(화).md",
     "Planner/01. Daily/2024-07-02(화).md",
     "Todo.md",
     "Templates",
