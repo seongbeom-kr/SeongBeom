@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Note 템플릿.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Note 템플릿.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Note 템플릿.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Note 템플릿.md"
+                "file": "Templates/Daily_Note 템플릿.md"
               }
             }
           }
@@ -148,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +157,14 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f03cf36346bd01d6",
   "lastOpenFiles": [
-    "Daily_Note 템플릿.md",
+    "Planner/01. Daily/2024-07-08(월).md",
+    "Templates/Daily_Note 템플릿.md",
     "Templates",
     "Planner/01. Daily",
     "Planner",
@@ -199,7 +201,6 @@
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
     "학습/철학산책/14주차 자유의지와 결정론.md",
-    "학습/철학산책/12주차 심신문제.md",
     "학습/철학산책",
     "학습",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
