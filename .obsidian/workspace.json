@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-02(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-02(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Planner/01. Daily/2024-07-02(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "Planner/01. Daily/2024-07-02(화).md"
               }
             }
           }
@@ -148,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +164,7 @@
   "active": "f03cf36346bd01d6",
   "lastOpenFiles": [
     "Planner/01. Daily/2024-07-08(월).md",
+    "Planner/01. Daily/2024-07-02(화).md",
     "Templates/Daily_Note 템플릿.md",
     "Templates",
     "Planner/01. Daily",
@@ -200,7 +201,6 @@
     "학습/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
-    "학습/철학산책/14주차 자유의지와 결정론.md",
     "학습/철학산책",
     "학습",
     "딥러닝/CNN/assets/Pasted image 20240530114247.png",
