@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Book/Book_list/다시 고등 수학.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Book/Book_list/다시 고등 수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Book/Book_list/다시 고등 수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "Book/Book_list/다시 고등 수학.md"
               }
             }
           }
@@ -164,17 +164,17 @@
   },
   "active": "f73445b5523ce267",
   "lastOpenFiles": [
+    "Templates/Daily_Note 템플릿.md",
     "HOME.md",
     "10. Planner/11. Daily/2024-07-09(화).md",
     "Templates/Tasks 필터링 구문.md",
-    "Templates/Daily_Note 템플릿.md",
     "10. Planner/11. Daily/2024-07-10(수).md",
     "Planner/01. Daily/2024-07-10(수).md",
     "Planner/01. Daily",
     "Planner",
     "Tasks/매일 반복해서 할 일.md",
     "10. Planner/11. Daily/2024-07-08(월).md",
-    "Book/Book_list/무제 파일.md",
+    "Book/Book_list/다시 고등 수학.md",
     "Book/무제 파일.md",
     "Book/Book_list",
     "Book",
