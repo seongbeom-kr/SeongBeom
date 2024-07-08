@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A/할 일.md",
+                "file": "Planner/01. Daily/2024-07-09(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A/할 일.md",
+                "file": "Planner/01. Daily/2024-07-09(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A/할 일.md"
+                "file": "Planner/01. Daily/2024-07-09(화).md"
               }
             }
           }
@@ -174,14 +173,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80f1f9a0e31b748c",
+  "active": "e393ecc57f4471db",
   "lastOpenFiles": [
+    "A/할 일.md",
     "Templates/Tasks 필터링 구문.md",
     "Planner/01. Daily/2024-07-09(화).md",
     "A/무제 파일.md",
     "무제 폴더",
     "Planner/01. Daily/2024-07-08(월).md",
-    "A/할 일.md",
     "Templates/Daily_Note 템플릿.md",
     "B",
     "A",
