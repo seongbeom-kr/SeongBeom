@@ -62,8 +62,8 @@ tag include #학습
 ### 개인 할 일 
 
 ### 반복 할 일 
-```tasks 
-fildter by function task.file.folder.includes("A")
+```tasks
+
 ```
 
 ### 언젠가 할 일 
