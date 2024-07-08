@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Book_list/다시 고등 수학.md",
+                "file": "Book/Book_list/다시고등수학_리뷰.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/Book_list/다시 고등 수학.md",
+                "file": "Book/Book_list/다시고등수학_리뷰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/Book_list/다시 고등 수학.md",
+                "file": "Book/Book_list/다시고등수학_리뷰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Book_list/다시 고등 수학.md"
+                "file": "Book/Book_list/다시고등수학_리뷰.md"
               }
             }
           }
@@ -174,7 +174,7 @@
     "Planner",
     "Tasks/매일 반복해서 할 일.md",
     "10. Planner/11. Daily/2024-07-08(월).md",
-    "Book/Book_list/다시 고등 수학.md",
+    "Book/Book_list/다시고등수학_리뷰.md",
     "Book/무제 파일.md",
     "Book/Book_list",
     "Book",
