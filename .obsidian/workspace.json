@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Book_list/무제 파일.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/Book_list/무제 파일.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/Book_list/무제 파일.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Book_list/무제 파일.md"
+                "file": "Templates/Daily_Note 템플릿.md"
               }
             }
           }
@@ -193,16 +193,16 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "5e15a28f34605c87",
   "lastOpenFiles": [
-    "Planner/01. Daily/2024-07-09(화).md",
+    "Tasks/매일 반복해서 할 일.md",
+    "10. Planner/01. Daily/2024-07-08(월).md",
+    "10. Planner/01. Daily/2024-07-09(화).md",
     "Book/Book_list/무제 파일.md",
     "Book/무제 파일.md",
     "Book/Book_list",
     "Book",
     "Templates/Daily_Note 템플릿.md",
-    "Tasks/매일 반복해서 할 일.md",
-    "Planner/01. Daily/2024-07-08(월).md",
     "Templates/Tasks 필터링 구문.md",
     "A/무제 파일.md",
     "Planner/01. Daily/2024-07-02(화).md",
@@ -210,13 +210,13 @@
     "B",
     "Tasks",
     "Templates",
-    "Planner/01. Daily",
-    "Planner",
+    "10. Planner/01. Daily",
+    "10. Planner",
     "README.md",
     "HOME.md",
     "마크다운 정리법.md",
-    "10. Paper/논문 결과 해석.md",
-    "10. Paper/DDPM.md",
+    "30. Paper/논문 결과 해석.md",
+    "30. Paper/DDPM.md",
     "20. Study/앙트레프레너쉽/중간고사 전.md",
     "20. Study/비즈니스모델/중간고사 전.md",
     "20. Study/딥러닝교과서/RNN/RNN.md",
