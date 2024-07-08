@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Book/Book_list/무제 파일.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -193,7 +193,7 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "3f9db6f58c958e89",
+  "active": "5e15a28f34605c87",
   "lastOpenFiles": [
     "Planner/01. Daily/2024-07-09(화).md",
     "Book/Book_list/무제 파일.md",
