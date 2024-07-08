@@ -63,7 +63,7 @@ tag include #학습
 
 ### 반복 할 일 
 ```tasks 
-fildter 
+fildter by function task.file.folder.includes("A")
 ```
 
 ### 언젠가 할 일 
