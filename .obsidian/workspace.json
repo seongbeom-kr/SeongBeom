@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A/할 일 A.md",
+                "file": "A/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A/할 일 A.md",
+                "file": "A/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A/할 일 A.md",
+                "file": "A/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A/할 일 A.md"
+                "file": "A/무제 파일.md"
               }
             }
           }
@@ -177,8 +177,9 @@
   },
   "active": "dbeb25d2638d16b4",
   "lastOpenFiles": [
-    "Templates/Daily_Note 템플릿.md",
     "A/할 일 A.md",
+    "A/무제 파일.md",
+    "Templates/Daily_Note 템플릿.md",
     "B",
     "A",
     "Planner/01. Daily/2024-07-08(월).md",
@@ -213,7 +214,6 @@
     "학습/소프트웨어 공학/Complete_Document_A4_reportlab.pdf",
     "학습/소프트웨어 공학/Summary_Documents.pdf",
     "학습/데이터베이스/정규화.md",
-    "학습/소프트웨어 공학/use case 기반 요구사항 명세서 작성.md",
     "학습/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "학습/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
     "학습/데이터베이스/image/스크린샷 2024-05-25 17.09.33.png",
