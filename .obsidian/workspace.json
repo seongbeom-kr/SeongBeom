@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
+                "file": "10. Planner/11. Daily/2024-07-09(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
+                "file": "10. Planner/11. Daily/2024-07-09(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
+                "file": "10. Planner/11. Daily/2024-07-09(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40. Book/41. Book_list/다시 고등 수학_리뷰.md"
+                "file": "10. Planner/11. Daily/2024-07-09(화).md"
               }
             }
           }
@@ -162,10 +162,10 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "f73445b5523ce267",
   "lastOpenFiles": [
-    "ffff.md",
     "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
+    "ffff.md",
     "test.md",
     "Templates/Daily_Note 템플릿.md",
     "HOME.md",
