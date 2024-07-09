@@ -65,6 +65,7 @@ tag include #학습
 ```tasks
 is recurring
 due on or before <% tp.file.title.slice(0,10) %> 
+not done
 ```
 
 ### 언젠가 할 일 
