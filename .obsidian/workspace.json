@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/7대3 회의.md",
+                "file": "20. Study/딥러닝교과서/CNN/CNN Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/7대3 회의.md",
+                "file": "20. Study/딥러닝교과서/CNN/CNN Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/7대3 회의.md",
+                "file": "20. Study/딥러닝교과서/CNN/CNN Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/7대3 회의.md"
+                "file": "20. Study/딥러닝교과서/CNN/CNN Basic.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "f73445b5523ce267",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-09(화).md",
     "Tasks/7대3 회의.md",
+    "10. Planner/11. Daily/2024-07-09(화).md",
     "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
     "ffff.md",
     "test.md",
