@@ -64,7 +64,7 @@ tag include #학습
 ### 반복 할 일 
 ```tasks
 is recurring
-due to today
+due on or before <% tp.file.title.slice(0,10) %> 
 ```
 
 ### 언젠가 할 일 
