@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c28cbbfcdd498fb",
+        "id": "0581a99777ae327a",
         "type": "tabs",
         "children": [
           {
-            "id": "f73445b5523ce267",
+            "id": "869429bade31cc55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/7대3 회의.md",
+                "file": "10. Planner/11. Daily/2024-07-10(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/7대3 회의.md",
+                "file": "10. Planner/11. Daily/2024-07-10(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/7대3 회의.md",
+                "file": "10. Planner/11. Daily/2024-07-10(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/7대3 회의.md"
+                "file": "10. Planner/11. Daily/2024-07-10(수).md"
               }
             }
           }
@@ -162,21 +162,21 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "f73445b5523ce267",
+  "active": "869429bade31cc55",
   "lastOpenFiles": [
+    "10. Planner/11. Daily/2024-07-09(화).md",
+    "10. Planner/11. Daily/2024-07-10(수).md",
+    "Tasks/7대3 회의.md",
     "20. Study/딥러닝교과서/Regularization.md",
     "20. Study/딥러닝교과서/RNN/RNN.md",
     "20. Study/딥러닝교과서/CNN/CNN Architectures.md",
     "20. Study/딥러닝교과서/CNN/CNN Basic.md",
-    "Tasks/7대3 회의.md",
-    "10. Planner/11. Daily/2024-07-09(화).md",
     "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
     "ffff.md",
     "test.md",
     "Templates/Daily_Note 템플릿.md",
     "HOME.md",
     "Templates/Tasks 필터링 구문.md",
-    "10. Planner/11. Daily/2024-07-10(수).md",
     "Planner/01. Daily/2024-07-10(수).md",
     "Planner/01. Daily",
     "Planner",
