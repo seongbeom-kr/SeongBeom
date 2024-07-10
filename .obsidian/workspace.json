@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b53b634219d58838",
+        "id": "3d5ec2195f864562",
         "type": "tabs",
         "children": [
           {
-            "id": "e09801add46c0f3b",
+            "id": "acda26cbf48be844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/7대3 회의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57c9dbbb202c1d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사명.md",
+                "file": "10. Planner/11. Daily/2024-07-10(수).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사명.md",
+                "file": "10. Planner/11. Daily/2024-07-10(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사명.md",
+                "file": "10. Planner/11. Daily/2024-07-10(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사명.md"
+                "file": "10. Planner/11. Daily/2024-07-10(수).md"
               }
             }
           }
@@ -175,7 +162,7 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "57c9dbbb202c1d18",
+  "active": "acda26cbf48be844",
   "lastOpenFiles": [
     "Tasks/7대3 회의.md",
     "회사명.md",
