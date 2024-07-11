@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-12(금).md",
+                "file": "20. Study/비즈니스모델/기말고사.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-12(금).md",
+                "file": "20. Study/비즈니스모델/기말고사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-12(금).md",
+                "file": "20. Study/비즈니스모델/기말고사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-12(금).md"
+                "file": "20. Study/비즈니스모델/기말고사.md"
               }
             }
           }
@@ -165,6 +164,8 @@
   },
   "active": "d23198ebb7a737ed",
   "lastOpenFiles": [
+    "20. Study/비즈니스모델/중간고사 전.md",
+    "20. Study/비즈니스모델/기말고사.md",
     "10. Planner/11. Daily/2024-07-12(금).md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-11(목).md",
@@ -196,11 +197,9 @@
     "40. Book",
     "A/무제 파일.md",
     "Planner/01. Daily/2024-07-02(화).md",
-    "Todo.md",
     "B",
     "Tasks",
     "Templates",
-    "README.md",
     "lime_output.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
