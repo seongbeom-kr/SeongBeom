@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebcec110ac1eff33",
+        "id": "f196908e816ca141",
         "type": "tabs",
         "children": [
           {
-            "id": "d23198ebb7a737ed",
+            "id": "8cd68c8fe307c89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -164,11 +163,12 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "d23198ebb7a737ed",
+  "active": "8cd68c8fe307c89b",
   "lastOpenFiles": [
     "20. Study/비즈니스모델/중간고사 전.md",
-    "20. Study/비즈니스모델/기말고사.md",
+    "30. Paper/논문 결과 해석.md",
     "10. Planner/11. Daily/2024-07-12(금).md",
+    "20. Study/비즈니스모델/기말고사.md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/52. 7대3",
@@ -198,7 +198,6 @@
     "40. Book/41. Book_list",
     "40. Book",
     "A/무제 파일.md",
-    "Planner/01. Daily/2024-07-02(화).md",
     "B",
     "Tasks",
     "Templates",
