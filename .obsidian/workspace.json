@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f196908e816ca141",
+        "id": "2f3ea8208c9e6cca",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd68c8fe307c89b",
+            "id": "bccee94ea3d86598",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,12 +163,13 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "8cd68c8fe307c89b",
+  "active": "bccee94ea3d86598",
   "lastOpenFiles": [
+    "Tasks/매일 반복해서 할 일.md",
+    "20. Study/비즈니스모델/기말고사.md",
     "20. Study/비즈니스모델/중간고사 전.md",
     "30. Paper/논문 결과 해석.md",
     "10. Planner/11. Daily/2024-07-12(금).md",
-    "20. Study/비즈니스모델/기말고사.md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/52. 7대3",
@@ -178,7 +179,6 @@
     "10. Planner/11. Daily/2024-07-10(수).md",
     "Tasks/7대3 회의.md",
     "회사명.md",
-    "Tasks/매일 반복해서 할 일.md",
     "10. Planner/11. Daily/2024-07-09(화).md",
     "2024-07-09.md",
     "Templates/Tasks 필터링 구문.md",
