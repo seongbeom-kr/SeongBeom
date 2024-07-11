@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-11(목).md",
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-11(목).md",
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-11(목).md",
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-11(목).md"
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md"
               }
             }
           }
@@ -162,13 +162,14 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "a25919a785b8df6f",
   "lastOpenFiles": [
+    "10. Planner/11. Daily/2024-07-11(목).md",
+    "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "50. Projects/52. 7대3",
     "50. Projects/51. 객체 팀플",
     "50. Projects",
     "Templates/Daily_Note 템플릿.md",
-    "10. Planner/11. Daily/2024-07-11(목).md",
     "10. Planner/11. Daily/2024-07-10(수).md",
     "Tasks/7대3 회의.md",
     "회사명.md",
@@ -197,7 +198,6 @@
     "B",
     "Tasks",
     "Templates",
-    "10. Planner/11. Daily",
     "README.md",
     "마크다운 정리법.md",
     "lime_output.png",
