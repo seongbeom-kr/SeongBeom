@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e53ee07b7952e38",
+        "id": "ebcec110ac1eff33",
         "type": "tabs",
         "children": [
           {
-            "id": "fc342d1aad0599b6",
+            "id": "d23198ebb7a737ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+                "file": "10. Planner/11. Daily/2024-07-12(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+                "file": "10. Planner/11. Daily/2024-07-12(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+                "file": "10. Planner/11. Daily/2024-07-12(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md"
+                "file": "10. Planner/11. Daily/2024-07-12(금).md"
               }
             }
           }
@@ -163,8 +163,9 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "fc342d1aad0599b6",
+  "active": "d23198ebb7a737ed",
   "lastOpenFiles": [
+    "10. Planner/11. Daily/2024-07-12(금).md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/52. 7대3",
@@ -200,7 +201,6 @@
     "Tasks",
     "Templates",
     "README.md",
-    "마크다운 정리법.md",
     "lime_output.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
