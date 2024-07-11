@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9cb0c6b5becefd3",
+        "id": "8e53ee07b7952e38",
         "type": "tabs",
         "children": [
           {
-            "id": "a25919a785b8df6f",
+            "id": "fc342d1aad0599b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,10 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "a25919a785b8df6f",
+  "active": "fc342d1aad0599b6",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+    "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/52. 7대3",
     "50. Projects/51. 객체 팀플",
     "50. Projects",
