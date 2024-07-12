@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Study/비즈니스모델/기말고사.md",
+                "file": "20. Study/앙트레프레너쉽/기말고사.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Study/비즈니스모델/기말고사.md",
+                "file": "20. Study/앙트레프레너쉽/기말고사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Study/비즈니스모델/기말고사.md",
+                "file": "20. Study/앙트레프레너쉽/기말고사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Study/비즈니스모델/기말고사.md"
+                "file": "20. Study/앙트레프레너쉽/기말고사.md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "bccee94ea3d86598",
   "lastOpenFiles": [
-    "Tasks/매일 반복해서 할 일.md",
     "20. Study/비즈니스모델/기말고사.md",
+    "20. Study/앙트레프레너쉽/기말고사.md",
+    "Tasks/매일 반복해서 할 일.md",
     "20. Study/비즈니스모델/중간고사 전.md",
     "30. Paper/논문 결과 해석.md",
     "10. Planner/11. Daily/2024-07-12(금).md",
@@ -198,7 +199,6 @@
     "Book/무제 파일.md",
     "40. Book/41. Book_list",
     "40. Book",
-    "A/무제 파일.md",
     "B",
     "Tasks",
     "Templates",
