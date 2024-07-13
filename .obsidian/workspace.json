@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-13(토).md",
+                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-13(토).md",
+                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-13(토).md",
+                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-13(토).md"
+                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md"
               }
             }
           }
@@ -147,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +166,10 @@
   },
   "active": "d1b5e08f505d6d4c",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-12(금).md",
     "10. Planner/11. Daily/2024-07-13(토).md",
+    "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
+    "20. Study/딥러닝교과서/최적화",
+    "10. Planner/11. Daily/2024-07-12(금).md",
     "20. Study/앙트레프레너쉽/기말고사.md",
     "20. Study/비즈니스모델/기말고사.md",
     "Tasks/매일 반복해서 할 일.md",
@@ -194,12 +198,10 @@
     "Planner/01. Daily/2024-07-10(수).md",
     "Planner/01. Daily",
     "Planner",
-    "10. Planner/11. Daily/2024-07-08(월).md",
     "40. Book/41. Book_list",
     "40. Book",
     "B",
     "Tasks",
-    "Templates",
     "lime_output.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
