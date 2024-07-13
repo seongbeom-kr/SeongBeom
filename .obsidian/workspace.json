@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "732388b0e52e5ee6",
+        "id": "1f6803e0fa94371c",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b5e08f505d6d4c",
+            "id": "152abe255b7ac056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
+                "file": "50. Projects/52. 7대3/7월 13일 회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
+                "file": "50. Projects/52. 7대3/7월 13일 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
+                "file": "50. Projects/52. 7대3/7월 13일 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md"
+                "file": "50. Projects/52. 7대3/7월 13일 회의.md"
               }
             }
           }
@@ -164,10 +163,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d1b5e08f505d6d4c",
+  "active": "152abe255b7ac056",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-13(토).md",
+    "50. Projects/52. 7대3/7월 13일 회의.md",
     "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
+    "10. Planner/11. Daily/2024-07-13(토).md",
     "20. Study/딥러닝교과서/최적화",
     "10. Planner/11. Daily/2024-07-12(금).md",
     "20. Study/앙트레프레너쉽/기말고사.md",
@@ -195,7 +195,6 @@
     "ffff.md",
     "test.md",
     "HOME.md",
-    "Planner/01. Daily/2024-07-10(수).md",
     "Planner/01. Daily",
     "Planner",
     "40. Book/41. Book_list",
