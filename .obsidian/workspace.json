@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-14(일).md",
+                "file": "10. Planner/11. Daily/2024-07-15(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-14(일).md",
+                "file": "10. Planner/11. Daily/2024-07-15(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-14(일).md",
+                "file": "10. Planner/11. Daily/2024-07-15(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-14(일).md"
+                "file": "10. Planner/11. Daily/2024-07-15(월).md"
               }
             }
           }
@@ -165,8 +165,9 @@
   },
   "active": "152abe255b7ac056",
   "lastOpenFiles": [
-    "50. Projects/52. 7대3/7월 13일 회의.md",
     "10. Planner/11. Daily/2024-07-14(일).md",
+    "10. Planner/11. Daily/2024-07-15(월).md",
+    "50. Projects/52. 7대3/7월 13일 회의.md",
     "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
     "10. Planner/11. Daily/2024-07-13(토).md",
     "20. Study/딥러닝교과서/최적화",
@@ -194,7 +195,6 @@
     "20. Study/딥러닝교과서/CNN/CNN Basic.md",
     "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
     "ffff.md",
-    "test.md",
     "Planner/01. Daily",
     "Planner",
     "40. Book/41. Book_list",
