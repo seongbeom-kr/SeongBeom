@@ -10,8 +10,8 @@
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Templates/Weeekly_Note 템플릿.md",
+    "folder": "10. Planner/12. Weekly",
     "enabled": true
   },
   "monthly": {
