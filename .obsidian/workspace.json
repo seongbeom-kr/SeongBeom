@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-15(월).md",
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d4300f6748cc1df1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-15(월).md",
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-15(월).md",
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-15(월).md"
+                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md"
               }
             }
           }
@@ -165,8 +164,8 @@
   },
   "active": "152abe255b7ac056",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-14(일).md",
     "10. Planner/11. Daily/2024-07-15(월).md",
+    "10. Planner/11. Daily/2024-07-14(일).md",
     "50. Projects/52. 7대3/7월 13일 회의.md",
     "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
     "10. Planner/11. Daily/2024-07-13(토).md",
