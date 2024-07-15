@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f6803e0fa94371c",
+        "id": "f0d50d5a8acb2688",
         "type": "tabs",
         "children": [
           {
-            "id": "152abe255b7ac056",
+            "id": "b3f6ababdac9b20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+                "file": "10. Planner/11. Daily/2024-07-16(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+                "file": "10. Planner/11. Daily/2024-07-16(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
+                "file": "10. Planner/11. Daily/2024-07-16(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50. Projects/51. 객체 팀플/데이터베이스 구축.md"
+                "file": "10. Planner/11. Daily/2024-07-16(화).md"
               }
             }
           }
@@ -162,8 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "152abe255b7ac056",
+  "active": "b3f6ababdac9b20f",
   "lastOpenFiles": [
+    "10. Planner/11. Daily/2024-07-16(화).md",
+    "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-15(월).md",
     "10. Planner/11. Daily/2024-07-14(일).md",
     "50. Projects/52. 7대3/7월 13일 회의.md",
@@ -176,7 +178,6 @@
     "Tasks/매일 반복해서 할 일.md",
     "20. Study/비즈니스모델/중간고사 전.md",
     "30. Paper/논문 결과 해석.md",
-    "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/52. 7대3",
     "50. Projects/51. 객체 팀플",
@@ -193,7 +194,6 @@
     "20. Study/딥러닝교과서/CNN/CNN Architectures.md",
     "20. Study/딥러닝교과서/CNN/CNN Basic.md",
     "40. Book/41. Book_list/다시 고등 수학_리뷰.md",
-    "ffff.md",
     "Planner/01. Daily",
     "Planner",
     "40. Book/41. Book_list",
