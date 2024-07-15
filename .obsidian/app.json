@@ -7,5 +7,5 @@
   "promptDelete": false,
   "showLineNumber": true,
   "trashOption": "system",
-  "livePreview": true
+  "livePreview": false
 }
