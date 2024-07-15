@@ -5,7 +5,12 @@
   "folder_tag_pattern": [
     {
       "folder": "10. Planner/11. Daily",
-      "tag": "#",
+      "tag": "#daily",
+      "pattern": ""
+    },
+    {
+      "folder": "10. Planner/12. Weekly",
+      "tag": "#weekly",
       "pattern": ""
     }
   ],
