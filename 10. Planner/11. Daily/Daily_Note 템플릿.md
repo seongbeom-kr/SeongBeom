@@ -6,6 +6,7 @@ emotion:
 important_date: false
 tags:
   - daily
+daily_review:
 ---
 <%* 
 	const currentMoment = moment(tp.file.title, "YYYY-MM-DD");
