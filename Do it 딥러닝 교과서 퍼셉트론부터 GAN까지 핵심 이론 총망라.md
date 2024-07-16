@@ -1,6 +1,6 @@
 ---
-created: 2024-07-16 17:44
-title: Do it! 딥러닝 교과서：퍼셉트론부터 GAN까지 핵심 이론 총망라!
+"\bregistered": 2024-07-16 17:44
+book_title: Do it! 딥러닝 교과서：퍼셉트론부터 GAN까지 핵심 이론 총망라!
 author: 윤성진
 publish_date: 2021-10-18
 total_page: 432
