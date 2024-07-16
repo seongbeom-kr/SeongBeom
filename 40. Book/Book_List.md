@@ -1,5 +1,5 @@
 ---
-cssclasses : cards, cards-2-3, 
+cssclasses : cards, cards-1-1, cards-cover
 ---
 
 ```dataview 

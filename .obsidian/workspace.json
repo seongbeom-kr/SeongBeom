@@ -45,8 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. Book/Book_List.md",
-                "mode": "source",
+                "file": "40. Book/41. Book_list/다시 고등 수학 프로그래머 수학의 뇌를 깨워라.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -195,11 +195,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "61bd0df2a3188fd8",
+  "active": "785e4216b10111fd",
   "lastOpenFiles": [
-    "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
-    "40. Book/Book_List.md",
     "40. Book/41. Book_list/다시 고등 수학 프로그래머 수학의 뇌를 깨워라.md",
+    "40. Book/Book_List.md",
+    "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
     "40. Book/41. Book_list/밑바닥부터 시작하는 딥러닝 파이썬으로 익히는 딥러닝 이론과 구현.md",
     "2024-07-16.md",
     "회사명.md",
