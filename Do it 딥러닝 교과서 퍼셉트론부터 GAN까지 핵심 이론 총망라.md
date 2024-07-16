@@ -2,16 +2,26 @@
 registered_date: 2024-07-16 17:57
 book_title: Do it! 딥러닝 교과서
 author:
-  
   - 윤성진
 publish_date: 2021-10-18
 total_page: 432
-start_date: 2024-07-16
-finish_date: 2024-07-16
+start_date: 2024-07-13
+finish_date: ""
 reading: false
 book_note: false
 cover_url: https://image.yes24.com/goods/104229648/XL
-tag: 도서 국내도서 IT모바일 OS/데이터베이스 클라우드/빅데이터 인공지능 머신러닝/딥러닝 프로그래밍언어 파이썬 컴퓨터공학 자료구조/알고리즘
+tags:
+  - 도서
+  - 국내도서
+  - IT모바일
+  - OS/데이터베이스
+  - 클라우드/빅데이터
+  - 인공지능
+  - 머신러닝/딥러닝
+  - 프로그래밍언어
+  - 파이썬
+  - 컴퓨터공학
+  - 자료구조/알고리즘
 summary: ""
 ---
 
