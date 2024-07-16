@@ -23,9 +23,10 @@ function getISOWeekNumber(date) {
 	let dayNum = day.getDay() || 7; 
 	day.setDate(day.getDate() + 4 - dayNum); 
 	let yearStart = new Date(day.getFullYear(), 0, 1); 
-	return Math.ceil((((day - yearStart) / 86400000) + 1) / 7); } 
-	let [year, week] = tp.file.title.split("-W").map(Number); let lastWeek = getPreviousWeek(year, week); 
-	let lastWeekPath = "10. Planner/12. Weekly/" + lastWeek; let section = "## 다음 주 계획"; 
+	return Math.ceil((((day - yearStart) / 86400000) + 1) / 7); 
+	} 
+let [year, week] = tp.file.title.split("-W").map(Number); let lastWeek = getPreviousWeek(year, week); 
+let lastWeekPath = "10. Planner/12. Weekly/" + lastWeek; let section = "## 다음 주 계획"; 
 let should_include = false; 
 let sectionContent = ""; 
 let lwfile = tp.file.find_tfile(lastWeekPath); 
