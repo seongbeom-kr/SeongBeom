@@ -1,5 +1,10 @@
 ---
-cssclasses : cards, cards-1-1, cards-cover
+cssclasses:
+  - cards
+  - cards-1-1
+  - cards-cover
+tags:
+  - List
 ---
 
 ```dataview 
