@@ -6,7 +6,6 @@
       {
         "id": "88e683dd45d09fbf",
         "type": "tabs",
-        "dimension": 55.87275693311582,
         "children": [
           {
             "id": "785e4216b10111fd",
@@ -14,40 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. Book/Book_List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d482e43ce8153f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b351bf382d6dddf7",
-        "type": "tabs",
-        "dimension": 44.127243066884176,
-        "children": [
-          {
-            "id": "61bd0df2a3188fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40. Book/Book_List.md",
-                "mode": "source",
-                "source": true
               }
             }
           }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40. Book/Book_List.md",
+                "file": "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40. Book/Book_List.md",
+                "file": "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40. Book/Book_List.md"
+                "file": "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md"
               }
             }
           }
@@ -195,12 +163,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "785e4216b10111fd",
+  "active": "c09db225bddcfc7b",
   "lastOpenFiles": [
+    "40. Book/42. Book_note",
+    "40. Book/Book_List.md",
     "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
     "40. Book/41. Book_list/밑바닥부터 시작하는 딥러닝 파이썬으로 익히는 딥러닝 이론과 구현.md",
     "40. Book/41. Book_list/다시 고등 수학 프로그래머 수학의 뇌를 깨워라.md",
-    "40. Book/Book_List.md",
     "2024-07-16.md",
     "회사명.md",
     "10. Planner/11. Daily/2024-07-16(화).md",
@@ -227,7 +196,6 @@
     "50. Projects/51. 객체 팀플",
     "50. Projects",
     "10. Planner/11. Daily/2024-07-10(수).md",
-    "Tasks/7대3 회의.md",
     "Planner/01. Daily",
     "Planner",
     "40. Book/41. Book_list",
