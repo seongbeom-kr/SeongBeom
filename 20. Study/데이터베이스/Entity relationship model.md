@@ -1,3 +1,8 @@
+---
+tags:
+  - DB
+---
+
 # ER-model / uml data modeling
 ## Database Design model
 - ER model : 데이터 모델링을 위한 모델
