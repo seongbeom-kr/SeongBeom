@@ -1,3 +1,8 @@
+---
+tags:
+  - useful
+---
+
 ### 완료되지 않은 일 not done
 ### 완료된 일
 - has done date - no done date - done (on|befor|after) \<date>|\<data range> 
