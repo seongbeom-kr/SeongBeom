@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8df867734327518f",
+        "id": "d0790712680bc698",
         "type": "tabs",
         "children": [
           {
-            "id": "b18554c4025525b1",
+            "id": "322876294fb0cd84",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "30. Paper/Pasted image 20240519122802.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30. Paper/Pasted image 20240519122802.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30. Paper/Pasted image 20240519122802.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "30. Paper/Pasted image 20240519122802.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,13 +155,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b18554c4025525b1",
+  "active": "322876294fb0cd84",
   "lastOpenFiles": [
+    "30. Paper/31. Musinsa/논문 결과 해석.md",
+    "30. Paper/31. Musinsa",
+    "30. Paper/무제 파일.md",
+    "30. Paper/unet 정리.md",
+    "30. Paper/Pasted image 20240519122802.png",
     "30. Paper/DDPM.md",
     "30. Paper/Auto-Encoding Variational Bayes.md",
     "Tasks/7대3 회의.md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
-    "30. Paper/논문 결과 해석.md",
     "Templates/Weeekly_Note 템플릿.md",
     "Templates/Tasks 필터링 구문.md",
     "Templates/Daily_Note 템플릿.md",
@@ -186,9 +184,6 @@
     "2024-07-17(수).md",
     "40. Book/Book_List.md",
     "20. Study/데이터베이스/IndexingOther.md",
-    "' + currentMoment.format('gggg-[W]ww') + '.md",
-    "20. Study/데이터베이스/정규화.md",
-    "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
     "40. Book/42. Book_note",
     "10. Planner/12. Weekly",
     "20. Study/딥러닝교과서/최적화",
@@ -198,7 +193,6 @@
     "Planner/01. Daily",
     "Planner",
     "40. Book/41. Book_list",
-    "40. Book",
     "lime_output.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
@@ -207,7 +201,6 @@
     "20. Study/딥러닝교과서/CNN/assets/스크린샷 2024-05-27 02.33.09.png",
     "20. Study/딥러닝교과서/CNN/assets/스크린샷 2024-05-26 21.14.22.png",
     "20. Study/딥러닝교과서/CNN/assets/스크린샷 2024-05-29 16.48.16.png",
-    "20. Study/딥러닝교과서/CNN/assets/스크린샷 2024-05-29 15.33.17.png",
-    "20. Study/딥러닝교과서/CNN/assets/Pasted image 20240529152549.png"
+    "20. Study/딥러닝교과서/CNN/assets/스크린샷 2024-05-29 15.33.17.png"
   ]
 }
