@@ -1,11 +1,10 @@
 ```dataview
-table 
-	book_title as "제목",
+table 쟈
+	file.link as "제목",
 	("![|100](" + cover_url + ")") as "표지", 
 	author as "작가", 
-	reading "",
-	finish_date, 
-	book_note 
+	finish_date as "읽은 날짜", 
+	book_note as "독서 노트"
 
 from "40. Book/41. Book_list"
 
