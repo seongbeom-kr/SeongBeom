@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Templates/Weeekly_Note 템플릿.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Templates/Weeekly_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "Templates/Weeekly_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "Templates/Weeekly_Note 템플릿.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   },
   "active": "70ac35c3e23fb729",
   "lastOpenFiles": [
-    "Templates/Weeekly_Note 템플릿.md",
-    "10. Planner/12. Weekly/2024-W29.md",
     "10. Planner/12. Weekly/2024-W28.md",
+    "10. Planner/12. Weekly/2024-W29.md",
+    "Templates/Weeekly_Note 템플릿.md",
     "Templates/Daily_Note 템플릿.md",
     "10. Planner/11. Daily/2024-07-16(화).md",
     "10. Planner/11. Daily/2024-07-15(월).md",
