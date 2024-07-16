@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "important_date": "checkbox",
-    "date_daily": "text"
+    "date_daily": "text",
+    "reading": "checkbox",
+    "book_note": "checkbox"
   }
 }

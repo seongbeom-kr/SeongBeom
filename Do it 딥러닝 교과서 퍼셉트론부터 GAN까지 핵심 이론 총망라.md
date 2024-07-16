@@ -6,8 +6,8 @@ publish_date: 2021-10-18
 total_page: 432
 start_date: 2024-07-16
 finish_date: 2024-07-16
-status: 🟩 완료
-book_note: ❌
+reading: 
+book_note: 
 cover_url: https://image.yes24.com/goods/104229648/XL
 tags:
   - 도서
@@ -21,6 +21,7 @@ tags:
   - 파이썬
   - 컴퓨터공학
   - 자료구조/알고리즘
+summary:
 ---
 
 # Do it! 딥러닝 교과서：퍼셉트론부터 GAN까지 핵심 이론 총망라!
