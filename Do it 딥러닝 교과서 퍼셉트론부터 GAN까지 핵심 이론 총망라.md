@@ -1,9 +1,7 @@
 ---
 created: 2024-07-16 17:44
-tag: 도서 국내도서 IT모바일 OS/데이터베이스 클라우드/빅데이터 인공지능 머신러닝/딥러닝 프로그래밍언어 파이썬 컴퓨터공학 자료구조/알고리즘
 title: Do it! 딥러닝 교과서：퍼셉트론부터 GAN까지 핵심 이론 총망라!
 author: 윤성진
-category: 국내도서
 total_page: 432
 publish_date: 2021-10-18
 cover_url: https://image.yes24.com/goods/104229648/XL
@@ -12,6 +10,18 @@ start_read_date: 2024-07-16
 finish_read_date: 2024-07-16
 my_rate: 0
 book_note: ❌
+tags:
+  - 도서
+  - 국내도서
+  - IT모바일
+  - OS/데이터베이스
+  - 클라우드/빅데이터
+  - 인공지능
+  - 머신러닝/딥러닝
+  - 프로그래밍언어
+  - 파이썬
+  - 컴퓨터공학
+  - 자료구조/알고리즘
 ---
 
 # Do it! 딥러닝 교과서：퍼셉트론부터 GAN까지 핵심 이론 총망라!
