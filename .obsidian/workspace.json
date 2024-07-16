@@ -6,6 +6,7 @@
       {
         "id": "88e683dd45d09fbf",
         "type": "tabs",
+        "dimension": 45.126705653021446,
         "children": [
           {
             "id": "785e4216b10111fd",
@@ -31,11 +32,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b351bf382d6dddf7",
         "type": "tabs",
+        "dimension": 54.87329434697856,
         "children": [
           {
             "id": "61bd0df2a3188fd8",
@@ -193,7 +196,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "785e4216b10111fd",
+  "active": "61bd0df2a3188fd8",
   "lastOpenFiles": [
     "40. Book/41. Book_list/다시 고등 수학 프로그래머 수학의 뇌를 깨워라.md",
     "40. Book/TEST.md",
