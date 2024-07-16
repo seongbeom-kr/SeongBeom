@@ -1,3 +1,7 @@
+---
+cssclasses : cards
+---
+
 ```dataview 
 table without id
 	file.link as "제목",
