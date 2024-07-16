@@ -6,7 +6,7 @@ author:
 publish_date: 2021-10-18
 total_page: 432
 start_date: 2024-07-13
-finish_date: ""
+finish_date: 2024-06-30
 reading: false
 book_note: false
 cover_url: https://image.yes24.com/goods/104229648/XL

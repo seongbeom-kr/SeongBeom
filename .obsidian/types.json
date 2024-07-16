@@ -6,6 +6,7 @@
     "important_date": "checkbox",
     "date_daily": "text",
     "reading": "checkbox",
-    "book_note": "checkbox"
+    "book_note": "checkbox",
+    "finish_date": "date"
   }
 }
