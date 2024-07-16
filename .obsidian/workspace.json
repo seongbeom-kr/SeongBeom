@@ -11,8 +11,12 @@
             "id": "785e4216b10111fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10. Planner/12. Weekly/2024-W29.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10. Planner/12. Weekly/2024-W29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10. Planner/12. Weekly/2024-W29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10. Planner/12. Weekly/2024-W29.md"
+              }
             }
           }
         ]
@@ -139,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +164,10 @@
   },
   "active": "785e4216b10111fd",
   "lastOpenFiles": [
+    "10. Planner/11. Daily/2024-07-15(월).md",
+    "10. Planner/11. Daily/2024-07-16(화).md",
+    "10. Planner/12. Weekly/2024-W29.md",
+    "10. Planner/12. Weekly/2024-W28.md",
     "2024-07-17(수).md",
     "40. Book/Book_List.md",
     "20. Study/데이터베이스/IndexingOther.md",
@@ -168,12 +179,8 @@
     "40. Book/41. Book_list/다시 고등 수학 프로그래머 수학의 뇌를 깨워라.md",
     "2024-07-16.md",
     "회사명.md",
-    "10. Planner/11. Daily/2024-07-16(화).md",
-    "10. Planner/12. Weekly/2024-W29.md",
-    "10. Planner/12. Weekly/2024-W28.md",
     "Templates/Weeekly_Note 템플릿.md",
     "Templates/Daily_Note 템플릿.md",
-    "10. Planner/11. Daily/2024-07-15(월).md",
     "10. Planner/12. Weekly",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "10. Planner/11. Daily/2024-07-14(일).md",
