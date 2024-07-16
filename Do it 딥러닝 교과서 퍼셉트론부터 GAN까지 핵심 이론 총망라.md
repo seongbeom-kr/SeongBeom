@@ -2,14 +2,13 @@
 created: 2024-07-16 17:44
 title: Do it! 딥러닝 교과서：퍼셉트론부터 GAN까지 핵심 이론 총망라!
 author: 윤성진
-total_page: 432
 publish_date: 2021-10-18
-cover_url: https://image.yes24.com/goods/104229648/XL
+total_page: 432
+start_date: 2024-07-16
+finish_date: 2024-07-16
 status: 🟩 완료
-start_read_date: 2024-07-16
-finish_read_date: 2024-07-16
-my_rate: 0
 book_note: ❌
+cover_url: https://image.yes24.com/goods/104229648/XL
 tags:
   - 도서
   - 국내도서
