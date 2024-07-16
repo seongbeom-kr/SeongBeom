@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b351bf382d6dddf7",
@@ -48,7 +47,7 @@
               "state": {
                 "file": "40. Book/TEST.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }

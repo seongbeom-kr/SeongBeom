@@ -1,7 +1,7 @@
 ```dataview
 table 
 	book_title,
-	("![|100]"), 
+	("![|100](" + cover_url + ")"), 
 	author, 
 	reading,
 	finish_date, 
