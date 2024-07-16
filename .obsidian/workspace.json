@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Study/데이터베이스/정규화.md",
+                "file": "40. Book/Book_List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Study/데이터베이스/정규화.md",
+                "file": "40. Book/Book_List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Study/데이터베이스/정규화.md",
+                "file": "40. Book/Book_List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Study/데이터베이스/정규화.md"
+                "file": "40. Book/Book_List.md"
               }
             }
           }
@@ -165,6 +165,9 @@
   },
   "active": "785e4216b10111fd",
   "lastOpenFiles": [
+    "20. Study/데이터베이스/IndexingOther.md",
+    "' + currentMoment.format('gggg-[W]ww') + '.md",
+    "20. Study/데이터베이스/정규화.md",
     "40. Book/41. Book_list/Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
     "40. Book/42. Book_note",
     "40. Book/Book_List.md",
@@ -191,11 +194,9 @@
     "Tasks/매일 반복해서 할 일.md",
     "20. Study/비즈니스모델/중간고사 전.md",
     "30. Paper/논문 결과 해석.md",
-    "10. Planner/11. Daily/2024-07-11(목).md",
     "50. Projects/52. 7대3",
     "50. Projects/51. 객체 팀플",
     "50. Projects",
-    "10. Planner/11. Daily/2024-07-10(수).md",
     "Planner/01. Daily",
     "Planner",
     "40. Book/41. Book_list",

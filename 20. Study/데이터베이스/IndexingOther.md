@@ -1,3 +1,8 @@
+---
+tags:
+  - DB
+---
+
 # OtherType of useful indices
 ## B+xmfl
 - 대표적인 트리 기반 인덱스구조
