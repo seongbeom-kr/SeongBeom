@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Study/Python/함수.md",
+                "file": "20. Study/Dacon/Python 01/함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Study/Python/함수.md",
+                "file": "20. Study/Dacon/Python 01/함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Study/Python/함수.md",
+                "file": "20. Study/Dacon/Python 01/함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Study/Python/함수.md"
+                "file": "20. Study/Dacon/Python 01/함수.md"
               }
             }
           }
@@ -163,10 +163,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "322876294fb0cd84",
+  "active": "c09db225bddcfc7b",
   "lastOpenFiles": [
-    "20. Study/Python/함수.md",
-    "20. Study/Python",
+    "20. Study/Dacon/Python 01",
+    "20. Study/Dacon/Python 01/함수.md",
+    "20. Study/Dacon",
     "30. Paper/31. Musinsa/논문 결과 해석.md",
     "30. Paper/31. Musinsa",
     "30. Paper/무제 파일.md",
@@ -193,7 +194,6 @@
     "10. Planner/12. Weekly/2024-W28.md",
     "2024-07-17(수).md",
     "40. Book/Book_List.md",
-    "20. Study/데이터베이스/IndexingOther.md",
     "40. Book/42. Book_note",
     "10. Planner/12. Weekly",
     "20. Study/딥러닝교과서/최적화",
