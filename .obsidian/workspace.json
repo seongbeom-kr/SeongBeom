@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef06a4cd2a6b6dff",
+        "id": "88e683dd45d09fbf",
         "type": "tabs",
         "children": [
           {
-            "id": "9f346626dc86c3bb",
+            "id": "785e4216b10111fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f346626dc86c3bb",
+  "active": "785e4216b10111fd",
   "lastOpenFiles": [
     "2024-07-16.md",
     "Do it 딥러닝 교과서 퍼셉트론부터 GAN까지 핵심 이론 총망라.md",
