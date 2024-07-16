@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "40. Book/Book_List.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -45,8 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. Book/41. Book_list/다시 고등 수학 프로그래머 수학의 뇌를 깨워라.md",
-                "mode": "preview",
+                "file": "40. Book/Book_List.md",
+                "mode": "source",
                 "source": true
               }
             }

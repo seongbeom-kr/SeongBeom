@@ -4,7 +4,7 @@ cssclasses : cards, cards-1-1, cards-cover
 
 ```dataview 
 table without id
-	file.link as "제목",
+	book_title as "제목",
 	author as "작가", 
 	("![|100](" + cover_url + ")") as "표지", 
 	tags[1] as "태그",
