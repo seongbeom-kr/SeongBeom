@@ -31,5 +31,6 @@
   "minimal-style@@h5-size": "0.75em",
   "minimal-style@@bold-modifier": 300,
   "minimal-style@@italic-color@@light": "#FFFA00",
-  "minimal-style@@bold-color@@dark": "#C1FF00"
+  "minimal-style@@bold-color@@dark": "#C1FF00",
+  "minimal-style@@bold-color@@light": "#FFFFFF"
 }
