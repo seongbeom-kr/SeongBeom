@@ -78,6 +78,10 @@ w = np.array([0.5, 0.5]) # 가중치
 b = -0.7
 
 if np.sum(w*x)+b <=0:
-	print()
+	print(0)
+else:
+	print(1)
 ```
+
+### 가중치와 편향 구현하기
 
