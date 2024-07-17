@@ -135,5 +135,9 @@ def OR(x1, x2):
 OR게이트를 시각적으로 표현하면 다음과 같음
 $$y=
 \begin{cases}
-0, \; (-)
+0 \; (-0.5+x_1+x+2 \leq0)\\
+1 \; (-0.5+x_1+x+2\gt0)
 \end{cases}$$
+
+
+![400](https://i.imgur.com/SO0s5ce.png)
