@@ -160,6 +160,11 @@ $$y=
 ### 기존 게이트 조합하기
 
 ![](https://i.imgur.com/MqAc7yF.png)
+
 ![](https://i.imgur.com/kegWho4.png)
 
-진리표는 다음과 같음
+진리표는 다음과 같다.
+
+
+![400](https://i.imgur.com/TXzmIN9.png)
+
