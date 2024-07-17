@@ -73,5 +73,11 @@ $$y =
 이를 이용한 코드는 다음과 같음
 ```python
 import numpy as np
-x = np.array([0,1]) # rkw
+x = np.array([0,1]) # 입력
+w = np.array([0.5, 0.5]) # 가중치
+b = -0.7
+
+if np.sum(w*x)+b <=0:
+	print()
 ```
+
