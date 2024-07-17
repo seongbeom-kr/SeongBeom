@@ -168,3 +168,6 @@ $$y=
 
 ![400](https://i.imgur.com/TXzmIN9.png)
 
+### XOR 게이트 구현하기
+이걸 토대로 구현한다면?
+
