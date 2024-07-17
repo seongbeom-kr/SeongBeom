@@ -157,4 +157,9 @@ $$y=
 ## 5. 다층 퍼셉트론
 하나가 안된다면, 층을 쌓아서 표현하면 된다!
 
-### 기존 
+### 기존 게이트 조합하기
+
+![](https://i.imgur.com/MqAc7yF.png)
+![](https://i.imgur.com/kegWho4.png)
+
+진리표는 다음과 같음
