@@ -21,7 +21,8 @@ $x_1, x_2$ 는 입력신호, $y$는 출력신호 $w_1, w_2$는 가중치를 뜻�
 $$
 y=
 \begin{cases}
-0, \; w_1x_1 + w_1x_1 \leq \theta\\
-+x,\;if\;x\geq0
+0, \; w_1x_1 + w_2x_2 \leq \theta\\
+1, \; w_1x_1 + w_2x_2 \gt \theta
 \end{cases}
 $$
+
