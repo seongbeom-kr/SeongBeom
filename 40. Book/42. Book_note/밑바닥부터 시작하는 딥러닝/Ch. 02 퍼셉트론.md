@@ -171,3 +171,14 @@ $$y=
 ### XOR 게이트 구현하기
 이걸 토대로 구현한다면?
 
+```python
+def XOR(x1, x2):
+	s1 = NAND(x1, x2)
+	s2 = OR(x1, x2)
+	y = AND(s1, s2)
+	return y
+```
+
+이를 도식화하면 다음과 같음
+
+![](https://i.imgur.com/Rf82Xke.png)
