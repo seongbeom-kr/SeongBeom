@@ -105,7 +105,7 @@ NAND, OR도 다음과 같음
 ```python
 def NAND(x1, x2) :
 	x= np. array ([x1, x2])
-	W= np.array([-0.5, -0.51])#AND와는가중치(w와b)만다르다! 
+	W= np.array([-0.5, -0.5])#AND와는가중치(w와b)만다르다! 
 	b = 0.7
 	tmp = np. sum (w*x) + b 
 	if tmp=< 0:
@@ -118,6 +118,13 @@ def OR(x1, x2):
 	w= np. array([0,5, 0,5]) 
 	b =-0.2
 	tmp = np.sum(w*x)+ b
-	if tmp=< 0: return 0
-else: return 1
+	if tmp=< 0: 
+		return 0
+	else: 
+		return 1
 ```
+
+
+코드를 보면 알겠지만 각 게이트들은 그냥 매개변수(가중치와 편향)의 차이일 뿐
+
+## 4. 퍼셉트론의 한계
