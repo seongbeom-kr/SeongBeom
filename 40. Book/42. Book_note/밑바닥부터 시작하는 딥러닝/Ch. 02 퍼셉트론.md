@@ -62,5 +62,6 @@ def AND(x1, x2):
 세타 대신 다른 변수를 도입해서 사용한 식은 다음과 같음
 
 $$y = 
-\begin{case}
-\end$$
+\begin{cases}
+0, \; (b+w_1x_1+w_2x_2) 
+\end{cases}$$
