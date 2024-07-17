@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Study/Dacon/Python 01/함수.md",
+                "file": "10. Planner/11. Daily/2024-07-17(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Study/Dacon/Python 01/함수.md",
+                "file": "10. Planner/11. Daily/2024-07-17(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Study/Dacon/Python 01/함수.md",
+                "file": "10. Planner/11. Daily/2024-07-17(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Study/Dacon/Python 01/함수.md"
+                "file": "10. Planner/11. Daily/2024-07-17(수).md"
               }
             }
           }
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +162,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c09db225bddcfc7b",
+  "active": "322876294fb0cd84",
   "lastOpenFiles": [
-    "20. Study/Dacon/Python 01",
+    "10. Planner/12. Weekly/2024-W29.md",
+    "10. Planner/11. Daily/2024-07-17(수).md",
     "20. Study/Dacon/Python 01/함수.md",
+    "20. Study/Dacon/Python 01",
     "20. Study/Dacon",
     "30. Paper/31. Musinsa/논문 결과 해석.md",
     "30. Paper/31. Musinsa",
@@ -190,7 +191,6 @@
     "20. Study/데이터베이스/Entity relationship model.md",
     "10. Planner/11. Daily/2024-07-16(화).md",
     "10. Planner/11. Daily/2024-07-15(월).md",
-    "10. Planner/12. Weekly/2024-W29.md",
     "10. Planner/12. Weekly/2024-W28.md",
     "2024-07-17(수).md",
     "40. Book/Book_List.md",
@@ -201,7 +201,6 @@
     "50. Projects/51. 객체 팀플",
     "50. Projects",
     "Planner/01. Daily",
-    "Planner",
     "lime_output.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-06-12 21.54.25.png",
     "20. Study/데이터베이스/assets/스크린샷 2024-05-28 11.23.40.png",
