@@ -141,3 +141,8 @@ $$y=
 
 
 ![400](https://i.imgur.com/SO0s5ce.png)
+
+이를 두고 생각했을 때에 XOR게이트를 나타내기 위해서는 하나의 직선으로는 생각할 수 없음
+
+
+![](https://i.imgur.com/vXcmnI0.png)
