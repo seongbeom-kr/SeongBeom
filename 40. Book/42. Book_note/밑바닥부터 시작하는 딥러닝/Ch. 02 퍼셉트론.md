@@ -8,4 +8,4 @@
 
 ![](https://i.imgur.com/AH1iLbB.png)
 
-$x_1, x_2$ 는 입력신호, 
+$x_1, x_2$ 는 입력신호, $y$는 출력신호 $w_1, w_2$는 
