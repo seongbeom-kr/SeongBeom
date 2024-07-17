@@ -30,4 +30,15 @@ $$
 
 ## 2. 단순 논리 회로
 > [!note]+ 
-> 여기서는 AND, NAND, OR 게이트에 
+> 여기서는 AND, NAND, OR 게이트에 정리하는 페이지
+> 
+> 각 게이트에 대한 설명은 그림으로 대체
+
+
+![](https://i.imgur.com/PdetrBv.png)
+
+> [!notice] 
+
+
+
+
