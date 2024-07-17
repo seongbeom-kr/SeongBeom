@@ -8,3 +8,4 @@
 
 ![](https://i.imgur.com/AH1iLbB.png)
 
+$x_1, x_2$ 는 입력신호, 
