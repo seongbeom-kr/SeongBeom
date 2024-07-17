@@ -87,8 +87,8 @@ else:
 이를 함수화 하면 다음과 같음
 ```python
 def AND(x1, ×2) :
-	x = np. array ([x1, x2.)
-	w = np. array (10.5, 0.51)
+	x = np. array ([x1, x2])
+	w = np. array ([0.5, 0.5])
 	b= -0.7
 	tmp = np. sum (w*x) + b 
 	if tmp <= 0:
@@ -96,3 +96,7 @@ def AND(x1, ×2) :
 	else:
 		return 1
 ```
+
+$w_1, w_2$는 각 입력 신호가 결과에 주는 영향력을 조절하는 매개변수
+
+편향은 뉴런이 얼마나 
