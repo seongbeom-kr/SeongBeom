@@ -99,4 +99,14 @@ def AND(x1, ×2) :
 
 $w_1, w_2$는 각 입력 신호가 결과에 주는 영향력을 조절하는 매개변수
 
-편향은 뉴런이 얼마나 
+편향은 뉴런이 얼마나 쉽게 활성화하느냐를 조정하는 매개변수
+
+NAND, OR도 다음과 같음
+```python
+def NAND(x1, x2) :
+	x= np. array ([x1, x2])
+	W= np.array([-0.5, -0.51])#AND와는가중치(w와b)만다르다! b = 0.7
+tmp = np. sum (w*x) + b iftmp=< 0:
+return 0 else:
+return
+```
