@@ -31,9 +31,10 @@
 
 이를 수식으로 간단하게 표현하면 다음과 같다.
 
-$$y = h(b+w_1x_1+w_2x_2) []$$ 
+$$y = h(b+w_1x_1+w_2x_2) \tag{3.1}$$ 
 $$
-y = 
+h(x) = 
 \begin{cases}
-
-\end{cases}$$
+0 \; (x\leq0)\\
+1 \; (x\gt0) 
+\end{cases}\tag{3.2}$$
