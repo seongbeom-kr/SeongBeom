@@ -169,4 +169,6 @@ $$
 
 
 ![](https://i.imgur.com/ObZaEwV.png)
-수식ㅇ
+수식으로 표현하면 다음과 같다.
+
+$$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0)$$
