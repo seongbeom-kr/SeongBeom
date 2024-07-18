@@ -171,4 +171,7 @@ $$
 ![](https://i.imgur.com/ObZaEwV.png)
 수식으로 표현하면 다음과 같다.
 
-$$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0)$$
+$$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0) \end{cases} \tag{3.6}$$
+하지만 보시다시피 값이 
+## 3. 다차원 배열의 게산
+넘파이를 활용해서 한다.
