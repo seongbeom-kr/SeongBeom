@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c45841450d0e5a1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-19(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-19(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10. Planner/11. Daily/2024-07-19(금).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,47 +167,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "63d621b6eab7b81f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "992fee3e24983fb0",
-        "type": "window",
-        "children": [
-          {
-            "id": "283b9653cd309061",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf09cf982a68c2a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10. Planner/11. Daily/2024-07-16(화).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1536,
-        "y": 640,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ba479cce42329b9d",
+  "active": "c45841450d0e5a1b",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-20(토).md",
     "10. Planner/11. Daily/2024-07-19(금).md",
+    "10. Planner/11. Daily/2024-07-20(토).md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
     "40. Book/42. Book_note/밑바닥부터 시작하는 딥러닝/Ch. 02 퍼셉트론.md",
     "10. Planner/11. Daily/2024-07-16(화).md",
