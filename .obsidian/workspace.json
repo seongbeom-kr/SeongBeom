@@ -23,8 +23,12 @@
             "id": "c45841450d0e5a1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20. Study/딥러닝교과서/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. Study/딥러닝교과서/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20. Study/딥러닝교과서/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20. Study/딥러닝교과서/무제 파일.md"
+              }
             }
           }
         ]
@@ -169,6 +177,7 @@
   },
   "active": "c45841450d0e5a1b",
   "lastOpenFiles": [
+    "20. Study/딥러닝교과서/무제 파일.md",
     "10. Planner/11. Daily/2024-07-19(금).md",
     "10. Planner/11. Daily/2024-07-20(토).md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
@@ -199,7 +208,6 @@
     "README.md",
     "Tasks/매일 반복해서 할 일.md",
     "20. Study/딥러닝교과서/README.md",
-    "20. Study/딥러닝교과서/최적화/확률적 경사하강법.md",
     "40. Book/42. Book_note",
     "10. Planner/12. Weekly",
     "20. Study/딥러닝교과서/최적화",
