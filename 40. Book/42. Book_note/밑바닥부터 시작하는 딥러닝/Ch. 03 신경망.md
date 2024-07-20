@@ -179,3 +179,5 @@ $$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0) \end{cases} \tag{3.6}$$
 내적, 등등...
 
 ## 4. 신경망 구현
+
+![](https://i.imgur.com/5B906CD.png)
