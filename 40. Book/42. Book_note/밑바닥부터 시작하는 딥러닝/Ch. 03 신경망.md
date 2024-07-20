@@ -181,3 +181,7 @@ $$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0) \end{cases} \tag{3.6}$$
 ## 4. 신경망 구현
 
 ![](https://i.imgur.com/5B906CD.png)
+
+
+### 출력층
+출력층의 활성화함수$\sigma$ , 은닉층의 활성화 함수 $h()$로 구분
