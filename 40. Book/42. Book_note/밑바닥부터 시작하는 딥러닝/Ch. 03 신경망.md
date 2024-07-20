@@ -192,4 +192,5 @@ $$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0) \end{cases} \tag{3.6}$$
 
 
 소프트맥스 함수는 다음과 같음
-$$ y_k = {exp(a_k)} / {\sum}$$
+$$ y_k = {exp(a_k)} / {\sum_{i=1}^nexp(a_i)}$$
+
