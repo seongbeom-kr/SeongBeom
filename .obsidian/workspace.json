@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "20. Study/딥러닝교과서/RNN/RNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "20. Study/딥러닝교과서/신경망 학습 관련 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "20. Study/딥러닝교과서/신경망 학습 관련 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "20. Study/딥러닝교과서/신경망 학습 관련 내용.md"
               }
             }
           }
@@ -187,8 +187,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e67fcd740b96f39",
+  "active": "d6e5611f88536dfa",
   "lastOpenFiles": [
+    "20. Study/딥러닝교과서/RNN/RNN.md",
     "무제 파일.md",
     "40. Book/42. Book_note/밑바닥부터 시작하는 딥러닝/Ch. 03 신경망.md",
     "20. Study/딥러닝교과서/신경망 학습 관련 내용.md",
@@ -219,7 +220,6 @@
     "Templates/Daily_Note 템플릿.md",
     "마크다운 정리법.md",
     "회사명.md",
-    "README.md",
     "40. Book/42. Book_note",
     "10. Planner/12. Weekly",
     "20. Study/딥러닝교과서/최적화",
