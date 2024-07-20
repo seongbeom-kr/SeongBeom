@@ -194,3 +194,6 @@ $$h(x) = \begin{cases} x \; (x\gt0) \\ 0 \; (x\leq0) \end{cases} \tag{3.6}$$
 소프트맥스 함수는 다음과 같음
 $$ y_k = {exp(a_k)} / {\sum_{i=1}^nexp(a_i)}$$
 
+![](https://i.imgur.com/N0L3la1.png)
+
+소프트맥스 함수의 출력은 0~1사이의 실수다. 또한 소프트맥스 함수 출려그이 총합ㅇ
