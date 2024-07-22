@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사명.md",
+                "file": "10. Planner/11. Daily/2024-07-23(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사명.md",
+                "file": "10. Planner/11. Daily/2024-07-23(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사명.md",
+                "file": "10. Planner/11. Daily/2024-07-23(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사명.md"
+                "file": "10. Planner/11. Daily/2024-07-23(화).md"
               }
             }
           }
@@ -176,6 +176,9 @@
   },
   "active": "c45841450d0e5a1b",
   "lastOpenFiles": [
+    "10. Planner/11. Daily/2024-07-24(수).md",
+    "10. Planner/11. Daily/2024-07-23(화).md",
+    "회사명.md",
     "10. Planner/11. Daily/2024-07-22(월).md",
     "10. Planner/11. Daily/2024-07-21(일).md",
     "10. Planner/12. Weekly/2024-W30.md",
@@ -204,9 +207,6 @@
     "30. Paper/Pasted image 20240519122802.png",
     "30. Paper/DDPM.md",
     "30. Paper/Auto-Encoding Variational Bayes.md",
-    "Tasks/7대3 회의.md",
-    "Templates/Weeekly_Note 템플릿.md",
-    "Templates/Tasks 필터링 구문.md",
     "40. Book/42. Book_note",
     "10. Planner/12. Weekly",
     "20. Study/딥러닝교과서/최적화",
