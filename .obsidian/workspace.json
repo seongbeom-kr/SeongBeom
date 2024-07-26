@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-25(목).md",
+                "file": "10. Planner/11. Daily/2024-07-26(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-25(목).md",
+                "file": "10. Planner/11. Daily/2024-07-26(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-25(목).md",
+                "file": "10. Planner/11. Daily/2024-07-26(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Planner/11. Daily/2024-07-25(목).md"
+                "file": "10. Planner/11. Daily/2024-07-26(금).md"
               }
             }
           }
@@ -164,8 +164,10 @@
   },
   "active": "556f04973ee038ed",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-24(수).md",
+    "Tasks/매일 반복해서 할 일.md",
+    "10. Planner/11. Daily/2024-07-26(금).md",
     "10. Planner/11. Daily/2024-07-25(목).md",
+    "10. Planner/11. Daily/2024-07-24(수).md",
     "10. Planner/11. Daily/2024-07-23(화).md",
     "50. Projects/51. 객체 팀플/일정 조율.md",
     "50. Projects/51. 객체 팀플/데이터베이스 구축.md",
@@ -193,8 +195,6 @@
     "20. Study/Dacon",
     "30. Paper/31. Musinsa/논문 결과 해석.md",
     "30. Paper/31. Musinsa",
-    "30. Paper/무제 파일.md",
-    "30. Paper/unet 정리.md",
     "30. Paper/Pasted image 20240519122802.png",
     "40. Book/42. Book_note",
     "10. Planner/12. Weekly",
