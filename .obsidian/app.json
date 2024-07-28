@@ -7,6 +7,6 @@
   "promptDelete": false,
   "showLineNumber": true,
   "trashOption": "system",
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "source"
 }
