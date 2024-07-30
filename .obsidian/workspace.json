@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b593f23aa11ac8ac",
+        "id": "ecdc5d921253322e",
         "type": "tabs",
         "children": [
           {
-            "id": "556f04973ee038ed",
+            "id": "2c96d93bde218992",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,10 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "556f04973ee038ed",
+  "active": "2c96d93bde218992",
   "lastOpenFiles": [
-    "10. Planner/11. Daily/2024-07-29(월).md",
     "10. Planner/11. Daily/2024-07-30(화).md",
+    "10. Planner/11. Daily/2024-07-29(월).md",
     "10. Planner/11. Daily/2024-07-28(일).md",
     "50. Projects/51. 객체 팀플/일정 조율.md",
     "Tasks/매일 반복해서 할 일.md",
