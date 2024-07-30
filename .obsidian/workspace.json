@@ -158,8 +158,7 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
-      "kr-book-info-plugin:Add Book Info": false,
-      "periodic-notes:Open today": false
+      "kr-book-info-plugin:Add Book Info": false
     }
   },
   "active": "2c96d93bde218992",
