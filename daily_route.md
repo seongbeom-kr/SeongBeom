@@ -7,7 +7,7 @@ Hrs of Exercise :
 
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
-number of columns: 5
+number of columns: 3
 ```
 
 ## 전날 계획
@@ -17,6 +17,11 @@ number of columns: 5
 
 ## 하루 기록
 
+test
+
 --- end-multi-column
+
+
+
 
 Text displayed below.
