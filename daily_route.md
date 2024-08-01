@@ -17,7 +17,13 @@ number of columns: 3
 
 ## test
 
---- end-
+--- end-column ---
+
+
+## 계획1
+--- end-column ---
+
+
 --- end-multi-column
 
 
