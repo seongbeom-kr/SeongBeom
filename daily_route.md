@@ -7,7 +7,7 @@ Hrs of Exercise :
 
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
-number of columns: 2  
+number of columns: 3
 largest column: left  
 ```
 
