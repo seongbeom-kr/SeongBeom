@@ -21,8 +21,11 @@ number of columns: 3
 test
 
 --- end-column ---
-## test
 
+## test
+--- start-multi-column:ExampleRegion2
+
+test
 
 --- end-multi-column
 
