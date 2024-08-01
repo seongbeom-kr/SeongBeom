@@ -1,13 +1,13 @@
 ## Daily Matrix
+Hrs of Sleep : 
+Hrs of Deep Learning :
+Hrs of Exercise :
 
-
-df
-f
 --- 
 
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
-number of columns: 2
+number of columns: 5
 ```
 
 ## 전날 계획
