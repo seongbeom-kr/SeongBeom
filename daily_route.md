@@ -2,16 +2,6 @@
 Hrs of Sleep : 
 Hrs of Deep Learning :
 Hrs of Exercise :
-
-
-Le meilleur est avenir!
-
-Date
-
-  
-
-텍스트가 컬럼 위에 표시됩니다.
-
   
 
 --- start-multi-column: daily-matrix
