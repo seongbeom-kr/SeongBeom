@@ -11,7 +11,6 @@ number of columns: 3
 ```
 
 ## 전날 계획
-- [ ] 
 
 --- end-column ---
 
@@ -21,6 +20,7 @@ number of columns: 3
 
 
 ## 계획1
+
 --- end-column ---
 
 
