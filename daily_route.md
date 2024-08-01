@@ -11,6 +11,7 @@ number of columns: 2
 largest column: left  
 ```
 
+
 Text displayed in column 1.
 
 --- end-column ---
