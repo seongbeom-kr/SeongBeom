@@ -3,22 +3,6 @@ Hrs of Sleep :
 Hrs of Deep Learning :
 Hrs of Exercise :
 
---- 
-
---- start-multi-column: ExampleRegion1  
-```column-settings  
-number of columns: 3
-largest column: left  
-```
-
-
-Text displayed in column 1.
-
---- end-column ---
-
-Text displayed in column 2.
-
---- end-multi-column
 
 Le meilleur est avenir!
 
@@ -47,23 +31,6 @@ largest column: left
 
   
 --- end-column ---
-
-  
-
-**Activities**
-
-  
-
-• Hrs of Sleep:
-
-• Hrs of Deep Learning:
-
-• Hrs of Exercise:
-
-  
-
---- end-column ---
-
   
 
 **Tasks Review**
@@ -77,11 +44,13 @@ largest column: left
 • [Others]
 
 • [Enlightening]
-
+--- end-column ---
   
 
 **Night Memo**
 
   
+--- end-column ---
+
 
 --- end-multi-column 
