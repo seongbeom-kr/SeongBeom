@@ -2,14 +2,15 @@ Text displayed above.
 
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
-number of columns: 3  
+number of columns: 2
 ```
 
-Text displayed in column 1.
+## 전날 계획
+
 
 --- end-column ---
 
-Text displayed in column 2.
+## 하루 기록
 
 --- end-multi-column
 
