@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Daily_Note 템플릿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e1a84a7f3997d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_route.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_route.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_route.md",
+                "file": "Templates/Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_route.md"
+                "file": "Templates/Daily_Note 템플릿.md"
               }
             }
           }
@@ -175,10 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e1a84a7f3997d67",
+  "active": "2c96d93bde218992",
   "lastOpenFiles": [
-    "회사명.md",
     "daily_route.md",
+    "회사명.md",
     "Templates/Daily_Note 템플릿.md",
     "10. Planner/11. Daily/2024-08-02(금).md",
     "읽을만한 글.md",

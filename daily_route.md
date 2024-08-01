@@ -18,7 +18,7 @@ largest column: left
   
 
 
-6|
+6 |
 7 |
 8 |
 9 | 
@@ -35,11 +35,13 @@ largest column: left
 20 | 
 21 | 
 22 | 
-23 | 24
+23 | 
+24 |
 
   
 --- end-column ---
-  
+
+--- start-column ---
 
 **Tasks Review**
 
