@@ -20,6 +20,9 @@ number of columns: 3
 
 test
 
+--- end-column ---
+## test
+
 
 --- end-multi-column
 
