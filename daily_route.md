@@ -15,21 +15,10 @@ number of columns: 3
 
 --- end-column ---
 
-## 하루 기록
---- start-multi-column:ExampleRegion2
-
-test
-
---- end-column ---
-
 ## test
---- start-multi-column:ExampleRegion2
 
-test
-
+--- end-
 --- end-multi-column
-
-
 
 
 Text displayed below.
