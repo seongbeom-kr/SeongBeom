@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
-                "mode": "preview",
+                "file": "daily_route.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "daily_route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md",
+                "file": "daily_route.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_Note 템플릿.md"
+                "file": "daily_route.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   },
   "active": "2c96d93bde218992",
   "lastOpenFiles": [
+    "Templates/Daily_Note 템플릿.md",
     "daily_route.md",
     "회사명.md",
-    "Templates/Daily_Note 템플릿.md",
     "10. Planner/11. Daily/2024-08-02(금).md",
     "읽을만한 글.md",
     "마크다운 정리법.md",

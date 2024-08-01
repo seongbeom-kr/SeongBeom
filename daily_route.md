@@ -10,7 +10,6 @@ Hrs of Exercise :
 
 number of columns: 3
 
-largest column: left
 ```
 
 **Daily Matrix**
@@ -41,7 +40,8 @@ largest column: left
   
 --- end-column ---
 
---- start-column ---
+
+
 
 **Tasks Review**
 
@@ -54,6 +54,9 @@ largest column: left
 • [Others]
 
 • [Enlightening]
+
+
+
 --- end-column ---
   
 
