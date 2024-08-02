@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_route.md",
+                "file": "10. Planner/11. Daily/2024-08-02(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_route.md",
+                "file": "10. Planner/11. Daily/2024-08-02(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_route.md",
+                "file": "10. Planner/11. Daily/2024-08-02(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_route.md"
+                "file": "10. Planner/11. Daily/2024-08-02(금).md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "2c96d93bde218992",
   "lastOpenFiles": [
-    "Templates/Daily_Note 템플릿.md",
     "daily_route.md",
+    "Templates/Daily_Note 템플릿.md",
     "회사명.md",
     "10. Planner/11. Daily/2024-08-02(금).md",
     "읽을만한 글.md",
